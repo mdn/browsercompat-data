@@ -1,0 +1,2183 @@
+{
+    "specifications": [
+        {
+            "id": "1",
+            "slug": "alarm_api",
+            "mdn_key": "Alarm API",
+            "name": {
+                "en": "Web Alarms API"
+            },
+            "uri": {
+                "en": "http://web-alarms.sysapps.org/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "2",
+            "slug": "ambientlight",
+            "mdn_key": "AmbientLight",
+            "name": {
+                "en": "Ambient Light Events"
+            },
+            "uri": {
+                "en": "http://dvcs.w3.org/hg/dap/raw-file/tip/light/Overview.html"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "3",
+            "slug": "battery_api",
+            "mdn_key": "Battery API",
+            "name": {
+                "en": "Battery Status API"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/battery-status/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "4",
+            "slug": "beacon",
+            "mdn_key": "Beacon",
+            "name": {
+                "en": "Beacon"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/beacon/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "5",
+            "slug": "css_masks",
+            "mdn_key": "CSS Masks",
+            "name": {
+                "en": "CSS Masking Level&nbsp;1"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/fxtf/css-masking-1/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "6",
+            "slug": "css_scope",
+            "mdn_key": "CSS Scope",
+            "name": {
+                "en": "CSS Scoping Module Level&nbsp;1"
+            },
+            "uri": {
+                "en": "http://drafts.csswg.org/css-scoping/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "7",
+            "slug": "css_shapes",
+            "mdn_key": "CSS Shapes",
+            "name": {
+                "en": "CSS Shapes Module Level&nbsp;1"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-shapes/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "8",
+            "slug": "css_will_change",
+            "mdn_key": "CSS Will Change",
+            "name": {
+                "en": "CSS Will Change Module Level&nbsp;1"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-will-change/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "9",
+            "slug": "css1",
+            "mdn_key": "CSS1",
+            "name": {
+                "en": "CSS Level&nbsp;1"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/CSS1/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "10",
+            "slug": "css2_1",
+            "mdn_key": "CSS2.1",
+            "name": {
+                "en": "CSS Level&nbsp;2 (Revision&nbsp;1)"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/CSS2/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "11",
+            "slug": "css3_animations",
+            "mdn_key": "CSS3 Animations",
+            "name": {
+                "en": "CSS Animations"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-animations/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "12",
+            "slug": "css3_backgrounds",
+            "mdn_key": "CSS3 Backgrounds",
+            "name": {
+                "en": "CSS Backgrounds and Borders Module Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-background/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "13",
+            "slug": "css3_basic_ui",
+            "mdn_key": "CSS3 Basic UI",
+            "name": {
+                "en": "CSS Basic User Interface Module Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-ui/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "14",
+            "slug": "css3_box",
+            "mdn_key": "CSS3 Box",
+            "name": {
+                "en": "CSS Basic Box Model"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-box/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "15",
+            "slug": "css3_box_alignment",
+            "mdn_key": "CSS3 Box Alignment",
+            "name": {
+                "en": "CSS Box Alignment Module"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-align/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "16",
+            "slug": "css3_cascade",
+            "mdn_key": "CSS3 Cascade",
+            "name": {
+                "en": "CSS Cascading and Inheritance Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-cascade/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "17",
+            "slug": "css3_colors",
+            "mdn_key": "CSS3 Colors",
+            "name": {
+                "en": "CSS Color Module Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-color/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "18",
+            "slug": "css3_conditional",
+            "mdn_key": "CSS3 Conditional",
+            "name": {
+                "en": "CSS Conditional Rules Module Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-conditional/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "19",
+            "slug": "css3_content",
+            "mdn_key": "CSS3 Content",
+            "name": {
+                "en": "CSS Generated Content Module Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-content/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "20",
+            "slug": "css3_counter_styles",
+            "mdn_key": "CSS3 Counter Styles",
+            "name": {
+                "en": "CSS Counter Styles Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-counter-styles-3/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "21",
+            "slug": "css3_device",
+            "mdn_key": "CSS3 Device",
+            "name": {
+                "en": "CSS Device Adaptation"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-device-adapt/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "22",
+            "slug": "css3_exclusions_and_shapes",
+            "mdn_key": "CSS3 Exclusions and Shapes",
+            "name": {
+                "en": "CSS Exclusions and Shapes Module Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-exclusions/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "23",
+            "slug": "css3_flexbox",
+            "mdn_key": "CSS3 Flexbox",
+            "name": {
+                "en": "CSS Flexible Box Layout Module"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-flexbox/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "24",
+            "slug": "css3_fonts",
+            "mdn_key": "CSS3 Fonts",
+            "name": {
+                "en": "CSS Fonts Module Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-fonts/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "25",
+            "slug": "css3_fragmentation",
+            "mdn_key": "CSS3 Fragmentation",
+            "name": {
+                "en": "CSS Fragmentation Module Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-break/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "26",
+            "slug": "css3_gcpm",
+            "mdn_key": "CSS3 GCPM",
+            "name": {
+                "en": "CSS Generated Content for Paged Media Module"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-gcpm/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "27",
+            "slug": "css3_grid",
+            "mdn_key": "CSS3 Grid",
+            "name": {
+                "en": "CSS Grid Layout"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-grid/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "28",
+            "slug": "css3_images",
+            "mdn_key": "CSS3 Images",
+            "name": {
+                "en": "CSS Image Values and Replaced Content Module Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-images/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "29",
+            "slug": "css3_lists",
+            "mdn_key": "CSS3 Lists",
+            "name": {
+                "en": "CSS Lists and Counters Module Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-lists/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "30",
+            "slug": "css3_media_queries",
+            "mdn_key": "CSS3 Media Queries",
+            "name": {
+                "en": "Media Queries"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-mediaqueries/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "31",
+            "slug": "css3_multicol",
+            "mdn_key": "CSS3 Multicol",
+            "name": {
+                "en": "CSS Multi-column Layout Module"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-multicol/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "32",
+            "slug": "css3_namespaces",
+            "mdn_key": "CSS3 Namespaces",
+            "name": {
+                "en": "CSS Namespaces Module"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-namespace/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "33",
+            "slug": "css3_overflow",
+            "mdn_key": "CSS3 Overflow",
+            "name": {
+                "en": "CSS Overflow Module Level 3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-overflow-3/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "34",
+            "slug": "css3_paged_media",
+            "mdn_key": "CSS3 Paged Media",
+            "name": {
+                "en": "CSS Paged Media Module Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-page/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "35",
+            "slug": "css3_positioning",
+            "mdn_key": "CSS3 Positioning",
+            "name": {
+                "en": "CSS Positioned Layout Module Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-position-3/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "36",
+            "slug": "css3_regions",
+            "mdn_key": "CSS3 Regions",
+            "name": {
+                "en": "CSS Regions Module Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-regions/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "37",
+            "slug": "css3_ruby",
+            "mdn_key": "CSS3 Ruby",
+            "name": {
+                "en": "CSS Ruby Layout Module Level&nbsp;1"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-ruby/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "38",
+            "slug": "css3_selectors",
+            "mdn_key": "CSS3 Selectors",
+            "name": {
+                "en": "Selectors Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/selectors3/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "39",
+            "slug": "css3_sizing",
+            "mdn_key": "CSS3 Sizing",
+            "name": {
+                "en": "CSS Intrinsic &amp; Extrinsic Sizing Module Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-sizing/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "40",
+            "slug": "css3_speech",
+            "mdn_key": "CSS3 Speech",
+            "name": {
+                "en": "CSS Speech Module"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-speech/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "41",
+            "slug": "css3_style",
+            "mdn_key": "CSS3 Style",
+            "name": {
+                "en": "CSS Style Attributes"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-style-attr/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "42",
+            "slug": "css3_text",
+            "mdn_key": "CSS3 Text",
+            "name": {
+                "en": "CSS Text Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-text/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "43",
+            "slug": "css3_text-decoration",
+            "mdn_key": "CSS3 Text-decoration",
+            "name": {
+                "en": "CSS Text-decoration Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-text-decor-3/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "44",
+            "slug": "css3_transforms",
+            "mdn_key": "CSS3 Transforms",
+            "name": {
+                "en": "CSS Transforms Level&nbsp;1"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-transforms/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "45",
+            "slug": "css3_transitions",
+            "mdn_key": "CSS3 Transitions",
+            "name": {
+                "en": "CSS Transitions"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-transitions/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "46",
+            "slug": "css3_values",
+            "mdn_key": "CSS3 Values",
+            "name": {
+                "en": "CSS Values and Units Module Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-values/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "47",
+            "slug": "css3_variables",
+            "mdn_key": "CSS3 Variables",
+            "name": {
+                "en": "CSS Custom Properties for Cascading Variables Module Level&nbsp;1"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-variables/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "48",
+            "slug": "css3_writing_modes",
+            "mdn_key": "CSS3 Writing Modes",
+            "name": {
+                "en": "CSS Writing Modes Module Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css3-writing-modes/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "49",
+            "slug": "css4_colors",
+            "mdn_key": "CSS4 Colors",
+            "name": {
+                "en": "CSS Color Module Level&nbsp;4"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-color/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "50",
+            "slug": "css4_images",
+            "mdn_key": "CSS4 Images",
+            "name": {
+                "en": "CSS Image Values and Replaced Content Module Level&nbsp;4"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css4-images/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "51",
+            "slug": "css4_media_queries",
+            "mdn_key": "CSS4 Media Queries",
+            "name": {
+                "en": "Media Queries Level&nbsp;4"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css4-mediaqueries/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "52",
+            "slug": "css4_selectors",
+            "mdn_key": "CSS4 Selectors",
+            "name": {
+                "en": "Selectors Level&nbsp;4"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/selectors4/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "53",
+            "slug": "css4_text",
+            "mdn_key": "CSS4 Text",
+            "name": {
+                "en": "CSS Text Level&nbsp;4"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css4-text/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "54",
+            "slug": "cssom",
+            "mdn_key": "CSSOM",
+            "name": {
+                "en": "CSS Object Model (CSSOM)"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/cssom/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "55",
+            "slug": "cssom_view",
+            "mdn_key": "CSSOM View",
+            "name": {
+                "en": "CSS Object Model (CSSOM) View Module"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/cssom-view/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "56",
+            "slug": "clipboard_api",
+            "mdn_key": "Clipboard API",
+            "name": {
+                "en": "Clipboard API"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/2006/webapi/clipops/clipops.html"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "57",
+            "slug": "compositing",
+            "mdn_key": "Compositing",
+            "name": {
+                "en": "Compositing and blending Level 1"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/fxtf/compositing-1/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "58",
+            "slug": "contacts",
+            "mdn_key": "Contacts",
+            "name": {
+                "en": "Contacts Manager API"
+            },
+            "uri": {
+                "en": "http://contacts-manager-api.sysapps.org/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "59",
+            "slug": "custom_elements",
+            "mdn_key": "Custom Elements",
+            "name": {
+                "en": "Custom Elements"
+            },
+            "uri": {
+                "en": "http://w3c.github.io/webcomponents/spec/custom/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "60",
+            "slug": "dom_parsing",
+            "mdn_key": "DOM Parsing",
+            "name": {
+                "en": "DOM Parsing and Serialization"
+            },
+            "uri": {
+                "en": "http://domparsing.spec.whatwg.org/"
+            },
+            "links": {
+                "maturity": "5",
+                "sections": []
+            }
+        },
+        {
+            "id": "61",
+            "slug": "dom_whatwg",
+            "mdn_key": "DOM WHATWG",
+            "name": {
+                "en": "DOM"
+            },
+            "uri": {
+                "en": "http://dom.spec.whatwg.org/"
+            },
+            "links": {
+                "maturity": "5",
+                "sections": []
+            }
+        },
+        {
+            "id": "62",
+            "slug": "dom1",
+            "mdn_key": "DOM1",
+            "name": {
+                "en": "Document Object Model (DOM) Level 1 Specification"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/REC-DOM-Level-1/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "63",
+            "slug": "dom2_core",
+            "mdn_key": "DOM2 Core",
+            "name": {
+                "en": "Document Object Model (DOM) Level 2 Core Specification"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/DOM-Level-2-Core/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "64",
+            "slug": "dom2_events",
+            "mdn_key": "DOM2 Events",
+            "name": {
+                "en": "Document Object Model (DOM) Level 2 Events Specification"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/DOM-Level-2-Events/events.html"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "65",
+            "slug": "dom2_html",
+            "mdn_key": "DOM2 HTML",
+            "name": {
+                "en": "Document Object Model (DOM) Level 2 HTML Specification"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/DOM-Level-2-HTML/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "66",
+            "slug": "dom2_style",
+            "mdn_key": "DOM2 Style",
+            "name": {
+                "en": "Document Object Model (DOM) Level 2 Style Specification"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/DOM-Level-2-Style/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "67",
+            "slug": "dom2_traversal_range",
+            "mdn_key": "DOM2 Traversal_Range",
+            "name": {
+                "en": "Document Object Model (DOM) Level 2 Traversal and Range Specification"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/DOM-Level-2-Traversal-Range/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "68",
+            "slug": "dom3_core",
+            "mdn_key": "DOM3 Core",
+            "name": {
+                "en": "Document Object Model (DOM) Level 3 Core Specification"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/DOM-Level-3-Core/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "69",
+            "slug": "dom3_events",
+            "mdn_key": "DOM3 Events",
+            "name": {
+                "en": "Document Object Model (DOM) Level 3 Events Specification"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/2006/webapi/DOM-Level-3-Events/html/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "70",
+            "slug": "dom3_xpath",
+            "mdn_key": "DOM3 XPath",
+            "name": {
+                "en": "Document Object Model (DOM) Level 3 XPath Specification"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/DOM-Level-3-XPath/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "71",
+            "slug": "dom4",
+            "mdn_key": "DOM4",
+            "name": {
+                "en": "DOM4"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/domcore/raw-file/tip/Overview.html"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "72",
+            "slug": "data_store_api",
+            "mdn_key": "Data Store API",
+            "name": {
+                "en": "Data Store API"
+            },
+            "uri": {
+                "en": "http://airpingu.github.io/data-store-api/index.html"
+            },
+            "links": {
+                "maturity": "6",
+                "sections": []
+            }
+        },
+        {
+            "id": "73",
+            "slug": "device_orientation",
+            "mdn_key": "Device Orientation",
+            "name": {
+                "en": "Device Orientation Events"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/geo/api/spec-source-orientation.html"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "74",
+            "slug": "eme",
+            "mdn_key": "EME",
+            "name": {
+                "en": "Encrypted Media Extensions"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/html-media/raw-file/tip/encrypted-media/encrypted-media.html"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "75",
+            "slug": "es_int_1_0",
+            "mdn_key": "ES Int 1.0",
+            "name": {
+                "en": "ECMAScript Internationalization API 1.0 (ECMA-402)"
+            },
+            "uri": {
+                "en": "http://www.ecma-international.org/ecma-402/1.0/"
+            },
+            "links": {
+                "maturity": "7",
+                "sections": []
+            }
+        },
+        {
+            "id": "76",
+            "slug": "es5_1",
+            "mdn_key": "ES5.1",
+            "name": {
+                "en": "ECMAScript 5.1 (ECMA-262)"
+            },
+            "uri": {
+                "en": "http://www.ecma-international.org/ecma-262/5.1/"
+            },
+            "links": {
+                "maturity": "7",
+                "sections": []
+            }
+        },
+        {
+            "id": "77",
+            "slug": "es6",
+            "mdn_key": "ES6",
+            "name": {
+                "en": "ECMAScript 6 (ECMA-262)"
+            },
+            "uri": {
+                "en": "http://people.mozilla.org/~jorendorff/es6-draft.html"
+            },
+            "links": {
+                "maturity": "6",
+                "sections": []
+            }
+        },
+        {
+            "id": "78",
+            "slug": "element_traversal",
+            "mdn_key": "Element Traversal",
+            "name": {
+                "en": "Element Traversal Specification"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/ElementTraversal/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "79",
+            "slug": "encoding",
+            "mdn_key": "Encoding",
+            "name": {
+                "en": "Encoding"
+            },
+            "uri": {
+                "en": "http://encoding.spec.whatwg.org/"
+            },
+            "links": {
+                "maturity": "5",
+                "sections": []
+            }
+        },
+        {
+            "id": "80",
+            "slug": "file_api",
+            "mdn_key": "File API",
+            "name": {
+                "en": "File API"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/2006/webapi/FileAPI/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "81",
+            "slug": "filesystem",
+            "mdn_key": "FileSystem",
+            "name": {
+                "en": "FileSystem API"
+            },
+            "uri": {
+                "en": "http://w3c.github.io/filesystem-api/Overview.html"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "82",
+            "slug": "filters_1_0",
+            "mdn_key": "Filters 1.0",
+            "name": {
+                "en": "Filter Effects Module Level 1"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/fxtf/filters/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "83",
+            "slug": "fullscreen",
+            "mdn_key": "Fullscreen",
+            "name": {
+                "en": "Fullscreen API"
+            },
+            "uri": {
+                "en": "http://fullscreen.spec.whatwg.org/"
+            },
+            "links": {
+                "maturity": "5",
+                "sections": []
+            }
+        },
+        {
+            "id": "84",
+            "slug": "gamepad",
+            "mdn_key": "Gamepad",
+            "name": {
+                "en": "Gamepad"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/gamepad/raw-file/default/gamepad.html"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "85",
+            "slug": "geolocation",
+            "mdn_key": "Geolocation",
+            "name": {
+                "en": "Geolocation API"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/geolocation-API/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "86",
+            "slug": "geometry_interfaces",
+            "mdn_key": "Geometry Interfaces",
+            "name": {
+                "en": "Geometry Interfaces Module Level 1"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/fxtf/geometry/Overview.html"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "87",
+            "slug": "html_canvas_2d_context_w3c",
+            "mdn_key": "HTML Canvas 2D Context W3C",
+            "name": {
+                "en": "HTML Canvas 2D Context (W3C)"
+            },
+            "uri": {
+                "en": "http://www.w3.org/html/wg/drafts/2dcontext/html5_canvas_CR/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "88",
+            "slug": "html_editing",
+            "mdn_key": "HTML Editing",
+            "name": {
+                "en": "HTML Editing APIs"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/editing/raw-file/tip/editing.html"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "89",
+            "slug": "html_imports",
+            "mdn_key": "HTML Imports",
+            "name": {
+                "en": "HTML Imports"
+            },
+            "uri": {
+                "en": "http://w3c.github.io/webcomponents/spec/imports/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "90",
+            "slug": "html_templates",
+            "mdn_key": "HTML Templates",
+            "name": {
+                "en": "HTML Templates"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/webcomponents/raw-file/tip/spec/templates/index.html"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "91",
+            "slug": "html_whatwg",
+            "mdn_key": "HTML WHATWG",
+            "name": {
+                "en": "WHATWG HTML Living Standard"
+            },
+            "uri": {
+                "en": "https://html.spec.whatwg.org/multipage/"
+            },
+            "links": {
+                "maturity": "5",
+                "sections": []
+            }
+        },
+        {
+            "id": "92",
+            "slug": "html4_01",
+            "mdn_key": "HTML4.01",
+            "name": {
+                "en": "HTML 4.01 Specification"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/html401/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "93",
+            "slug": "html5_w3c",
+            "mdn_key": "HTML5 W3C",
+            "name": {
+                "en": "HTML5"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/html5/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "94",
+            "slug": "html5_web_messaging",
+            "mdn_key": "HTML5 Web Messaging",
+            "name": {
+                "en": "HTML5 Web Messaging"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/html5/postmsg/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "95",
+            "slug": "html5_1",
+            "mdn_key": "HTML5.1",
+            "name": {
+                "en": "HTML5.1"
+            },
+            "uri": {
+                "en": "http://www.w3.org/html/wg/drafts/html/master/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "96",
+            "slug": "harmony",
+            "mdn_key": "Harmony",
+            "name": {
+                "en": "EcmaScript Language Specification Draft 6th Edition"
+            },
+            "uri": {
+                "en": "http://wiki.ecmascript.org/lib/exe/fetch.php?id=harmony%3Aspecification_drafts&cache=cache&media=harmony:working_draft_ecma-262_edition_6_11-08-13-nomarkup.pdf"
+            },
+            "links": {
+                "maturity": "6",
+                "sections": []
+            }
+        },
+        {
+            "id": "97",
+            "slug": "highres_time",
+            "mdn_key": "Highres Time",
+            "name": {
+                "en": "High Resolution Time"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/hr-time/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "98",
+            "slug": "indexeddb",
+            "mdn_key": "IndexedDB",
+            "name": {
+                "en": "Indexed Database API"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/IndexedDB/raw-file/tip/Overview.html"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "99",
+            "slug": "manifest",
+            "mdn_key": "Manifest",
+            "name": {
+                "en": "Manifest for web application"
+            },
+            "uri": {
+                "en": "https://w3c.github.io/manifest/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "100",
+            "slug": "mathml2",
+            "mdn_key": "MathML2",
+            "name": {
+                "en": "MathML 2.0"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/MathML2/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "101",
+            "slug": "mathml3",
+            "mdn_key": "MathML3",
+            "name": {
+                "en": "MathML 3.0"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/MathML3/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "102",
+            "slug": "media_capture",
+            "mdn_key": "Media Capture",
+            "name": {
+                "en": "Media Capture and Streams"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/2011/webrtc/editor/getusermedia.html"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "103",
+            "slug": "media_source_extensions",
+            "mdn_key": "Media Source Extensions",
+            "name": {
+                "en": "Media Source Extensions"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/html-media/raw-file/default/media-source/media-source.html"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "104",
+            "slug": "mediastream_recording",
+            "mdn_key": "MediaStream Recording",
+            "name": {
+                "en": "MediaStream Recording"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/dap/raw-file/default/media-stream-capture/MediaRecorder.html"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "105",
+            "slug": "messaging",
+            "mdn_key": "Messaging",
+            "name": {
+                "en": "Messaging API"
+            },
+            "uri": {
+                "en": "http://www.w3.org/2012/sysapps/messaging/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "106",
+            "slug": "navigation_timing",
+            "mdn_key": "Navigation Timing",
+            "name": {
+                "en": "Navigation Timing"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/2012/REC-navigation-timing-20121217/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "107",
+            "slug": "network_information",
+            "mdn_key": "Network Information",
+            "name": {
+                "en": "Network Information API"
+            },
+            "uri": {
+                "en": "http://w3c.github.io/netinfo/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "108",
+            "slug": "page_visibility_api",
+            "mdn_key": "Page Visibility API",
+            "name": {
+                "en": "Page Visibility API"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/page-visibility/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "109",
+            "slug": "pointer_events",
+            "mdn_key": "Pointer Events",
+            "name": {
+                "en": "Pointer Events"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/pointerevents/raw-file/tip/pointerEvents.html"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "110",
+            "slug": "pointer_lock",
+            "mdn_key": "Pointer Lock",
+            "name": {
+                "en": "Pointer Lock"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/pointerlock/raw-file/default/index.html"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "111",
+            "slug": "progress_events",
+            "mdn_key": "Progress Events",
+            "name": {
+                "en": "Progress Events"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/progress/raw-file/tip/Overview.html"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "112",
+            "slug": "proximity_events",
+            "mdn_key": "Proximity Events",
+            "name": {
+                "en": "Proximity Events"
+            },
+            "uri": {
+                "en": "http://dvcs.w3.org/hg/dap/raw-file/tip/proximity/Overview.html"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "113",
+            "slug": "push_api",
+            "mdn_key": "Push API",
+            "name": {
+                "en": "Push API"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/push/raw-file/default/index.html"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "114",
+            "slug": "requestanimationframe",
+            "mdn_key": "RequestAnimationFrame",
+            "name": {
+                "en": "Timing control for script-based animations"
+            },
+            "uri": {
+                "en": "http://w3c-test.org/webperf/specs/RequestAnimationFrame/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "115",
+            "slug": "svg1_1",
+            "mdn_key": "SVG1.1",
+            "name": {
+                "en": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/SVG11/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "116",
+            "slug": "svg2",
+            "mdn_key": "SVG2",
+            "name": {
+                "en": "Scalable Vector Graphics (SVG) 2"
+            },
+            "uri": {
+                "en": "https://svgwg.org/svg2-draft/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "117",
+            "slug": "screen_orientation",
+            "mdn_key": "Screen Orientation",
+            "name": {
+                "en": "Screen Orientation API"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/screen-orientation/raw-file/tip/Overview.html"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "118",
+            "slug": "selectors_api_level_1",
+            "mdn_key": "Selectors API Level 1",
+            "name": {
+                "en": "Selectors API Level 1"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/2006/webapi/selectors-api/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "119",
+            "slug": "selectors_api_level_2",
+            "mdn_key": "Selectors API Level 2",
+            "name": {
+                "en": "Selectors API Level 2"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/2006/webapi/selectors-api2/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "120",
+            "slug": "server-sent_events",
+            "mdn_key": "Server-sent events",
+            "name": {
+                "en": "Server-Sent Events"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/html5/eventsource/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "121",
+            "slug": "service_workers",
+            "mdn_key": "Service Workers",
+            "name": {
+                "en": "Service Workers"
+            },
+            "uri": {
+                "en": "http://slightlyoff.github.io/ServiceWorker/spec/service_worker/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "122",
+            "slug": "shadow_dom",
+            "mdn_key": "Shadow DOM",
+            "name": {
+                "en": "Shadow DOM"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/webcomponents/raw-file/tip/spec/shadow/index.html"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "123",
+            "slug": "telephony_api",
+            "mdn_key": "Telephony API",
+            "name": {
+                "en": "Web Telephony API"
+            },
+            "uri": {
+                "en": "http://telephony.sysapps.org/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "124",
+            "slug": "touch_events",
+            "mdn_key": "Touch Events",
+            "name": {
+                "en": "Touch Events version 1"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/webevents/raw-file/v1/touchevents.html"
+            },
+            "links": {
+                "maturity": "8",
+                "sections": []
+            }
+        },
+        {
+            "id": "125",
+            "slug": "typed_array",
+            "mdn_key": "Typed Array",
+            "name": {
+                "en": "Typed Array Specification"
+            },
+            "uri": {
+                "en": "http://www.khronos.org/registry/typedarray/specs/latest/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "126",
+            "slug": "ui_events",
+            "mdn_key": "UI Events",
+            "name": {
+                "en": "UI Events"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/d4e/raw-file/tip/source_respec.htm"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "127",
+            "slug": "url",
+            "mdn_key": "URL",
+            "name": {
+                "en": "URL"
+            },
+            "uri": {
+                "en": "http://url.spec.whatwg.org/"
+            },
+            "links": {
+                "maturity": "5",
+                "sections": []
+            }
+        },
+        {
+            "id": "128",
+            "slug": "undo_manager",
+            "mdn_key": "Undo Manager",
+            "name": {
+                "en": "UndoManager and DOMTransaction"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/undomanager/raw-file/tip/undomanager.html"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "129",
+            "slug": "vibration_api",
+            "mdn_key": "Vibration API",
+            "name": {
+                "en": "Vibration API"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/vibration/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "130",
+            "slug": "woff2_0",
+            "mdn_key": "WOFF2.0",
+            "name": {
+                "en": "WOFF File Format 2.0"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/webfonts/WOFF2/spec/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "131",
+            "slug": "web_animations",
+            "mdn_key": "Web Animations",
+            "name": {
+                "en": "Web Animations 1.0"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/fxtf/web-animations/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "132",
+            "slug": "web_audio_api",
+            "mdn_key": "Web Audio API",
+            "name": {
+                "en": "Web Audio API"
+            },
+            "uri": {
+                "en": "http://webaudio.github.io/web-audio-api/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "133",
+            "slug": "web_crypto_api",
+            "mdn_key": "Web Crypto API",
+            "name": {
+                "en": "Web Cryptography API"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/webcrypto-api/raw-file/tip/spec/Overview.html"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "134",
+            "slug": "web_notifications",
+            "mdn_key": "Web Notifications",
+            "name": {
+                "en": "Web Notifications"
+            },
+            "uri": {
+                "en": "https://notifications.spec.whatwg.org/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "135",
+            "slug": "web_speech_api",
+            "mdn_key": "Web Speech API",
+            "name": {
+                "en": "Web Speech API"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html"
+            },
+            "links": {
+                "maturity": "6",
+                "sections": []
+            }
+        },
+        {
+            "id": "136",
+            "slug": "web_storage",
+            "mdn_key": "Web Storage",
+            "name": {
+                "en": "Web Storage"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/html5/webstorage/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "137",
+            "slug": "web_telephony",
+            "mdn_key": "Web Telephony",
+            "name": {
+                "en": "Web Telephony API"
+            },
+            "uri": {
+                "en": "http://www.w3.org/2012/sysapps/telephony/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "138",
+            "slug": "web_workers",
+            "mdn_key": "Web Workers",
+            "name": {
+                "en": "Web Workers"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/html5/workers/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "139",
+            "slug": "webidl",
+            "mdn_key": "WebIDL",
+            "name": {
+                "en": "Web IDL (Second Edition)"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/2006/webapi/WebIDL/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "140",
+            "slug": "webrtc_1_0",
+            "mdn_key": "WebRTC 1.0",
+            "name": {
+                "en": "WebRTC 1.0: Real-time Communication Between Browser"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/2011/webrtc/editor/webrtc.html"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "141",
+            "slug": "webvtt",
+            "mdn_key": "WebVTT",
+            "name": {
+                "en": "WebVTT: The Web Video Text Tracks Format"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/html5/webvtt/"
+            },
+            "links": {
+                "maturity": "6",
+                "sections": []
+            }
+        },
+        {
+            "id": "142",
+            "slug": "websockets",
+            "mdn_key": "Websockets",
+            "name": {
+                "en": "The WebSocket API"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/html5/websockets/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "143",
+            "slug": "xmlhttprequest",
+            "mdn_key": "XMLHttpRequest",
+            "name": {
+                "en": "XMLHttpRequest"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/xhr/raw-file/tip/Overview.html"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "144",
+            "slug": "vcard",
+            "mdn_key": "vCard",
+            "name": {
+                "en": "vCard Format Specification"
+            },
+            "uri": {
+                "en": "http://tools.ietf.org/html/rfc6350"
+            },
+            "links": {
+                "maturity": "9",
+                "sections": []
+            }
+        }
+    ],
+    "links": {
+        "specifications.maturity": {
+            "type": "maturities",
+            "href": "http://browsercompat.herokuapp.com/api/v1/maturities/{specifications.maturity}"
+        },
+        "specifications.sections": {
+            "type": "sections",
+            "href": "http://browsercompat.herokuapp.com/api/v1/sections/{specifications.sections}"
+        }
+    },
+    "meta": {
+        "pagination": {
+            "specifications": {
+                "previous": null,
+                "next": null,
+                "count": 144
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "supports": [],
+    "meta": {
+        "pagination": {
+            "supports": {
+                "previous": null,
+                "next": null,
+                "count": 0
+            }
+        }
+    }
+}
