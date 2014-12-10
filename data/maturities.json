@@ -4,10 +4,10 @@
             "id": "1",
             "slug": "WD",
             "name": {
-                "ja": "\u8349\u6848",
+                "en": "Working Draft",
                 "de": "Arbeitsentwurf",
-                "ru": "\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0447\u0435\u0440\u043d\u043e\u0432\u0438\u043a",
-                "en": "Working Draft"
+                "ja": "\u8349\u6848",
+                "ru": "\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0447\u0435\u0440\u043d\u043e\u0432\u0438\u043a"
             },
             "links": {
                 "specifications": [
@@ -80,10 +80,10 @@
             "id": "2",
             "slug": "CR",
             "name": {
-                "ja": "\u52e7\u544a\u5019\u88dc",
+                "en": "Candidate Recommendation",
                 "de": "Anw\u00e4rter Empfehlung",
-                "ru": "\u041a\u0430\u043d\u0434\u0438\u0434\u0430\u0442 \u0432 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438",
-                "en": "Candidate Recommendation"
+                "ja": "\u52e7\u544a\u5019\u88dc",
+                "ru": "\u041a\u0430\u043d\u0434\u0438\u0434\u0430\u0442 \u0432 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438"
             },
             "links": {
                 "specifications": [
@@ -121,10 +121,10 @@
             "id": "3",
             "slug": "ED",
             "name": {
-                "ja": "\u52e7\u544a\u6539\u8a02\u6848",
+                "en": "Editor's Draft",
                 "de": "Bearbeiterentwurf",
-                "ru": "\u0420\u0435\u0434\u0430\u043a\u0442\u043e\u0440\u0441\u043a\u0438\u0439 \u0447\u0435\u0440\u043d\u043e\u0432\u0438\u043a",
-                "en": "Editor's Draft"
+                "ja": "\u52e7\u544a\u6539\u8a02\u6848",
+                "ru": "\u0420\u0435\u0434\u0430\u043a\u0442\u043e\u0440\u0441\u043a\u0438\u0439 \u0447\u0435\u0440\u043d\u043e\u0432\u0438\u043a"
             },
             "links": {
                 "specifications": [
@@ -148,10 +148,10 @@
             "id": "4",
             "slug": "REC",
             "name": {
-                "ja": "\u52e7\u544a",
+                "en": "Recommendation",
                 "de": "Empfehlung",
-                "ru": "\u0420\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u044f",
-                "en": "Recommendation"
+                "ja": "\u52e7\u544a",
+                "ru": "\u0420\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u044f"
             },
             "links": {
                 "specifications": [
@@ -189,9 +189,9 @@
             "id": "5",
             "slug": "Living",
             "name": {
+                "en": "Living Standard",
                 "de": "Lebender Standard",
-                "ru": "\u0416\u0438\u0432\u043e\u0439 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442",
-                "en": "Living Standard"
+                "ru": "\u0416\u0438\u0432\u043e\u0439 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442"
             },
             "links": {
                 "specifications": [
@@ -208,10 +208,10 @@
             "id": "6",
             "slug": "Draft",
             "name": {
-                "ja": "\u30c9\u30e9\u30d5\u30c8",
+                "en": "Draft",
                 "de": "Entwurf",
-                "ru": "\u0427\u0435\u0440\u043d\u043e\u0432\u0438\u043a",
-                "en": "Draft"
+                "ja": "\u30c9\u30e9\u30d5\u30c8",
+                "ru": "\u0427\u0435\u0440\u043d\u043e\u0432\u0438\u043a"
             },
             "links": {
                 "specifications": [
@@ -227,9 +227,9 @@
             "id": "7",
             "slug": "Standard",
             "name": {
+                "en": "Standard",
                 "de": "Standard",
-                "ru": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442",
-                "en": "Standard"
+                "ru": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442"
             },
             "links": {
                 "specifications": [
@@ -242,10 +242,10 @@
             "id": "8",
             "slug": "PR",
             "name": {
-                "ja": "\u52e7\u544a\u6848",
+                "en": "Proposed Recommendation",
                 "de": "Vorgeschlagene Empfehlung",
-                "ru": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u043d\u0430\u044f \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u044f",
-                "en": "Proposed Recommendation"
+                "ja": "\u52e7\u544a\u6848",
+                "ru": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u043d\u0430\u044f \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u044f"
             },
             "links": {
                 "specifications": [
