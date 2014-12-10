@@ -1,11 +1,79 @@
 {
-    "sections": [],
+    "sections": [
+        {
+            "id": "1",
+            "number": {
+                "en": "16"
+            },
+            "name": {
+                "en": "The float property"
+            },
+            "subpath": {
+                "en": "#the-float-property"
+            },
+            "note": {
+                "en": "Lots of new values, not all clearly defined yet. Any differences in behavior unrelated to new features are expected to be unintentional; please report."
+            },
+            "links": {
+                "specification": "14",
+                "features": []
+            }
+        },
+        {
+            "id": "2",
+            "number": {
+                "en": "5.5.25"
+            },
+            "name": {
+                "en": "'float'"
+            },
+            "subpath": {
+                "en": "#float"
+            },
+            "note": {
+                "en": "Initial definition."
+            },
+            "links": {
+                "specification": "9",
+                "features": []
+            }
+        },
+        {
+            "id": "3",
+            "number": {
+                "en": "9.5.1"
+            },
+            "name": {
+                "en": "Positioning the float: the 'float' property"
+            },
+            "subpath": {
+                "en": "visuren.html#float-position"
+            },
+            "note": {
+                "en": "No change."
+            },
+            "links": {
+                "specification": "10",
+                "features": []
+            }
+        }
+    ],
+    "links": {
+        "sections.specification": {
+            "type": "specifications",
+            "href": "http://browsercompat.herokuapp.com/api/v1/specifications/{sections.specification}"
+        },
+        "sections.features": {
+            "type": "features",
+            "href": "http://browsercompat.herokuapp.com/api/v1/features/{sections.features}"
+        }
+    },
     "meta": {
         "pagination": {
             "sections": {
                 "previous": null,
                 "next": null,
-                "count": 0
+                "count": 3
             }
         }
     }

@@ -1,11 +1,192 @@
 {
-    "supports": [],
+    "supports": [
+        {
+            "id": "1",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "footnote": null,
+            "links": {
+                "version": "2",
+                "feature": "1136"
+            }
+        },
+        {
+            "id": "2",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "footnote": null,
+            "links": {
+                "version": "21",
+                "feature": "1136"
+            }
+        },
+        {
+            "id": "3",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "footnote": null,
+            "links": {
+                "version": "68",
+                "feature": "1136"
+            }
+        },
+        {
+            "id": "4",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "footnote": null,
+            "links": {
+                "version": "98",
+                "feature": "1136"
+            }
+        },
+        {
+            "id": "5",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "footnote": null,
+            "links": {
+                "version": "140",
+                "feature": "1136"
+            }
+        },
+        {
+            "id": "6",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "footnote": null,
+            "links": {
+                "version": "156",
+                "feature": "1136"
+            }
+        },
+        {
+            "id": "7",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "footnote": null,
+            "links": {
+                "version": "176",
+                "feature": "1136"
+            }
+        },
+        {
+            "id": "8",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "footnote": null,
+            "links": {
+                "version": "236",
+                "feature": "1136"
+            }
+        },
+        {
+            "id": "9",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "footnote": null,
+            "links": {
+                "version": "247",
+                "feature": "1136"
+            }
+        },
+        {
+            "id": "10",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "footnote": null,
+            "links": {
+                "version": "255",
+                "feature": "1136"
+            }
+        }
+    ],
+    "links": {
+        "supports.version": {
+            "type": "versions",
+            "href": "http://browsercompat.herokuapp.com/api/v1/versions/{supports.version}"
+        },
+        "supports.feature": {
+            "type": "features",
+            "href": "http://browsercompat.herokuapp.com/api/v1/features/{supports.feature}"
+        }
+    },
     "meta": {
         "pagination": {
             "supports": {
                 "previous": null,
                 "next": null,
-                "count": 0
+                "count": 10
             }
         }
     }

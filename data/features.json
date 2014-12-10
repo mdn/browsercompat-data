@@ -15688,6 +15688,38 @@
                 "sections": [],
                 "supports": [],
                 "parent": "581",
+                "children": [
+                    "1136"
+                ]
+            }
+        },
+        {
+            "id": "1136",
+            "slug": "web-css-float_basic-support",
+            "mdn_uri": null,
+            "experimental": false,
+            "standardized": true,
+            "stable": true,
+            "obsolete": false,
+            "name": {
+                "en": "Basic Support",
+                "ja": "\u57fa\u672c\u30b5\u30dd\u30fc\u30c8"
+            },
+            "links": {
+                "sections": [],
+                "supports": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "parent": "741",
                 "children": []
             }
         },
@@ -23835,7 +23867,7 @@
             "features": {
                 "previous": null,
                 "next": null,
-                "count": 1135
+                "count": 1136
             }
         }
     }

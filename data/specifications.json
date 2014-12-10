@@ -132,7 +132,9 @@
             },
             "links": {
                 "maturity": "4",
-                "sections": []
+                "sections": [
+                    "2"
+                ]
             }
         },
         {
@@ -147,7 +149,9 @@
             },
             "links": {
                 "maturity": "4",
-                "sections": []
+                "sections": [
+                    "3"
+                ]
             }
         },
         {
@@ -203,11 +207,13 @@
                 "en": "CSS Basic Box Model"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-box/"
+                "en": "http://dev.w3.org/csswg/css-box/"
             },
             "links": {
                 "maturity": "1",
-                "sections": []
+                "sections": [
+                    "1"
+                ]
             }
         },
         {

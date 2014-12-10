@@ -25,7 +25,9 @@
             "order": 1,
             "links": {
                 "browser": "1",
-                "supports": []
+                "supports": [
+                    "1"
+                ]
             }
         },
         {
@@ -291,7 +293,9 @@
             "order": 1,
             "links": {
                 "browser": "3",
-                "supports": []
+                "supports": [
+                    "2"
+                ]
             }
         },
         {
@@ -949,7 +953,9 @@
             "order": 1,
             "links": {
                 "browser": "6",
-                "supports": []
+                "supports": [
+                    "3"
+                ]
             }
         },
         {
@@ -1653,7 +1659,9 @@
             "order": 1,
             "links": {
                 "browser": "7",
-                "supports": []
+                "supports": [
+                    "4"
+                ]
             }
         },
         {
@@ -2241,7 +2249,9 @@
             "order": 3,
             "links": {
                 "browser": "9",
-                "supports": []
+                "supports": [
+                    "5"
+                ]
             }
         },
         {
@@ -2465,7 +2475,9 @@
             "order": 5,
             "links": {
                 "browser": "10",
-                "supports": []
+                "supports": [
+                    "6"
+                ]
             }
         },
         {
@@ -2745,7 +2757,9 @@
             "order": 10,
             "links": {
                 "browser": "11",
-                "supports": []
+                "supports": [
+                    "7"
+                ]
             }
         },
         {
@@ -3585,7 +3599,9 @@
             "order": 1,
             "links": {
                 "browser": "14",
-                "supports": []
+                "supports": [
+                    "8"
+                ]
             }
         },
         {
@@ -3739,7 +3755,9 @@
             "order": 12,
             "links": {
                 "browser": "14",
-                "supports": []
+                "supports": [
+                    "9"
+                ]
             }
         },
         {
@@ -3851,7 +3869,9 @@
             "order": 1,
             "links": {
                 "browser": "15",
-                "supports": []
+                "supports": [
+                    "10"
+                ]
             }
         },
         {
