@@ -279,7 +279,10 @@
             "order": 0,
             "links": {
                 "browser": "3",
-                "supports": []
+                "supports": [
+                    "11",
+                    "20"
+                ]
             }
         },
         {
@@ -1059,7 +1062,9 @@
             "order": 5,
             "links": {
                 "browser": "6",
-                "supports": []
+                "supports": [
+                    "13"
+                ]
             }
         },
         {
@@ -1241,7 +1246,9 @@
             "order": 13,
             "links": {
                 "browser": "6",
-                "supports": []
+                "supports": [
+                    "21"
+                ]
             }
         },
         {
@@ -1371,7 +1378,10 @@
             "order": 19,
             "links": {
                 "browser": "6",
-                "supports": []
+                "supports": [
+                    "12",
+                    "22"
+                ]
             }
         },
         {
@@ -2519,7 +2529,9 @@
             "order": 8,
             "links": {
                 "browser": "10",
-                "supports": []
+                "supports": [
+                    "15"
+                ]
             }
         },
         {
@@ -2575,7 +2587,9 @@
             "order": 12,
             "links": {
                 "browser": "10",
-                "supports": []
+                "supports": [
+                    "16"
+                ]
             }
         },
         {
@@ -2589,7 +2603,10 @@
             "order": 13,
             "links": {
                 "browser": "10",
-                "supports": []
+                "supports": [
+                    "14",
+                    "23"
+                ]
             }
         },
         {
@@ -2617,7 +2634,9 @@
             "order": 0,
             "links": {
                 "browser": "11",
-                "supports": []
+                "supports": [
+                    "24"
+                ]
             }
         },
         {
@@ -2885,7 +2904,9 @@
             "order": 19,
             "links": {
                 "browser": "11",
-                "supports": []
+                "supports": [
+                    "17"
+                ]
             }
         },
         {
@@ -3109,7 +3130,9 @@
             "order": 35,
             "links": {
                 "browser": "11",
-                "supports": []
+                "supports": [
+                    "18"
+                ]
             }
         },
         {
@@ -3263,7 +3286,9 @@
             "order": 0,
             "links": {
                 "browser": "13",
-                "supports": []
+                "supports": [
+                    "25"
+                ]
             }
         },
         {
@@ -3585,7 +3610,9 @@
             "order": 0,
             "links": {
                 "browser": "14",
-                "supports": []
+                "supports": [
+                    "26"
+                ]
             }
         },
         {
@@ -3685,7 +3712,9 @@
             "order": 7,
             "links": {
                 "browser": "14",
-                "supports": []
+                "supports": [
+                    "19"
+                ]
             }
         },
         {

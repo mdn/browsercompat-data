@@ -17831,7 +17831,10 @@
             "id": "847",
             "slug": "web-css-transform-origin",
             "mdn_uri": {
-                "en": "https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin"
+                "en": "https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin",
+                "es": "https://developer.mozilla.org/es/docs/Web/CSS/transform-origin",
+                "fr": "https://developer.mozilla.org/fr/docs/Web/CSS/transform-origin",
+                "ja": "https://developer.mozilla.org/ja/docs/Web/CSS/transform-origin"
             },
             "experimental": false,
             "standardized": true,
@@ -17844,6 +17847,68 @@
                 "sections": [],
                 "supports": [],
                 "parent": "581",
+                "children": [
+                    "1137",
+                    "1138"
+                ]
+            }
+        },
+        {
+            "id": "1137",
+            "slug": "web-css-transform-origin-basic-support",
+            "mdn_uri": null,
+            "experimental": false,
+            "standardized": true,
+            "stable": true,
+            "obsolete": false,
+            "name": {
+                "en": "Basic Support",
+                "es": "Soporte b\u00e1sico",
+                "fr": "Support de base",
+                "ja": "\u57fa\u672c\u30b5\u30dd\u30fc\u30c8"
+            },
+            "links": {
+                "sections": [],
+                "supports": [
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19"
+                ],
+                "parent": "847",
+                "children": []
+            }
+        },
+        {
+            "id": "1138",
+            "slug": "web-css-transform-three-value-syntax",
+            "mdn_uri": null,
+            "experimental": false,
+            "standardized": true,
+            "stable": true,
+            "obsolete": false,
+            "name": {
+                "en": "Three-value syntax",
+                "es": "Sintaxis con tres valores",
+                "ja": "3-\u5024\u69cb\u6587"
+            },
+            "links": {
+                "sections": [],
+                "supports": [
+                    "20",
+                    "21",
+                    "22",
+                    "23",
+                    "24",
+                    "25",
+                    "26"
+                ],
+                "parent": "847",
                 "children": []
             }
         },
@@ -23871,7 +23936,7 @@
             "features": {
                 "previous": null,
                 "next": null,
-                "count": 1136
+                "count": 1138
             }
         }
     }
