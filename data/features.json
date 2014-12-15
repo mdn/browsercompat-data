@@ -15675,7 +15675,11 @@
             "id": "741",
             "slug": "web-css-float",
             "mdn_uri": {
-                "en": "https://developer.mozilla.org/en-US/docs/Web/CSS/float"
+                "en": "https://developer.mozilla.org/en-US/docs/Web/CSS/float",
+                "de": "https://developer.mozilla.org/de/docs/Web/CSS/float",
+                "es": "https://developer.mozilla.org/es/docs/Web/CSS/float",
+                "ja": "https://developer.mozilla.org/ja/docs/Web/CSS/float",
+                "ru": "https://developer.mozilla.org/ru/docs/Web/CSS/float"
             },
             "experimental": false,
             "standardized": true,
