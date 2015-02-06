@@ -116,7 +116,7 @@
                 "en": "http://dev.w3.org/csswg/css-will-change/"
             },
             "links": {
-                "maturity": "3",
+                "maturity": "1",
                 "sections": []
             }
         },
@@ -207,7 +207,7 @@
                 "en": "CSS Basic Box Model"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-box/"
+                "en": "http://dev.w3.org/csswg/css3-box/"
             },
             "links": {
                 "maturity": "1",
@@ -315,21 +315,6 @@
             },
             "uri": {
                 "en": "http://dev.w3.org/csswg/css-device-adapt/"
-            },
-            "links": {
-                "maturity": "1",
-                "sections": []
-            }
-        },
-        {
-            "id": "22",
-            "slug": "css3_exclusions_and_shapes",
-            "mdn_key": "CSS3 Exclusions and Shapes",
-            "name": {
-                "en": "CSS Exclusions and Shapes Module Level&nbsp;3"
-            },
-            "uri": {
-                "en": "http://dev.w3.org/csswg/css3-exclusions/"
             },
             "links": {
                 "maturity": "1",
@@ -637,21 +622,6 @@
             }
         },
         {
-            "id": "43",
-            "slug": "css3_text-decoration",
-            "mdn_key": "CSS3 Text-decoration",
-            "name": {
-                "en": "CSS Text-decoration Level&nbsp;3"
-            },
-            "uri": {
-                "en": "http://dev.w3.org/csswg/css-text-decor-3/"
-            },
-            "links": {
-                "maturity": "2",
-                "sections": []
-            }
-        },
-        {
             "id": "44",
             "slug": "css3_transforms",
             "mdn_key": "CSS3 Transforms",
@@ -724,7 +694,7 @@
                 "en": "http://dev.w3.org/csswg/css3-writing-modes/"
             },
             "links": {
-                "maturity": "1",
+                "maturity": "2",
                 "sections": []
             }
         },
@@ -1036,7 +1006,7 @@
                 "en": "Document Object Model (DOM) Level 3 Events Specification"
             },
             "uri": {
-                "en": "http://dev.w3.org/2006/webapi/DOM-Level-3-Events/html/"
+                "en": "https://dvcs.w3.org/hg/dom3events/raw-file/tip/html/DOM3-Events.html"
             },
             "links": {
                 "maturity": "1",
@@ -1639,7 +1609,7 @@
                 "en": "https://dvcs.w3.org/hg/pointerevents/raw-file/tip/pointerEvents.html"
             },
             "links": {
-                "maturity": "2",
+                "maturity": "8",
                 "sections": []
             }
         },
@@ -1804,7 +1774,7 @@
                 "en": "http://dev.w3.org/html5/eventsource/"
             },
             "links": {
-                "maturity": "2",
+                "maturity": "4",
                 "sections": []
             }
         },
@@ -1819,7 +1789,7 @@
                 "en": "http://slightlyoff.github.io/ServiceWorker/spec/service_worker/"
             },
             "links": {
-                "maturity": "3",
+                "maturity": "1",
                 "sections": []
             }
         },
@@ -1831,7 +1801,7 @@
                 "en": "Shadow DOM"
             },
             "uri": {
-                "en": "https://dvcs.w3.org/hg/webcomponents/raw-file/tip/spec/shadow/index.html"
+                "en": "http://w3c.github.io/webcomponents/spec/shadow/"
             },
             "links": {
                 "maturity": "1",
@@ -1939,7 +1909,7 @@
                 "en": "http://www.w3.org/TR/vibration/"
             },
             "links": {
-                "maturity": "2",
+                "maturity": "8",
                 "sections": []
             }
         },
@@ -1999,7 +1969,7 @@
                 "en": "https://dvcs.w3.org/hg/webcrypto-api/raw-file/tip/spec/Overview.html"
             },
             "links": {
-                "maturity": "1",
+                "maturity": "2",
                 "sections": []
             }
         },
@@ -2167,16 +2137,226 @@
                 "maturity": "9",
                 "sections": []
             }
+        },
+        {
+            "id": "145",
+            "slug": "csp_1_0",
+            "mdn_key": "CSP 1.0",
+            "name": {
+                "en": "Content Security Policy 1.0"
+            },
+            "uri": {
+                "en": "https://dvcs.w3.org/hg/content-security-policy/raw-file/tip/csp-1.0-specification.html"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "146",
+            "slug": "csp_1_1",
+            "mdn_key": "CSP 1.1",
+            "name": {
+                "en": "Content Security Policy"
+            },
+            "uri": {
+                "en": "https://w3c.github.io/webappsec/specs/content-security-policy/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "147",
+            "slug": "css_exclusions",
+            "mdn_key": "CSS Exclusions",
+            "name": {
+                "en": "CSS Exclusions Module Level&nbsp;1"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-exclusions/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "148",
+            "slug": "css_line_grid",
+            "mdn_key": "CSS Line Grid",
+            "name": {
+                "en": "CSS Line Grid Module Level&nbsp;1"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-line-grid/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "149",
+            "slug": "css_logical_properties",
+            "mdn_key": "CSS Logical Properties",
+            "name": {
+                "en": "CSS Logical Properties Level&nbsp;1"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-logical-props/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "150",
+            "slug": "css_non-element_selectors",
+            "mdn_key": "CSS Non-element Selectors",
+            "name": {
+                "en": "Non-element Selectors Module Level&nbsp;1"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/selectors-nonelement/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "151",
+            "slug": "css3_display",
+            "mdn_key": "CSS3 Display",
+            "name": {
+                "en": "CSS Display Module Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-display/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "152",
+            "slug": "css3_font_loading",
+            "mdn_key": "CSS3 Font Loading",
+            "name": {
+                "en": "CSS Font Loading Module Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-font-loading/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "153",
+            "slug": "css3_inline",
+            "mdn_key": "CSS3 Inline",
+            "name": {
+                "en": "CSS Inline Layout"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-inline/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "154",
+            "slug": "css3_syntax",
+            "mdn_key": "CSS3 Syntax",
+            "name": {
+                "en": "CSS Syntax Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-syntax/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "155",
+            "slug": "css3_text_decoration",
+            "mdn_key": "CSS3 Text Decoration",
+            "name": {
+                "en": "CSS Text Decoration Level&nbsp;3"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-text-decor-3/"
+            },
+            "links": {
+                "maturity": "2",
+                "sections": []
+            }
+        },
+        {
+            "id": "156",
+            "slug": "css4_pseudo-elements",
+            "mdn_key": "CSS4 Pseudo-Elements",
+            "name": {
+                "en": "CSS Pseudo-Elements Level&nbsp;4"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-pseudo-4/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "157",
+            "slug": "referrer_policy",
+            "mdn_key": "Referrer Policy",
+            "name": {
+                "en": "Referrer Policy"
+            },
+            "uri": {
+                "en": "http://w3c.github.io/webappsec/specs/referrer-policy/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "158",
+            "slug": "woff1_0",
+            "mdn_key": "WOFF1.0",
+            "name": {
+                "en": "WOFF File Format 1.0"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/WOFF/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
         }
     ],
     "links": {
         "specifications.maturity": {
             "type": "maturities",
-            "href": "http://browsercompat.herokuapp.com/api/v1/maturities/{specifications.maturity}"
+            "href": "https://browsercompat.herokuapp.com/api/v1/maturities/{specifications.maturity}"
         },
         "specifications.sections": {
             "type": "sections",
-            "href": "http://browsercompat.herokuapp.com/api/v1/sections/{specifications.sections}"
+            "href": "https://browsercompat.herokuapp.com/api/v1/sections/{specifications.sections}"
         }
     },
     "meta": {
@@ -2184,7 +2364,7 @@
             "specifications": {
                 "previous": null,
                 "next": null,
-                "count": 144
+                "count": 156
             }
         }
     }

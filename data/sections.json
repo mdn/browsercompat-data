@@ -16,7 +16,9 @@
             },
             "links": {
                 "specification": "14",
-                "features": []
+                "features": [
+                    "741"
+                ]
             }
         },
         {
@@ -35,7 +37,9 @@
             },
             "links": {
                 "specification": "9",
-                "features": []
+                "features": [
+                    "741"
+                ]
             }
         },
         {
@@ -54,7 +58,9 @@
             },
             "links": {
                 "specification": "10",
-                "features": []
+                "features": [
+                    "741"
+                ]
             }
         },
         {
@@ -71,18 +77,20 @@
             "note": null,
             "links": {
                 "specification": "44",
-                "features": []
+                "features": [
+                    "847"
+                ]
             }
         }
     ],
     "links": {
         "sections.specification": {
             "type": "specifications",
-            "href": "http://browsercompat.herokuapp.com/api/v1/specifications/{sections.specification}"
+            "href": "https://browsercompat.herokuapp.com/api/v1/specifications/{sections.specification}"
         },
         "sections.features": {
             "type": "features",
-            "href": "http://browsercompat.herokuapp.com/api/v1/features/{sections.features}"
+            "href": "https://browsercompat.herokuapp.com/api/v1/features/{sections.features}"
         }
     },
     "meta": {

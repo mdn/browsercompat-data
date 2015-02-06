@@ -23922,19 +23922,19 @@
     "links": {
         "features.sections": {
             "type": "sections",
-            "href": "http://browsercompat.herokuapp.com/api/v1/sections/{features.sections}"
+            "href": "https://browsercompat.herokuapp.com/api/v1/sections/{features.sections}"
         },
         "features.supports": {
             "type": "supports",
-            "href": "http://browsercompat.herokuapp.com/api/v1/supports/{features.supports}"
+            "href": "https://browsercompat.herokuapp.com/api/v1/supports/{features.supports}"
         },
         "features.parent": {
             "type": "features",
-            "href": "http://browsercompat.herokuapp.com/api/v1/features/{features.parent}"
+            "href": "https://browsercompat.herokuapp.com/api/v1/features/{features.parent}"
         },
         "features.children": {
             "type": "features",
-            "href": "http://browsercompat.herokuapp.com/api/v1/features/{features.children}"
+            "href": "https://browsercompat.herokuapp.com/api/v1/features/{features.children}"
         }
     },
     "meta": {

@@ -4269,8 +4269,8 @@
             "id": "275",
             "version": "34.0",
             "release_day": "2014-12-01",
-            "retirement_day": null,
-            "status": "current",
+            "retirement_day": "2015-01-12",
+            "status": "retired",
             "release_notes_uri": {
                 "en": "https://developer.mozilla.org/en/Firefox/Releases/34",
                 "de": "https://developer.mozilla.org/de/Firefox/Releases/34",
@@ -4316,16 +4316,64 @@
                 "browser": "6",
                 "supports": []
             }
+        },
+        {
+            "id": "277",
+            "version": "35.0",
+            "release_day": "2015-01-13",
+            "retirement_day": null,
+            "status": "current",
+            "release_notes_uri": {
+                "en": "https://developer.mozilla.org/en-US/Firefox/Releases/35"
+            },
+            "note": null,
+            "order": 38,
+            "links": {
+                "browser": "6",
+                "supports": []
+            }
+        },
+        {
+            "id": "278",
+            "version": "36.0",
+            "release_day": null,
+            "retirement_day": null,
+            "status": "future",
+            "release_notes_uri": {
+                "en": "https://developer.mozilla.org/en-US/Firefox/Releases/36"
+            },
+            "note": null,
+            "order": 39,
+            "links": {
+                "browser": "6",
+                "supports": []
+            }
+        },
+        {
+            "id": "279",
+            "version": "37.0",
+            "release_day": null,
+            "retirement_day": null,
+            "status": "future",
+            "release_notes_uri": {
+                "en": "https://developer.mozilla.org/en-US/Firefox/Releases/36"
+            },
+            "note": null,
+            "order": 40,
+            "links": {
+                "browser": "6",
+                "supports": []
+            }
         }
     ],
     "links": {
         "versions.browser": {
             "type": "browsers",
-            "href": "http://browsercompat.herokuapp.com/api/v1/browsers/{versions.browser}"
+            "href": "https://browsercompat.herokuapp.com/api/v1/browsers/{versions.browser}"
         },
         "versions.supports": {
             "type": "supports",
-            "href": "http://browsercompat.herokuapp.com/api/v1/supports/{versions.supports}"
+            "href": "https://browsercompat.herokuapp.com/api/v1/supports/{versions.supports}"
         }
     },
     "meta": {
@@ -4333,7 +4381,7 @@
             "versions": {
                 "previous": null,
                 "next": null,
-                "count": 274
+                "count": 277
             }
         }
     }

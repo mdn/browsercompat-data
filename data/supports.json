@@ -451,11 +451,11 @@
     "links": {
         "supports.version": {
             "type": "versions",
-            "href": "http://browsercompat.herokuapp.com/api/v1/versions/{supports.version}"
+            "href": "https://browsercompat.herokuapp.com/api/v1/versions/{supports.version}"
         },
         "supports.feature": {
             "type": "features",
-            "href": "http://browsercompat.herokuapp.com/api/v1/features/{supports.feature}"
+            "href": "https://browsercompat.herokuapp.com/api/v1/features/{supports.feature}"
         }
     },
     "meta": {
