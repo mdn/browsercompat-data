@@ -6,6 +6,7 @@
             "name": {
                 "en": "Working Draft",
                 "de": "Arbeitsentwurf",
+                "fr": "Version de travail",
                 "ja": "\u8349\u6848",
                 "ru": "\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0447\u0435\u0440\u043d\u043e\u0432\u0438\u043a"
             },
@@ -52,9 +53,9 @@
                     "80",
                     "82",
                     "84",
-                    "86",
                     "90",
                     "95",
+                    "99",
                     "103",
                     "104",
                     "113",
@@ -62,24 +63,23 @@
                     "116",
                     "117",
                     "119",
-                    "121",
                     "122",
                     "125",
                     "126",
                     "130",
-                    "131",
                     "132",
                     "134",
                     "140",
-                    "143",
-                    "146",
                     "147",
                     "148",
                     "150",
                     "151",
                     "152",
                     "153",
-                    "156"
+                    "156",
+                    "164",
+                    "165",
+                    "166"
                 ]
             }
         },
@@ -89,6 +89,7 @@
             "name": {
                 "en": "Candidate Recommendation",
                 "de": "Anw\u00e4rter Empfehlung",
+                "fr": "Candidat au statut de recommandation",
                 "ja": "\u52e7\u544a\u5019\u88dc",
                 "ru": "\u041a\u0430\u043d\u0434\u0438\u0434\u0430\u0442 \u0432 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438"
             },
@@ -108,6 +109,7 @@
                     "46",
                     "48",
                     "57",
+                    "86",
                     "87",
                     "94",
                     "98",
@@ -120,6 +122,7 @@
                     "139",
                     "142",
                     "145",
+                    "146",
                     "154",
                     "155"
                 ]
@@ -131,6 +134,7 @@
             "name": {
                 "en": "Editor's Draft",
                 "de": "Bearbeiterentwurf",
+                "fr": "Brouillon de l'\u00e9diteur",
                 "ja": "\u52e7\u544a\u6539\u8a02\u6848",
                 "ru": "\u0420\u0435\u0434\u0430\u043a\u0442\u043e\u0440\u0441\u043a\u0438\u0439 \u0447\u0435\u0440\u043d\u043e\u0432\u0438\u043a"
             },
@@ -141,14 +145,17 @@
                     "81",
                     "88",
                     "89",
-                    "99",
                     "105",
                     "107",
+                    "121",
                     "123",
                     "128",
+                    "131",
                     "137",
                     "149",
-                    "157"
+                    "157",
+                    "160",
+                    "163"
                 ]
             }
         },
@@ -158,6 +165,7 @@
             "name": {
                 "en": "Recommendation",
                 "de": "Empfehlung",
+                "fr": "Recommendation",
                 "ja": "\u52e7\u544a",
                 "ru": "\u0420\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u044f"
             },
@@ -187,11 +195,13 @@
                     "101",
                     "106",
                     "108",
+                    "109",
                     "115",
                     "118",
                     "120",
                     "136",
-                    "158"
+                    "158",
+                    "159"
                 ]
             }
         },
@@ -201,6 +211,7 @@
             "name": {
                 "en": "Living Standard",
                 "de": "Lebender Standard",
+                "fr": "Standard \u00e9volutif",
                 "ru": "\u0416\u0438\u0432\u043e\u0439 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442"
             },
             "links": {
@@ -210,7 +221,9 @@
                     "79",
                     "83",
                     "91",
-                    "127"
+                    "127",
+                    "143",
+                    "162"
                 ]
             }
         },
@@ -220,16 +233,18 @@
             "name": {
                 "en": "Draft",
                 "de": "Entwurf",
+                "fr": "Projet",
                 "ja": "\u30c9\u30e9\u30d5\u30c8",
                 "ru": "\u0427\u0435\u0440\u043d\u043e\u0432\u0438\u043a"
             },
             "links": {
                 "specifications": [
                     "72",
-                    "77",
                     "96",
                     "135",
-                    "141"
+                    "141",
+                    "161",
+                    "167"
                 ]
             }
         },
@@ -239,6 +254,7 @@
             "name": {
                 "en": "Standard",
                 "de": "Standard",
+                "fr": "Standard",
                 "ru": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442"
             },
             "links": {
@@ -254,12 +270,12 @@
             "name": {
                 "en": "Proposed Recommendation",
                 "de": "Vorgeschlagene Empfehlung",
+                "fr": "Recommendation propos\u00e9e",
                 "ja": "\u52e7\u544a\u6848",
                 "ru": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u043d\u0430\u044f \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u044f"
             },
             "links": {
                 "specifications": [
-                    "109",
                     "124",
                     "129"
                 ]
@@ -276,6 +292,22 @@
                     "144"
                 ]
             }
+        },
+        {
+            "id": "10",
+            "slug": "RC",
+            "name": {
+                "en": "Release Candidate",
+                "de": "Anw\u00e4rter Empfehlung",
+                "fr": "En cours de validation comme recommandation",
+                "ja": "\u52e7\u544a\u5019\u88dc",
+                "ru": "\u041a\u0430\u043d\u0434\u0438\u0434\u0430\u0442 \u0432 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438"
+            },
+            "links": {
+                "specifications": [
+                    "77"
+                ]
+            }
         }
     ],
     "links": {
@@ -289,7 +321,7 @@
             "maturities": {
                 "previous": null,
                 "next": null,
-                "count": 9
+                "count": 10
             }
         }
     }

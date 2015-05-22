@@ -11,7 +11,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "2",
                 "feature": "1136"
@@ -28,7 +27,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "21",
                 "feature": "1136"
@@ -45,7 +43,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "68",
                 "feature": "1136"
@@ -62,7 +59,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "98",
                 "feature": "1136"
@@ -79,7 +75,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "140",
                 "feature": "1136"
@@ -96,7 +91,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "156",
                 "feature": "1136"
@@ -113,7 +107,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "176",
                 "feature": "1136"
@@ -130,7 +123,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "236",
                 "feature": "1136"
@@ -147,7 +139,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "247",
                 "feature": "1136"
@@ -164,7 +155,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "255",
                 "feature": "1136"
@@ -181,7 +171,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "20",
                 "feature": "1137"
@@ -198,7 +187,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "86",
                 "feature": "1137"
@@ -215,7 +203,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "74",
                 "feature": "1137"
@@ -232,7 +219,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "164",
                 "feature": "1137"
@@ -248,8 +234,7 @@
             "requires_config": null,
             "default_config": null,
             "protected": false,
-            "note": null,
-            "footnote": {
+            "note": {
                 "en": "Internet Explorer 5.5 or later supports a proprietary <a href=\"http://msdn.microsoft.com/en-us/library/ms533014%28VS.85,loband%29.aspx\" title=\"Matrix Filter\">Matrix Filter</a> which can be used to achieve similar effects.",
                 "es": "Internet Explorer 5.5 o versiones posteriores soportan la propiedad <a href=\"http://msdn.microsoft.com/en-us/library/ms533014%28VS.85,loband%29.aspx\" title=\"Matrix Filter\">Matrix Filter</a> que puede ser usada para lograr efectos similares.",
                 "fr": "Internet Explorer 5.5 ou plus supporte un <a href=\"http://msdn.microsoft.com/en-us/library/ms533014%28VS.85,loband%29.aspx\" title=\"Matrix Filter\">Matrix Filter</a> propri\u00e9taire qui permet d'obtenir l'effet similaire.",
@@ -271,7 +256,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "163",
                 "feature": "1137"
@@ -288,7 +272,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "185",
                 "feature": "1137"
@@ -305,7 +288,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "201",
                 "feature": "1137"
@@ -322,7 +304,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "242",
                 "feature": "1137"
@@ -339,7 +320,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "20",
                 "feature": "1138"
@@ -356,7 +336,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "81",
                 "feature": "1138"
@@ -373,7 +352,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "86",
                 "feature": "1138"
@@ -390,7 +368,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "164",
                 "feature": "1138"
@@ -407,7 +384,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "166",
                 "feature": "1138"
@@ -424,7 +400,6 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "212",
                 "feature": "1138"
@@ -441,10 +416,1223 @@
             "default_config": null,
             "protected": false,
             "note": null,
-            "footnote": null,
             "links": {
                 "version": "235",
                 "feature": "1138"
+            }
+        },
+        {
+            "id": "27",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "7",
+                "feature": "1139"
+            }
+        },
+        {
+            "id": "28",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "25",
+                "feature": "1139"
+            }
+        },
+        {
+            "id": "29",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "76",
+                "feature": "1139"
+            }
+        },
+        {
+            "id": "30",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "102",
+                "feature": "1139"
+            }
+        },
+        {
+            "id": "31",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "147",
+                "feature": "1139"
+            }
+        },
+        {
+            "id": "32",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "163",
+                "feature": "1139"
+            }
+        },
+        {
+            "id": "33",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "195",
+                "feature": "1139"
+            }
+        },
+        {
+            "id": "34",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "223",
+                "feature": "1139"
+            }
+        },
+        {
+            "id": "35",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "245",
+                "feature": "1139"
+            }
+        },
+        {
+            "id": "36",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "262",
+                "feature": "1139"
+            }
+        },
+        {
+            "id": "37",
+            "support": "no",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "20",
+                "feature": "1141"
+            }
+        },
+        {
+            "id": "38",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": {
+                "en": "In Firefox 36, it the preference governing this feature was off by default."
+            },
+            "links": {
+                "version": "279",
+                "feature": "1141"
+            }
+        },
+        {
+            "id": "39",
+            "support": "no",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "151",
+                "feature": "1141"
+            }
+        },
+        {
+            "id": "40",
+            "support": "no",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "166",
+                "feature": "1141"
+            }
+        },
+        {
+            "id": "41",
+            "support": "no",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "235",
+                "feature": "1141"
+            }
+        },
+        {
+            "id": "42",
+            "support": "yes",
+            "prefix": "-webkit",
+            "prefix_mandatory": true,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "41",
+                "feature": "1142"
+            }
+        },
+        {
+            "id": "43",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": {
+                "en": "To activate flexbox support, for Firefox 18 and 19, the user has to change the about:config preference \"layout.css.flexbox.enabled\" to <code>true</code>. Multi-line flexbox are supported since Firefox 28."
+            },
+            "links": {
+                "version": "268",
+                "feature": "1142"
+            }
+        },
+        {
+            "id": "44",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "89",
+                "feature": "1142"
+            }
+        },
+        {
+            "id": "45",
+            "support": "no",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "151",
+                "feature": "1142"
+            }
+        },
+        {
+            "id": "46",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "202",
+                "feature": "1142"
+            }
+        },
+        {
+            "id": "47",
+            "support": "no",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "235",
+                "feature": "1142"
+            }
+        },
+        {
+            "id": "48",
+            "support": "no",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "67",
+                "feature": "1143"
+            }
+        },
+        {
+            "id": "49",
+            "support": "yes",
+            "prefix": "-ms",
+            "prefix_mandatory": true,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "164",
+                "feature": "1143"
+            }
+        },
+        {
+            "id": "50",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "21",
+                "feature": "1144"
+            }
+        },
+        {
+            "id": "51",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "73",
+                "feature": "1144"
+            }
+        },
+        {
+            "id": "52",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": {
+                "en": "Natural inline elements only"
+            },
+            "links": {
+                "version": "159",
+                "feature": "1144"
+            }
+        },
+        {
+            "id": "53",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "176",
+                "feature": "1144"
+            }
+        },
+        {
+            "id": "54",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "236",
+                "feature": "1144"
+            }
+        },
+        {
+            "id": "55",
+            "support": "yes",
+            "prefix": "-webkit",
+            "prefix_mandatory": true,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "41",
+                "feature": "1145"
+            }
+        },
+        {
+            "id": "56",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": {
+                "en": "To activate flexbox support, for Firefox 18 and 19, the user has to change the about:config preference \"layout.css.flexbox.enabled\" to <code>true</code>. Multi-line flexbox are supported since Firefox 28."
+            },
+            "links": {
+                "version": "268",
+                "feature": "1145"
+            }
+        },
+        {
+            "id": "57",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "89",
+                "feature": "1145"
+            }
+        },
+        {
+            "id": "58",
+            "support": "no",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "151",
+                "feature": "1145"
+            }
+        },
+        {
+            "id": "59",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "202",
+                "feature": "1145"
+            }
+        },
+        {
+            "id": "60",
+            "support": "no",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "235",
+                "feature": "1145"
+            }
+        },
+        {
+            "id": "61",
+            "support": "no",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "67",
+                "feature": "1146"
+            }
+        },
+        {
+            "id": "62",
+            "support": "yes",
+            "prefix": "-ms",
+            "prefix_mandatory": true,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "164",
+                "feature": "1146"
+            }
+        },
+        {
+            "id": "63",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "21",
+                "feature": "1147"
+            }
+        },
+        {
+            "id": "64",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "73",
+                "feature": "1147"
+            }
+        },
+        {
+            "id": "65",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "162",
+                "feature": "1147"
+            }
+        },
+        {
+            "id": "66",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "176",
+                "feature": "1147"
+            }
+        },
+        {
+            "id": "67",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "236",
+                "feature": "1147"
+            }
+        },
+        {
+            "id": "68",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "21",
+                "feature": "1148"
+            }
+        },
+        {
+            "id": "69",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "68",
+                "feature": "1148"
+            }
+        },
+        {
+            "id": "70",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "160",
+                "feature": "1148"
+            }
+        },
+        {
+            "id": "71",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "176",
+                "feature": "1148"
+            }
+        },
+        {
+            "id": "72",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "236",
+                "feature": "1148"
+            }
+        },
+        {
+            "id": "73",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "21",
+                "feature": "1149"
+            }
+        },
+        {
+            "id": "74",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "68",
+                "feature": "1149"
+            }
+        },
+        {
+            "id": "75",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "156",
+                "feature": "1149"
+            }
+        },
+        {
+            "id": "76",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "176",
+                "feature": "1149"
+            }
+        },
+        {
+            "id": "77",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "236",
+                "feature": "1149"
+            }
+        },
+        {
+            "id": "78",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": {
+                "en": "CSS Ruby support is behind pref \"layout.css.ruby.enabled\". The user has to change this pref to true to activate this."
+            },
+            "links": {
+                "version": "275",
+                "feature": "1150"
+            }
+        },
+        {
+            "id": "79",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": {
+                "en": "Not before inline-elements"
+            },
+            "links": {
+                "version": "21",
+                "feature": "1151"
+            }
+        },
+        {
+            "id": "80",
+            "support": "no",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "52",
+                "feature": "1151"
+            }
+        },
+        {
+            "id": "81",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "24",
+                "feature": "1151"
+            }
+        },
+        {
+            "id": "82",
+            "support": "no",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "67",
+                "feature": "1151"
+            }
+        },
+        {
+            "id": "83",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "162",
+                "feature": "1151"
+            }
+        },
+        {
+            "id": "84",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "176",
+                "feature": "1151"
+            }
+        },
+        {
+            "id": "85",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": {
+                "en": "Not before inline-elements"
+            },
+            "links": {
+                "version": "236",
+                "feature": "1151"
+            }
+        },
+        {
+            "id": "86",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "246",
+                "feature": "1151"
+            }
+        },
+        {
+            "id": "87",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "21",
+                "feature": "1152"
+            }
+        },
+        {
+            "id": "88",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "68",
+                "feature": "1152"
+            }
+        },
+        {
+            "id": "89",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "162",
+                "feature": "1152"
+            }
+        },
+        {
+            "id": "90",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "176",
+                "feature": "1152"
+            }
+        },
+        {
+            "id": "91",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "236",
+                "feature": "1152"
+            }
+        },
+        {
+            "id": "92",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "1",
+                "feature": "1153"
+            }
+        },
+        {
+            "id": "93",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "21",
+                "feature": "1153"
+            }
+        },
+        {
+            "id": "94",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "68",
+                "feature": "1153"
+            }
+        },
+        {
+            "id": "95",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "98",
+                "feature": "1153"
+            }
+        },
+        {
+            "id": "96",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "137",
+                "feature": "1153"
+            }
+        },
+        {
+            "id": "97",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "151",
+                "feature": "1153"
+            }
+        },
+        {
+            "id": "98",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "166",
+                "feature": "1153"
+            }
+        },
+        {
+            "id": "99",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "212",
+                "feature": "1153"
+            }
+        },
+        {
+            "id": "100",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "235",
+                "feature": "1153"
+            }
+        },
+        {
+            "id": "101",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "254",
+                "feature": "1153"
             }
         }
     ],
@@ -463,7 +1651,7 @@
             "supports": {
                 "previous": null,
                 "next": null,
-                "count": 26
+                "count": 101
             }
         }
     }

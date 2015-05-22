@@ -81,6 +81,215 @@
                     "847"
                 ]
             }
+        },
+        {
+            "id": "5",
+            "number": null,
+            "name": {
+                "en": "&lt;header&gt;"
+            },
+            "subpath": {
+                "en": "sections.html#the-header-element"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "91",
+                "features": [
+                    "935"
+                ]
+            }
+        },
+        {
+            "id": "6",
+            "number": null,
+            "name": {
+                "en": "&lt;header&gt;"
+            },
+            "subpath": {
+                "en": "sections.html#the-header-element"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "93",
+                "features": [
+                    "935"
+                ]
+            }
+        },
+        {
+            "id": "7",
+            "number": null,
+            "name": {
+                "en": "display"
+            },
+            "subpath": {
+                "en": "#display"
+            },
+            "note": {
+                "en": "Basic values: <code>none</code>, <code>block</code>, <code>inline</code>, and <code>list-item</code>."
+            },
+            "links": {
+                "specification": "9",
+                "features": [
+                    "730"
+                ]
+            }
+        },
+        {
+            "id": "8",
+            "number": null,
+            "name": {
+                "en": "display"
+            },
+            "subpath": {
+                "en": "visuren.html#display-prop"
+            },
+            "note": {
+                "en": "Added the table model values and <code>inline-block<em>.</em></code>"
+            },
+            "links": {
+                "specification": "10",
+                "features": [
+                    "730"
+                ]
+            }
+        },
+        {
+            "id": "9",
+            "number": null,
+            "name": {
+                "en": "display"
+            },
+            "subpath": {
+                "en": "#display"
+            },
+            "note": {
+                "en": "Added the <code>run-in</code> and <code>contents</code> values."
+            },
+            "links": {
+                "specification": "151",
+                "features": [
+                    "730"
+                ]
+            }
+        },
+        {
+            "id": "10",
+            "number": null,
+            "name": {
+                "en": "display"
+            },
+            "subpath": {
+                "en": "#flex-containers"
+            },
+            "note": {
+                "en": "Added the flexible box model values."
+            },
+            "links": {
+                "specification": "23",
+                "features": [
+                    "730"
+                ]
+            }
+        },
+        {
+            "id": "11",
+            "number": null,
+            "name": {
+                "en": "display"
+            },
+            "subpath": {
+                "en": "#grid-declaration0"
+            },
+            "note": {
+                "en": "Added the grid box model values."
+            },
+            "links": {
+                "specification": "27",
+                "features": [
+                    "730"
+                ]
+            }
+        },
+        {
+            "id": "12",
+            "number": null,
+            "name": {
+                "en": "display"
+            },
+            "subpath": {
+                "en": "#display"
+            },
+            "note": {
+                "en": "Added the <code>ruby</code>, <code>ruby-base</code>, <code>ruby-text</code>, <code>ruby-base-container</code>, and <code>ruby-text-container </code>"
+            },
+            "links": {
+                "specification": "37",
+                "features": [
+                    "730"
+                ]
+            }
+        },
+        {
+            "id": "13",
+            "number": null,
+            "name": {
+                "en": "&lt;p&gt;"
+            },
+            "subpath": {
+                "en": "grouping-content.html#the-p-element"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "91",
+                "features": [
+                    "965"
+                ]
+            }
+        },
+        {
+            "id": "14",
+            "number": null,
+            "name": {
+                "en": "&lt;p&gt;"
+            },
+            "subpath": {
+                "en": "struct/text.html#h-9.3.1"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "92",
+                "features": [
+                    "965"
+                ]
+            }
+        },
+        {
+            "id": "15",
+            "number": null,
+            "name": {
+                "en": "&lt;p&gt;"
+            },
+            "subpath": {
+                "en": "grouping-content.html#the-p-element"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "93",
+                "features": [
+                    "965"
+                ]
+            }
         }
     ],
     "links": {
@@ -98,7 +307,7 @@
             "sections": {
                 "previous": null,
                 "next": null,
-                "count": 4
+                "count": 15
             }
         }
     }
