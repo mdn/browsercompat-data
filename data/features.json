@@ -93263,7 +93263,6 @@
                 "supports": [],
                 "parent": "1157",
                 "children": [
-                    "4464",
                     "4465",
                     "4466",
                     "4467",
@@ -93534,24 +93533,6 @@
                     "4732",
                     "4733"
                 ]
-            }
-        },
-        {
-            "id": "4464",
-            "slug": "web_events_",
-            "mdn_uri": {
-                "en": "https://developer.mozilla.org/en-US/docs/Web/Events/"
-            },
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": "onconnected",
-            "links": {
-                "sections": [],
-                "supports": [],
-                "parent": "4463",
-                "children": []
             }
         },
         {
@@ -101709,9 +101690,9 @@
                 "supports": [],
                 "parent": "1157",
                 "children": [
-                    "4958",
                     "4890",
                     "4891",
+                    "4958",
                     "4887",
                     "4888",
                     "4889",
@@ -102797,8 +102778,8 @@
                 "supports": [],
                 "parent": "4886",
                 "children": [
-                    "4957",
                     "4956",
+                    "4957",
                     "4942",
                     "4943",
                     "4944",
@@ -124924,7 +124905,7 @@
             "features": {
                 "previous": null,
                 "next": null,
-                "count": 6043
+                "count": 6042
             }
         }
     }
