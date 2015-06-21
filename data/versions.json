@@ -5201,6 +5201,56 @@
                 "browser": "10",
                 "supports": []
             }
+        },
+        {
+            "id": "332",
+            "version": "nightly",
+            "release_day": null,
+            "retirement_day": null,
+            "status": "future",
+            "release_notes_uri": null,
+            "note": {
+                "en": "Available at https://nightly.mozilla.org"
+            },
+            "order": 45,
+            "links": {
+                "browser": "6",
+                "supports": []
+            }
+        },
+        {
+            "id": "333",
+            "version": "nightly",
+            "release_day": null,
+            "retirement_day": null,
+            "status": "future",
+            "release_notes_uri": {
+                "en": "https://wiki.mozilla.org/Mobile/Platforms/Android#Download_Fennec_Nightly_Builds"
+            },
+            "note": {
+                "en": "Available at https://nightly.mozilla.org"
+            },
+            "order": 43,
+            "links": {
+                "browser": "7",
+                "supports": []
+            }
+        },
+        {
+            "id": "334",
+            "version": "nightly",
+            "release_day": null,
+            "retirement_day": null,
+            "status": "future",
+            "release_notes_uri": null,
+            "note": {
+                "en": "Available at http://nightly.webkit.org"
+            },
+            "order": 19,
+            "links": {
+                "browser": "14",
+                "supports": []
+            }
         }
     ],
     "links": {
@@ -5218,7 +5268,7 @@
             "versions": {
                 "previous": null,
                 "next": null,
-                "count": 329
+                "count": 332
             }
         }
     }
