@@ -1131,13 +1131,13 @@
             "slug": "es6",
             "mdn_key": "ES6",
             "name": {
-                "en": "ECMAScript 6 (ECMA-262)"
+                "en": "ECMAScript 2015 (6th Edition, ECMA-262)"
             },
             "uri": {
-                "en": "http://people.mozilla.org/~jorendorff/es6-draft.html"
+                "en": "http://www.ecma-international.org/ecma-262/6.0/"
             },
             "links": {
-                "maturity": "10",
+                "maturity": "7",
                 "sections": []
             }
         },
@@ -1317,7 +1317,7 @@
                 "en": "http://w3c.github.io/webcomponents/spec/imports/"
             },
             "links": {
-                "maturity": "3",
+                "maturity": "1",
                 "sections": []
             }
         },
@@ -1400,7 +1400,7 @@
                 "en": "http://dev.w3.org/html5/postmsg/"
             },
             "links": {
-                "maturity": "2",
+                "maturity": "4",
                 "sections": []
             }
         },
@@ -1805,7 +1805,7 @@
                 "en": "http://slightlyoff.github.io/ServiceWorker/spec/service_worker/"
             },
             "links": {
-                "maturity": "3",
+                "maturity": "1",
                 "sections": []
             }
         },
@@ -1832,10 +1832,10 @@
                 "en": "Web Telephony API"
             },
             "uri": {
-                "en": "http://telephony.sysapps.org/"
+                "en": "https://wiki.mozilla.org/WebAPI/WebTelephony"
             },
             "links": {
-                "maturity": "3",
+                "maturity": "6",
                 "sections": []
             }
         },
@@ -1865,7 +1865,7 @@
                 "en": "http://www.khronos.org/registry/typedarray/specs/latest/"
             },
             "links": {
-                "maturity": "1",
+                "maturity": "11",
                 "sections": []
             }
         },
@@ -1922,10 +1922,10 @@
                 "en": "Vibration API"
             },
             "uri": {
-                "en": "http://www.w3.org/TR/vibration/"
+                "en": "http://dev.w3.org/2009/dap/vibration/"
             },
             "links": {
-                "maturity": "8",
+                "maturity": "4",
                 "sections": []
             }
         },
@@ -1955,7 +1955,7 @@
                 "en": "https://w3c.github.io/web-animations/"
             },
             "links": {
-                "maturity": "3",
+                "maturity": "1",
                 "sections": []
             }
         },
@@ -1994,13 +1994,13 @@
             "slug": "web_notifications",
             "mdn_key": "Web Notifications",
             "name": {
-                "en": "Web Notifications"
+                "en": "Notifications API"
             },
             "uri": {
                 "en": "https://notifications.spec.whatwg.org/"
             },
             "links": {
-                "maturity": "1",
+                "maturity": "5",
                 "sections": []
             }
         },
@@ -2039,13 +2039,13 @@
             "slug": "web_telephony",
             "mdn_key": "Web Telephony",
             "name": {
-                "en": "Web Telephony API"
+                "en": "Web Telephony"
             },
             "uri": {
-                "en": "http://www.w3.org/2012/sysapps/telephony/"
+                "en": "https://wiki.mozilla.org/WebAPI/WebTelephony"
             },
             "links": {
-                "maturity": "3",
+                "maturity": "6",
                 "sections": []
             }
         },
@@ -2392,7 +2392,7 @@
                 "en": "http://dev.w3.org/csswg/css-snappoints/"
             },
             "links": {
-                "maturity": "3",
+                "maturity": "1",
                 "sections": []
             }
         },
@@ -2407,7 +2407,7 @@
                 "en": "http://www.ecma-international.org/ecma-402/2.0/"
             },
             "links": {
-                "maturity": "6",
+                "maturity": "7",
                 "sections": []
             }
         },
@@ -2530,6 +2530,66 @@
                 "maturity": "7",
                 "sections": []
             }
+        },
+        {
+            "id": "170",
+            "slug": "media_capture_dom_elements",
+            "mdn_key": "Media Capture DOM Elements",
+            "name": {
+                "en": "Media Capture from DOM Elements"
+            },
+            "uri": {
+                "en": "https://w3c.github.io/mediacapture-fromelement/index.html"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "171",
+            "slug": "web_bluetooth",
+            "mdn_key": "Web Bluetooth",
+            "name": {
+                "en": "Web Bluetooth"
+            },
+            "uri": {
+                "en": "https://wiki.mozilla.org/B2G/Bluetooth/WebBluetooth-v2"
+            },
+            "links": {
+                "maturity": "6",
+                "sections": []
+            }
+        },
+        {
+            "id": "172",
+            "slug": "webgl",
+            "mdn_key": "WebGL",
+            "name": {
+                "en": "WebGL 1.0"
+            },
+            "uri": {
+                "en": "https://www.khronos.org/registry/webgl/specs/latest/1.0/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "173",
+            "slug": "webgl2",
+            "mdn_key": "WebGL2",
+            "name": {
+                "en": "WebGL 2.0"
+            },
+            "uri": {
+                "en": "https://www.khronos.org/registry/webgl/specs/latest/2.0/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
         }
     ],
     "links": {
@@ -2547,7 +2607,7 @@
             "specifications": {
                 "previous": null,
                 "next": null,
-                "count": 167
+                "count": 171
             }
         }
     }
