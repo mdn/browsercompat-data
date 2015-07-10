@@ -4487,7 +4487,7 @@
             "version": "39.0",
             "release_day": null,
             "retirement_day": null,
-            "status": "future",
+            "status": "beta",
             "release_notes_uri": {
                 "en": "https://developer.mozilla.org/en-US/Firefox/Releases/39"
             },
@@ -4503,7 +4503,7 @@
             "version": "40.0",
             "release_day": null,
             "retirement_day": null,
-            "status": "future",
+            "status": "beta",
             "release_notes_uri": {
                 "en": "https://developer.mozilla.org/en-US/Firefox/Releases/40"
             },
@@ -4519,7 +4519,7 @@
             "version": "41.0",
             "release_day": null,
             "retirement_day": null,
-            "status": "future",
+            "status": "beta",
             "release_notes_uri": {
                 "en": "https://developer.mozilla.org/en-US/Firefox/Releases/41"
             },
