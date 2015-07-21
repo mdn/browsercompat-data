@@ -179,7 +179,7 @@
                 "en": "CSS Backgrounds and Borders Module Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-background/"
+                "en": "http://dev.w3.org/csswg/css-backgrounds-3/"
             },
             "links": {
                 "maturity": "2",
@@ -197,7 +197,7 @@
                 "en": "http://dev.w3.org/csswg/css3-ui/"
             },
             "links": {
-                "maturity": "1",
+                "maturity": "2",
                 "sections": []
             }
         },
@@ -241,7 +241,7 @@
                 "en": "CSS Cascading and Inheritance Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-cascade/"
+                "en": "http://www.w3.org/TR/css-cascade-3/"
             },
             "links": {
                 "maturity": "2",
@@ -304,7 +304,7 @@
                 "en": "http://dev.w3.org/csswg/css-counter-styles-3/"
             },
             "links": {
-                "maturity": "1",
+                "maturity": "2",
                 "sections": []
             }
         },
@@ -1329,7 +1329,7 @@
                 "en": "HTML Templates"
             },
             "uri": {
-                "en": "https://dvcs.w3.org/hg/webcomponents/raw-file/tip/spec/templates/index.html"
+                "en": "http://www.w3.org/TR/html5/scripting-1.html#the-template-element"
             },
             "links": {
                 "maturity": "1",
@@ -1682,7 +1682,7 @@
                 "en": "Push API"
             },
             "uri": {
-                "en": "https://dvcs.w3.org/hg/push/raw-file/default/index.html"
+                "en": "https://w3c.github.io/push-api/"
             },
             "links": {
                 "maturity": "1",
@@ -1949,7 +1949,7 @@
             "slug": "web_animations",
             "mdn_key": "Web Animations",
             "name": {
-                "en": "Web Animations 1.0"
+                "en": "Web Animations"
             },
             "uri": {
                 "en": "https://w3c.github.io/web-animations/"
@@ -2072,7 +2072,7 @@
                 "en": "Web IDL (Second Edition)"
             },
             "uri": {
-                "en": "http://dev.w3.org/2006/webapi/WebIDL/"
+                "en": "http://heycam.github.io/webidl/"
             },
             "links": {
                 "maturity": "2",
@@ -2590,6 +2590,81 @@
                 "maturity": "3",
                 "sections": []
             }
+        },
+        {
+            "id": "174",
+            "slug": "css_text_size_adjust",
+            "mdn_key": "CSS Text Size Adjust",
+            "name": {
+                "en": "CSS Mobile Text Size Adjustment Module Level&nbsp;1"
+            },
+            "uri": {
+                "en": "http://drafts.csswg.org/css-size-adjust/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "175",
+            "slug": "css4_cascade",
+            "mdn_key": "CSS4 Cascade",
+            "name": {
+                "en": "CSS Cascading and Inheritance Level&nbsp;4"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/csswg/css-cascade/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "176",
+            "slug": "simd",
+            "mdn_key": "SIMD",
+            "name": {
+                "en": "SIMD"
+            },
+            "uri": {
+                "en": "http://littledan.github.io/simd.html"
+            },
+            "links": {
+                "maturity": "6",
+                "sections": []
+            }
+        },
+        {
+            "id": "177",
+            "slug": "subresource_integrity",
+            "mdn_key": "Subresource Integrity",
+            "name": {
+                "en": "Subresource Integrity"
+            },
+            "uri": {
+                "en": "http://w3c.github.io/webappsec/specs/subresourceintegrity/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "178",
+            "slug": "tracking",
+            "mdn_key": "Tracking",
+            "name": {
+                "en": "Tracking Preference Expression (DNT)"
+            },
+            "uri": {
+                "en": "http://www.w3.org/2011/tracking-protection/drafts/tracking-dnt.html"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
         }
     ],
     "links": {
@@ -2607,7 +2682,7 @@
             "specifications": {
                 "previous": null,
                 "next": null,
-                "count": 171
+                "count": 176
             }
         }
     }
