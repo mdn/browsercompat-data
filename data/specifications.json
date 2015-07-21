@@ -334,7 +334,7 @@
                 "en": "http://dev.w3.org/csswg/css3-flexbox/"
             },
             "links": {
-                "maturity": "2",
+                "maturity": "12",
                 "sections": [
                     "10"
                 ]
@@ -1697,7 +1697,7 @@
                 "en": "Timing control for script-based animations"
             },
             "uri": {
-                "en": "http://w3c-test.org/webperf/specs/RequestAnimationFrame/"
+                "en": "http://www.w3.org/TR/animation-timing/"
             },
             "links": {
                 "maturity": "1",
