@@ -87510,7 +87510,6 @@
                     "4403",
                     "4404",
                     "4405",
-                    "4406",
                     "4407",
                     "4408",
                     "4409",
@@ -92147,24 +92146,6 @@
             "slug": "web_css_offset-block-end",
             "mdn_uri": {
                 "en": "https://developer.mozilla.org/en-US/docs/Web/CSS/offset-block-end"
-            },
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": "offset-block-end",
-            "links": {
-                "sections": [],
-                "supports": [],
-                "parent": "4160",
-                "children": []
-            }
-        },
-        {
-            "id": "4406",
-            "slug": "web_css_offset-block-end_clone",
-            "mdn_uri": {
-                "en": "https://developer.mozilla.org/en-US/docs/Web/CSS/offset-block-end_clone"
             },
             "experimental": false,
             "standardized": true,
@@ -98990,14 +98971,14 @@
                     "4878",
                     "4876",
                     "4875",
-                    "4881",
                     "4880",
                     "4877",
                     "4834",
                     "4833",
                     "4823",
                     "4777",
-                    "4759"
+                    "4759",
+                    "4881"
                 ]
             }
         },
@@ -111896,7 +111877,6 @@
                     "5412",
                     "5413",
                     "5414",
-                    "5415",
                     "5416",
                     "5417",
                     "5418",
@@ -112412,26 +112392,6 @@
             "obsolete": false,
             "name": {
                 "en": "SIMD.%type%.check()"
-            },
-            "links": {
-                "sections": [],
-                "supports": [],
-                "parent": "5389",
-                "children": []
-            }
-        },
-        {
-            "id": "5415",
-            "slug": "web_javascript_reference_global_objects_simd_clamp",
-            "mdn_uri": {
-                "en": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SIMD/clamp"
-            },
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": {
-                "en": "SIMD.%type%.clamp()"
             },
             "links": {
                 "sections": [],
@@ -124905,7 +124865,7 @@
             "features": {
                 "previous": null,
                 "next": null,
-                "count": 6042
+                "count": 6040
             }
         }
     }
