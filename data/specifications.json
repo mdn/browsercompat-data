@@ -1014,7 +1014,7 @@
                 "en": "Document Object Model (DOM) Level 3 Events Specification"
             },
             "uri": {
-                "en": "https://dvcs.w3.org/hg/dom3events/raw-file/tip/html/DOM3-Events.html"
+                "en": "https://w3c.github.io/uievents/"
             },
             "links": {
                 "maturity": "1",
@@ -1123,7 +1123,9 @@
             },
             "links": {
                 "maturity": "7",
-                "sections": []
+                "sections": [
+                    "17"
+                ]
             }
         },
         {
@@ -1138,7 +1140,9 @@
             },
             "links": {
                 "maturity": "7",
-                "sections": []
+                "sections": [
+                    "18"
+                ]
             }
         },
         {
@@ -1547,7 +1551,7 @@
                 "en": "MediaStream Recording"
             },
             "uri": {
-                "en": "https://dvcs.w3.org/hg/dap/raw-file/default/media-stream-capture/MediaRecorder.html"
+                "en": "http://w3c.github.io/mediacapture-record/MediaRecorder.html"
             },
             "links": {
                 "maturity": "1",
@@ -1700,7 +1704,7 @@
                 "en": "http://www.w3.org/TR/animation-timing/"
             },
             "links": {
-                "maturity": "1",
+                "maturity": "2",
                 "sections": []
             }
         },
@@ -2513,7 +2517,9 @@
             },
             "links": {
                 "maturity": "7",
-                "sections": []
+                "sections": [
+                    "16"
+                ]
             }
         },
         {
@@ -2554,7 +2560,7 @@
                 "en": "Web Bluetooth"
             },
             "uri": {
-                "en": "https://wiki.mozilla.org/B2G/Bluetooth/WebBluetooth-v2"
+                "en": "http://webbluetoothcg.github.io/web-bluetooth/"
             },
             "links": {
                 "maturity": "6",
@@ -2629,7 +2635,7 @@
                 "en": "SIMD"
             },
             "uri": {
-                "en": "http://littledan.github.io/simd.html"
+                "en": "http://tc39.github.io/ecmascript_simd/"
             },
             "links": {
                 "maturity": "6",
@@ -2665,6 +2671,66 @@
                 "maturity": "1",
                 "sections": []
             }
+        },
+        {
+            "id": "179",
+            "slug": "console_api",
+            "mdn_key": "Console API",
+            "name": {
+                "en": "Console API"
+            },
+            "uri": {
+                "en": "https://github.com/DeveloperToolsWG/console-object/blob/master/api.md"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "180",
+            "slug": "filters_2_0",
+            "mdn_key": "Filters 2.0",
+            "name": {
+                "en": "Filter Effects Module Level 2"
+            },
+            "uri": {
+                "en": "https://drafts.fxtf.org/filters-2/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "181",
+            "slug": "motion_path_level_1",
+            "mdn_key": "Motion Path Level 1",
+            "name": {
+                "en": "Motion Path Level 1"
+            },
+            "uri": {
+                "en": "https://drafts.fxtf.org/motion-1/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "182",
+            "slug": "svg_and_html",
+            "mdn_key": "SVG and HTML",
+            "name": {
+                "en": "Inline SVG in HTML5 and XHTML"
+            },
+            "uri": {
+                "en": "http://dev.w3.org/SVG/proposals/svg-html/svg-html-proposal.html"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
         }
     ],
     "links": {
@@ -2682,7 +2748,7 @@
             "specifications": {
                 "previous": null,
                 "next": null,
-                "count": 176
+                "count": 180
             }
         }
     }

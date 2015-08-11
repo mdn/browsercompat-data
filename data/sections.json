@@ -290,6 +290,57 @@
                     "965"
                 ]
             }
+        },
+        {
+            "id": "16",
+            "number": null,
+            "name": {
+                "en": ""
+            },
+            "subpath": {
+                "en": ""
+            },
+            "note": {
+                "en": "Initial definition."
+            },
+            "links": {
+                "specification": "168",
+                "features": []
+            }
+        },
+        {
+            "id": "17",
+            "number": null,
+            "name": {
+                "en": "Array"
+            },
+            "subpath": {
+                "en": "#sec-15.4"
+            },
+            "note": {
+                "en": "New methods added: <code>Array.isArray</code>, <code>indexOf</code>, <code>lastIndexOf</code>, <code>every</code>, <code>some</code>, <code>forEach</code>, <code>map</code>, <code>filter</code>, <code>reduce</code>, <code>reduceRight</code>"
+            },
+            "links": {
+                "specification": "76",
+                "features": []
+            }
+        },
+        {
+            "id": "18",
+            "number": null,
+            "name": {
+                "en": "Array"
+            },
+            "subpath": {
+                "en": "#sec-array-objects"
+            },
+            "note": {
+                "en": "New methods added: <code>Array.from</code>, <code>Array.of</code>, <code>find</code>, <code>findIndex</code>, <code>fill</code>, <code>copyWithin</code>"
+            },
+            "links": {
+                "specification": "77",
+                "features": []
+            }
         }
     ],
     "links": {
@@ -307,7 +358,7 @@
             "sections": {
                 "previous": null,
                 "next": null,
-                "count": 15
+                "count": 18
             }
         }
     }
