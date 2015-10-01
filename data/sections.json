@@ -318,11 +318,13 @@
                 "en": "#sec-15.4"
             },
             "note": {
-                "en": "New methods added: <code>Array.isArray</code>, <code>indexOf</code>, <code>lastIndexOf</code>, <code>every</code>, <code>some</code>, <code>forEach</code>, <code>map</code>, <code>filter</code>, <code>reduce</code>, <code>reduceRight</code>"
+                "en": "New methods added: <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray\"><code>Array.isArray</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf\"><code>indexOf</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/lastIndexOf\"><code>lastIndexOf</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every\"><code>every</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some\"><code>some</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach\"><code>forEach</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map\"><code>map</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter\"><code>filter</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce\"><code>reduce</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduceRight\"><code>reduceRight</code></a>"
             },
             "links": {
                 "specification": "76",
-                "features": []
+                "features": [
+                    "990"
+                ]
             }
         },
         {
@@ -335,11 +337,698 @@
                 "en": "#sec-array-objects"
             },
             "note": {
-                "en": "New methods added: <code>Array.from</code>, <code>Array.of</code>, <code>find</code>, <code>findIndex</code>, <code>fill</code>, <code>copyWithin</code>"
+                "en": "New methods added: <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from\"><code>Array.from</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/of\"><code>Array.of</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find\"><code>find</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex\"><code>findIndex</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill\"><code>fill</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/copyWithin\"><code>copyWithin</code></a>"
+            },
+            "links": {
+                "specification": "77",
+                "features": [
+                    "990"
+                ]
+            }
+        },
+        {
+            "id": "19",
+            "number": null,
+            "name": {
+                "en": "background"
+            },
+            "subpath": {
+                "en": "#background"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "9",
+                "features": []
+            }
+        },
+        {
+            "id": "20",
+            "number": null,
+            "name": {
+                "en": "background"
+            },
+            "subpath": {
+                "en": "colors.html#propdef-background"
+            },
+            "note": {
+                "en": "No significant changes"
+            },
+            "links": {
+                "specification": "10",
+                "features": []
+            }
+        },
+        {
+            "id": "21",
+            "number": null,
+            "name": {
+                "en": "background"
+            },
+            "subpath": {
+                "en": "#the-background"
+            },
+            "note": {
+                "en": "The shorthand property has been extended to support multiple backgrounds and the new <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/background-size\"><code>background-size</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/background-origin\"><code>background-origin</code></a> and <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip\"><code>background-clip</code></a> properties."
+            },
+            "links": {
+                "specification": "12",
+                "features": []
+            }
+        },
+        {
+            "id": "22",
+            "number": null,
+            "name": {
+                "en": "background"
+            },
+            "subpath": {
+                "en": "#background"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "9",
+                "features": [
+                    "655"
+                ]
+            }
+        },
+        {
+            "id": "23",
+            "number": null,
+            "name": {
+                "en": "background"
+            },
+            "subpath": {
+                "en": "colors.html#propdef-background"
+            },
+            "note": {
+                "en": "No significant changes"
+            },
+            "links": {
+                "specification": "10",
+                "features": [
+                    "655"
+                ]
+            }
+        },
+        {
+            "id": "24",
+            "number": null,
+            "name": {
+                "en": "background"
+            },
+            "subpath": {
+                "en": "#the-background"
+            },
+            "note": {
+                "en": "The shorthand property has been extended to support multiple backgrounds and the new <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/background-size\"><code>background-size</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/background-origin\"><code>background-origin</code></a> and <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip\"><code>background-clip</code></a> properties."
+            },
+            "links": {
+                "specification": "12",
+                "features": [
+                    "655"
+                ]
+            }
+        },
+        {
+            "id": "25",
+            "number": null,
+            "name": {
+                "en": "float and clear"
+            },
+            "subpath": {
+                "en": "#float-clear"
+            },
+            "note": {
+                "en": "Adds the values <code>inline-start</code> and <code>inline-end</code>"
+            },
+            "links": {
+                "specification": "149",
+                "features": [
+                    "709"
+                ]
+            }
+        },
+        {
+            "id": "26",
+            "number": null,
+            "name": {
+                "en": "clear"
+            },
+            "subpath": {
+                "en": "#clear"
+            },
+            "note": {
+                "en": "Initial specification"
+            },
+            "links": {
+                "specification": "9",
+                "features": [
+                    "709"
+                ]
+            }
+        },
+        {
+            "id": "27",
+            "number": null,
+            "name": {
+                "en": "clear"
+            },
+            "subpath": {
+                "en": "visuren.html#flow-control"
+            },
+            "note": {
+                "en": "No significant changes, though details are clarified."
+            },
+            "links": {
+                "specification": "10",
+                "features": [
+                    "709"
+                ]
+            }
+        },
+        {
+            "id": "28",
+            "number": null,
+            "name": {
+                "en": "flex-wrap"
+            },
+            "subpath": {
+                "en": "#flex-wrap-property"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "23",
+                "features": [
+                    "740"
+                ]
+            }
+        },
+        {
+            "id": "29",
+            "number": null,
+            "name": {
+                "en": "&lt;textarea&gt;"
+            },
+            "subpath": {
+                "en": "the-button-element.html#the-textarea-element"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "91",
+                "features": [
+                    "4928"
+                ]
+            }
+        },
+        {
+            "id": "30",
+            "number": null,
+            "name": {
+                "en": "&lt;q&gt;"
+            },
+            "subpath": {
+                "en": "text-level-semantics.html#the-q-element"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "91",
+                "features": [
+                    "969"
+                ]
+            }
+        },
+        {
+            "id": "31",
+            "number": null,
+            "name": {
+                "en": "&lt;textarea&gt;"
+            },
+            "subpath": {
+                "en": "interact/forms.html#h-17.7"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "92",
+                "features": [
+                    "4928"
+                ]
+            }
+        },
+        {
+            "id": "32",
+            "number": null,
+            "name": {
+                "en": "&lt;q&gt;"
+            },
+            "subpath": {
+                "en": "struct/text.html#h-9.2.2"
+            },
+            "note": {
+                "en": "Initial definition"
+            },
+            "links": {
+                "specification": "92",
+                "features": [
+                    "969"
+                ]
+            }
+        },
+        {
+            "id": "33",
+            "number": null,
+            "name": {
+                "en": "&lt;textarea&gt;"
+            },
+            "subpath": {
+                "en": "forms.html#the-textarea-element"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "93",
+                "features": [
+                    "4928"
+                ]
+            }
+        },
+        {
+            "id": "34",
+            "number": null,
+            "name": {
+                "en": "&lt;q&gt;"
+            },
+            "subpath": {
+                "en": "text-level-semantics.html#the-q-element"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "93",
+                "features": [
+                    "969"
+                ]
+            }
+        },
+        {
+            "id": "35",
+            "number": null,
+            "name": {
+                "en": ""
+            },
+            "subpath": {
+                "en": ""
+            },
+            "note": {
+                "en": "Initial definition."
+            },
+            "links": {
+                "specification": "168",
+                "features": [
+                    "990"
+                ]
+            }
+        },
+        {
+            "id": "36",
+            "number": null,
+            "name": {
+                "en": ""
+            },
+            "subpath": {
+                "en": ""
+            },
+            "note": {
+                "en": "Initial definition."
+            },
+            "links": {
+                "specification": "168",
+                "features": []
+            }
+        },
+        {
+            "id": "37",
+            "number": null,
+            "name": {
+                "en": "Array.length"
+            },
+            "subpath": {
+                "en": "#sec-15.4.5.2"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "76",
+                "features": []
+            }
+        },
+        {
+            "id": "38",
+            "number": null,
+            "name": {
+                "en": "Array.length"
+            },
+            "subpath": {
+                "en": "#sec-properties-of-array-instances-length"
+            },
+            "note": {
+                "en": ""
             },
             "links": {
                 "specification": "77",
                 "features": []
+            }
+        },
+        {
+            "id": "39",
+            "number": null,
+            "name": {
+                "en": ""
+            },
+            "subpath": {
+                "en": ""
+            },
+            "note": {
+                "en": "Initial definition. Implemented in JavaScript 1.0."
+            },
+            "links": {
+                "specification": "168",
+                "features": [
+                    "5154"
+                ]
+            }
+        },
+        {
+            "id": "40",
+            "number": null,
+            "name": {
+                "en": "Date.prototype.setDate"
+            },
+            "subpath": {
+                "en": "#sec-15.9.5.36"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "76",
+                "features": [
+                    "5154"
+                ]
+            }
+        },
+        {
+            "id": "41",
+            "number": null,
+            "name": {
+                "en": "Date.prototype.setDate"
+            },
+            "subpath": {
+                "en": "#sec-date.prototype.setdate"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "77",
+                "features": [
+                    "5154"
+                ]
+            }
+        },
+        {
+            "id": "42",
+            "number": null,
+            "name": {
+                "en": ""
+            },
+            "subpath": {
+                "en": ""
+            },
+            "note": {
+                "en": "Initial definition. Implemented in JavaScript 1.2."
+            },
+            "links": {
+                "specification": "169",
+                "features": [
+                    "5479"
+                ]
+            }
+        },
+        {
+            "id": "43",
+            "number": null,
+            "name": {
+                "en": "String.prototype.concat"
+            },
+            "subpath": {
+                "en": "#sec-15.5.4.6"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "76",
+                "features": [
+                    "5479"
+                ]
+            }
+        },
+        {
+            "id": "44",
+            "number": null,
+            "name": {
+                "en": "String.prototype.concat"
+            },
+            "subpath": {
+                "en": "#sec-string.prototype.concat"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "77",
+                "features": [
+                    "5479"
+                ]
+            }
+        },
+        {
+            "id": "45",
+            "number": null,
+            "name": {
+                "en": ""
+            },
+            "subpath": {
+                "en": ""
+            },
+            "note": {
+                "en": "Initial definition."
+            },
+            "links": {
+                "specification": "168",
+                "features": []
+            }
+        },
+        {
+            "id": "46",
+            "number": null,
+            "name": {
+                "en": "Array.length"
+            },
+            "subpath": {
+                "en": "#sec-15.4.5.2"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "76",
+                "features": []
+            }
+        },
+        {
+            "id": "47",
+            "number": null,
+            "name": {
+                "en": "Array.length"
+            },
+            "subpath": {
+                "en": "#sec-properties-of-array-instances-length"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "77",
+                "features": []
+            }
+        },
+        {
+            "id": "48",
+            "number": null,
+            "name": {
+                "en": ""
+            },
+            "subpath": {
+                "en": ""
+            },
+            "note": {
+                "en": "Initial definition."
+            },
+            "links": {
+                "specification": "168",
+                "features": [
+                    "5061"
+                ]
+            }
+        },
+        {
+            "id": "49",
+            "number": null,
+            "name": {
+                "en": "Array.length"
+            },
+            "subpath": {
+                "en": "#sec-15.4.5.2"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "76",
+                "features": [
+                    "5061"
+                ]
+            }
+        },
+        {
+            "id": "50",
+            "number": null,
+            "name": {
+                "en": "Array.length"
+            },
+            "subpath": {
+                "en": "#sec-properties-of-array-instances-length"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "77",
+                "features": [
+                    "5061"
+                ]
+            }
+        },
+        {
+            "id": "51",
+            "number": null,
+            "name": {
+                "en": "AnimationEvent"
+            },
+            "subpath": {
+                "en": "#AnimationEvent-interface"
+            },
+            "note": {
+                "en": "Initial definition."
+            },
+            "links": {
+                "specification": "11",
+                "features": [
+                    "7"
+                ]
+            }
+        },
+        {
+            "id": "52",
+            "number": null,
+            "name": {
+                "en": "Attr"
+            },
+            "subpath": {
+                "en": "core.html#ID-637646024"
+            },
+            "note": {
+                "en": "Initial definition"
+            },
+            "links": {
+                "specification": "68",
+                "features": [
+                    "1424"
+                ]
+            }
+        },
+        {
+            "id": "53",
+            "number": null,
+            "name": {
+                "en": "Attr"
+            },
+            "subpath": {
+                "en": "#interface-attr"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "71",
+                "features": [
+                    "1424"
+                ]
+            }
+        },
+        {
+            "id": "85",
+            "number": null,
+            "name": {
+                "en": "&lt;keygen&gt;"
+            },
+            "subpath": {
+                "en": "the-button-element.html#the-keygen-element"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "91",
+                "features": [
+                    "945"
+                ]
+            }
+        },
+        {
+            "id": "86",
+            "number": null,
+            "name": {
+                "en": "&lt;keygen&gt;"
+            },
+            "subpath": {
+                "en": "forms.html#the-keygen-element"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "93",
+                "features": [
+                    "945"
+                ]
             }
         }
     ],
@@ -358,7 +1047,7 @@
             "sections": {
                 "previous": null,
                 "next": null,
-                "count": 18
+                "count": 55
             }
         }
     }
