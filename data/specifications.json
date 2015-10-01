@@ -8,7 +8,7 @@
                 "en": "Web Alarms API"
             },
             "uri": {
-                "en": "http://web-alarms.sysapps.org/"
+                "en": "https://www.w3.org/2012/sysapps/web-alarms/"
             },
             "links": {
                 "maturity": "1",
@@ -23,10 +23,10 @@
                 "en": "Ambient Light Events"
             },
             "uri": {
-                "en": "http://dvcs.w3.org/hg/dap/raw-file/tip/light/Overview.html"
+                "en": "https://w3c.github.io/ambient-light/"
             },
             "links": {
-                "maturity": "2",
+                "maturity": "1",
                 "sections": []
             }
         },
@@ -38,10 +38,10 @@
                 "en": "Battery Status API"
             },
             "uri": {
-                "en": "http://www.w3.org/TR/battery-status/"
+                "en": "https://dvcs.w3.org/hg/dap/raw-file/default/battery/Overview.html"
             },
             "links": {
-                "maturity": "1",
+                "maturity": "2",
                 "sections": []
             }
         },
@@ -53,7 +53,7 @@
                 "en": "Beacon"
             },
             "uri": {
-                "en": "http://www.w3.org/TR/beacon/"
+                "en": "https://w3c.github.io/beacon/"
             },
             "links": {
                 "maturity": "1",
@@ -68,7 +68,7 @@
                 "en": "CSS Masking Level&nbsp;1"
             },
             "uri": {
-                "en": "http://dev.w3.org/fxtf/css-masking-1/"
+                "en": "https://drafts.fxtf.org/css-masking-1/"
             },
             "links": {
                 "maturity": "2",
@@ -98,7 +98,7 @@
                 "en": "CSS Shapes Module Level&nbsp;1"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-shapes/"
+                "en": "https://drafts.csswg.org/css-shapes/"
             },
             "links": {
                 "maturity": "2",
@@ -113,7 +113,7 @@
                 "en": "CSS Will Change Module Level&nbsp;1"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-will-change/"
+                "en": "https://drafts.csswg.org/css-will-change/"
             },
             "links": {
                 "maturity": "1",
@@ -170,7 +170,7 @@
                 "en": "CSS Animations"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-animations/"
+                "en": "https://drafts.csswg.org/css-animations/"
             },
             "links": {
                 "maturity": "1",
@@ -187,7 +187,7 @@
                 "en": "CSS Backgrounds and Borders Module Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-backgrounds-3/"
+                "en": "https://drafts.csswg.org/css-backgrounds-3/"
             },
             "links": {
                 "maturity": "2",
@@ -205,7 +205,7 @@
                 "en": "CSS Basic User Interface Module Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-ui/"
+                "en": "https://drafts.csswg.org/css-ui-3/"
             },
             "links": {
                 "maturity": "2",
@@ -220,7 +220,7 @@
                 "en": "CSS Basic Box Model"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-box/"
+                "en": "https://drafts.csswg.org/css-box-3/"
             },
             "links": {
                 "maturity": "1",
@@ -237,7 +237,7 @@
                 "en": "CSS Box Alignment Module"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-align/"
+                "en": "https://drafts.csswg.org/css-align/"
             },
             "links": {
                 "maturity": "1",
@@ -252,7 +252,7 @@
                 "en": "CSS Cascading and Inheritance Level&nbsp;3"
             },
             "uri": {
-                "en": "http://www.w3.org/TR/css-cascade-3/"
+                "en": "https://drafts.csswg.org/css-cascade-3/"
             },
             "links": {
                 "maturity": "2",
@@ -267,7 +267,7 @@
                 "en": "CSS Color Module Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-color/"
+                "en": "https://drafts.csswg.org/css-color-3/"
             },
             "links": {
                 "maturity": "4",
@@ -282,7 +282,7 @@
                 "en": "CSS Conditional Rules Module Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-conditional/"
+                "en": "https://drafts.csswg.org/css-color-3/"
             },
             "links": {
                 "maturity": "2",
@@ -297,7 +297,7 @@
                 "en": "CSS Generated Content Module Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-content/"
+                "en": "https://drafts.csswg.org/css-content-3/"
             },
             "links": {
                 "maturity": "1",
@@ -312,7 +312,7 @@
                 "en": "CSS Counter Styles Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-counter-styles-3/"
+                "en": "https://drafts.csswg.org/css-counter-styles-3/"
             },
             "links": {
                 "maturity": "2",
@@ -327,7 +327,7 @@
                 "en": "CSS Device Adaptation"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-device-adapt/"
+                "en": "https://drafts.csswg.org/css-device-adapt/"
             },
             "links": {
                 "maturity": "1",
@@ -342,7 +342,7 @@
                 "en": "CSS Flexible Box Layout Module"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-flexbox/"
+                "en": "https://drafts.csswg.org/css-flexbox-1/"
             },
             "links": {
                 "maturity": "12",
@@ -360,7 +360,7 @@
                 "en": "CSS Fonts Module Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-fonts/"
+                "en": "https://drafts.csswg.org/css-fonts-3/"
             },
             "links": {
                 "maturity": "2",
@@ -375,7 +375,7 @@
                 "en": "CSS Fragmentation Module Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-break/"
+                "en": "https://drafts.csswg.org/css-break-3/"
             },
             "links": {
                 "maturity": "1",
@@ -390,7 +390,7 @@
                 "en": "CSS Generated Content for Paged Media Module"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-gcpm/"
+                "en": "https://drafts.csswg.org/css-gcpm-3/"
             },
             "links": {
                 "maturity": "1",
@@ -405,7 +405,7 @@
                 "en": "CSS Grid Layout"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-grid/"
+                "en": "https://drafts.csswg.org/css-grid/"
             },
             "links": {
                 "maturity": "1",
@@ -422,7 +422,7 @@
                 "en": "CSS Image Values and Replaced Content Module Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-images/"
+                "en": "https://drafts.csswg.org/css-images-3/"
             },
             "links": {
                 "maturity": "2",
@@ -437,7 +437,7 @@
                 "en": "CSS Lists and Counters Module Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-lists/"
+                "en": "https://drafts.csswg.org/css-lists-3/"
             },
             "links": {
                 "maturity": "1",
@@ -452,7 +452,7 @@
                 "en": "Media Queries"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-mediaqueries/"
+                "en": "https://drafts.csswg.org/mediaqueries-3/"
             },
             "links": {
                 "maturity": "4",
@@ -467,7 +467,7 @@
                 "en": "CSS Multi-column Layout Module"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-multicol/"
+                "en": "https://drafts.csswg.org/css-multicol-1/"
             },
             "links": {
                 "maturity": "2",
@@ -482,7 +482,7 @@
                 "en": "CSS Namespaces Module"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-namespace/"
+                "en": "https://drafts.csswg.org/css-namespaces-3/"
             },
             "links": {
                 "maturity": "4",
@@ -497,7 +497,7 @@
                 "en": "CSS Overflow Module Level 3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-overflow-3/"
+                "en": "https://drafts.csswg.org/css-overflow-3/"
             },
             "links": {
                 "maturity": "1",
@@ -512,7 +512,7 @@
                 "en": "CSS Paged Media Module Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-page/"
+                "en": "https://drafts.csswg.org/css-page-3/"
             },
             "links": {
                 "maturity": "1",
@@ -527,7 +527,7 @@
                 "en": "CSS Positioned Layout Module Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-position-3/"
+                "en": "https://drafts.csswg.org/css-position-3/"
             },
             "links": {
                 "maturity": "1",
@@ -539,10 +539,10 @@
             "slug": "css3_regions",
             "mdn_key": "CSS3 Regions",
             "name": {
-                "en": "CSS Regions Module Level&nbsp;3"
+                "en": "CSS Regions Module Level&nbsp;1"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-regions/"
+                "en": "https://drafts.csswg.org/css-regions-1/"
             },
             "links": {
                 "maturity": "1",
@@ -557,7 +557,7 @@
                 "en": "CSS Ruby Layout Module Level&nbsp;1"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-ruby/"
+                "en": "https://drafts.csswg.org/css-ruby/"
             },
             "links": {
                 "maturity": "1",
@@ -574,7 +574,7 @@
                 "en": "Selectors Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/selectors3/"
+                "en": "https://drafts.csswg.org/selectors-3/"
             },
             "links": {
                 "maturity": "4",
@@ -589,7 +589,7 @@
                 "en": "CSS Intrinsic &amp; Extrinsic Sizing Module Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-sizing/"
+                "en": "https://drafts.csswg.org/css-sizing-3/"
             },
             "links": {
                 "maturity": "1",
@@ -604,7 +604,7 @@
                 "en": "CSS Speech Module"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-speech/"
+                "en": "https://drafts.csswg.org/css-speech-1/"
             },
             "links": {
                 "maturity": "2",
@@ -619,7 +619,7 @@
                 "en": "CSS Style Attributes"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-style-attr/"
+                "en": "https://drafts.csswg.org/css-style-attr/"
             },
             "links": {
                 "maturity": "4",
@@ -634,7 +634,7 @@
                 "en": "CSS Text Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-text/"
+                "en": "https://drafts.csswg.org/css-text-3/"
             },
             "links": {
                 "maturity": "1",
@@ -649,7 +649,7 @@
                 "en": "CSS Transforms Level&nbsp;1"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-transforms/"
+                "en": "https://drafts.csswg.org/css-transforms/"
             },
             "links": {
                 "maturity": "1",
@@ -666,7 +666,7 @@
                 "en": "CSS Transitions"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-transitions/"
+                "en": "https://drafts.csswg.org/css-transitions/"
             },
             "links": {
                 "maturity": "1",
@@ -681,7 +681,7 @@
                 "en": "CSS Values and Units Module Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-values/"
+                "en": "https://drafts.csswg.org/css-values-3/"
             },
             "links": {
                 "maturity": "2",
@@ -696,7 +696,7 @@
                 "en": "CSS Custom Properties for Cascading Variables Module Level&nbsp;1"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-variables/"
+                "en": "https://drafts.csswg.org/css-variables/"
             },
             "links": {
                 "maturity": "1",
@@ -711,7 +711,7 @@
                 "en": "CSS Writing Modes Module Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css3-writing-modes/"
+                "en": "https://drafts.csswg.org/css-writing-modes-3/"
             },
             "links": {
                 "maturity": "2",
@@ -726,7 +726,7 @@
                 "en": "CSS Color Module Level&nbsp;4"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-color/"
+                "en": "https://drafts.csswg.org/css-color/"
             },
             "links": {
                 "maturity": "3",
@@ -741,7 +741,7 @@
                 "en": "CSS Image Values and Replaced Content Module Level&nbsp;4"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css4-images/"
+                "en": "https://drafts.csswg.org/css-images-4/"
             },
             "links": {
                 "maturity": "1",
@@ -756,7 +756,7 @@
                 "en": "Media Queries Level&nbsp;4"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css4-mediaqueries/"
+                "en": "https://drafts.csswg.org/mediaqueries-4/"
             },
             "links": {
                 "maturity": "1",
@@ -771,7 +771,7 @@
                 "en": "Selectors Level&nbsp;4"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/selectors4/"
+                "en": "https://drafts.csswg.org/selectors-4/"
             },
             "links": {
                 "maturity": "1",
@@ -786,7 +786,7 @@
                 "en": "CSS Text Level&nbsp;4"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css4-text/"
+                "en": "https://drafts.csswg.org/css-text-4/"
             },
             "links": {
                 "maturity": "3",
@@ -801,7 +801,7 @@
                 "en": "CSS Object Model (CSSOM)"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/cssom/"
+                "en": "https://drafts.csswg.org/cssom/"
             },
             "links": {
                 "maturity": "1",
@@ -816,7 +816,7 @@
                 "en": "CSS Object Model (CSSOM) View Module"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/cssom-view/"
+                "en": "https://drafts.csswg.org/cssom-view/"
             },
             "links": {
                 "maturity": "1",
@@ -828,10 +828,10 @@
             "slug": "clipboard_api",
             "mdn_key": "Clipboard API",
             "name": {
-                "en": "Clipboard API"
+                "en": "Clipboard API and events"
             },
             "uri": {
-                "en": "http://dev.w3.org/2006/webapi/clipops/clipops.html"
+                "en": "https://w3c.github.io/clipboard-apis/"
             },
             "links": {
                 "maturity": "1",
@@ -846,7 +846,7 @@
                 "en": "Compositing and blending Level 1"
             },
             "uri": {
-                "en": "http://dev.w3.org/fxtf/compositing-1/"
+                "en": "https://drafts.fxtf.org/compositing-1/"
             },
             "links": {
                 "maturity": "2",
@@ -861,7 +861,7 @@
                 "en": "Contacts Manager API"
             },
             "uri": {
-                "en": "http://contacts-manager-api.sysapps.org/"
+                "en": "https://www.w3.org/2012/sysapps/contacts-manager-api/"
             },
             "links": {
                 "maturity": "1",
@@ -876,7 +876,7 @@
                 "en": "Custom Elements"
             },
             "uri": {
-                "en": "http://w3c.github.io/webcomponents/spec/custom/"
+                "en": "https://w3c.github.io/webcomponents/spec/custom/"
             },
             "links": {
                 "maturity": "1",
@@ -891,7 +891,7 @@
                 "en": "DOM Parsing and Serialization"
             },
             "uri": {
-                "en": "http://domparsing.spec.whatwg.org/"
+                "en": "https://w3c.github.io/DOM-Parsing/"
             },
             "links": {
                 "maturity": "5",
@@ -906,7 +906,7 @@
                 "en": "DOM"
             },
             "uri": {
-                "en": "http://dom.spec.whatwg.org/"
+                "en": "https://dom.spec.whatwg.org/"
             },
             "links": {
                 "maturity": "5",
@@ -1058,7 +1058,7 @@
                 "en": "DOM4"
             },
             "uri": {
-                "en": "https://dvcs.w3.org/hg/domcore/raw-file/tip/Overview.html"
+                "en": "http://www.w3.org/TR/dom/"
             },
             "links": {
                 "maturity": "1",
@@ -1075,7 +1075,7 @@
                 "en": "Data Store API"
             },
             "uri": {
-                "en": "http://airpingu.github.io/data-store-api/index.html"
+                "en": "https://airpingu.github.io/data-store-api/index.html"
             },
             "links": {
                 "maturity": "6",
@@ -1090,7 +1090,7 @@
                 "en": "Device Orientation Events"
             },
             "uri": {
-                "en": "http://dev.w3.org/geo/api/spec-source-orientation.html"
+                "en": "https://w3c.github.io/deviceorientation/spec-source-orientation.html"
             },
             "links": {
                 "maturity": "1",
@@ -1105,7 +1105,7 @@
                 "en": "Encrypted Media Extensions"
             },
             "uri": {
-                "en": "https://dvcs.w3.org/hg/html-media/raw-file/tip/encrypted-media/encrypted-media.html"
+                "en": "https://w3c.github.io/encrypted-media/"
             },
             "links": {
                 "maturity": "1",
@@ -1194,7 +1194,7 @@
                 "en": "Encoding"
             },
             "uri": {
-                "en": "http://encoding.spec.whatwg.org/"
+                "en": "https://encoding.spec.whatwg.org/"
             },
             "links": {
                 "maturity": "5",
@@ -1209,7 +1209,7 @@
                 "en": "File API"
             },
             "uri": {
-                "en": "http://dev.w3.org/2006/webapi/FileAPI/"
+                "en": "https://w3c.github.io/FileAPI/"
             },
             "links": {
                 "maturity": "1",
@@ -1224,7 +1224,7 @@
                 "en": "FileSystem API"
             },
             "uri": {
-                "en": "http://w3c.github.io/filesystem-api/Overview.html"
+                "en": "http://w3c.github.io/filesystem-api/"
             },
             "links": {
                 "maturity": "3",
@@ -1239,7 +1239,7 @@
                 "en": "Filter Effects Module Level 1"
             },
             "uri": {
-                "en": "http://dev.w3.org/fxtf/filters/"
+                "en": "https://drafts.fxtf.org/filters/"
             },
             "links": {
                 "maturity": "1",
@@ -1254,7 +1254,7 @@
                 "en": "Fullscreen API"
             },
             "uri": {
-                "en": "http://fullscreen.spec.whatwg.org/"
+                "en": "https://fullscreen.spec.whatwg.org/"
             },
             "links": {
                 "maturity": "5",
@@ -1269,7 +1269,7 @@
                 "en": "Gamepad"
             },
             "uri": {
-                "en": "https://dvcs.w3.org/hg/gamepad/raw-file/default/gamepad.html"
+                "en": "https://w3c.github.io/gamepad/"
             },
             "links": {
                 "maturity": "1",
@@ -1284,7 +1284,7 @@
                 "en": "Geolocation API"
             },
             "uri": {
-                "en": "http://www.w3.org/TR/geolocation-API/"
+                "en": "https://dev.w3.org/geo/api/spec-source.html"
             },
             "links": {
                 "maturity": "4",
@@ -1299,7 +1299,7 @@
                 "en": "Geometry Interfaces Module Level 1"
             },
             "uri": {
-                "en": "http://dev.w3.org/fxtf/geometry/Overview.html"
+                "en": "https://drafts.fxtf.org/geometry/"
             },
             "links": {
                 "maturity": "2",
@@ -1329,7 +1329,7 @@
                 "en": "HTML Editing APIs"
             },
             "uri": {
-                "en": "https://dvcs.w3.org/hg/editing/raw-file/tip/editing.html"
+                "en": "https://w3c.github.io/editing/"
             },
             "links": {
                 "maturity": "3",
@@ -1435,7 +1435,7 @@
                 "en": "HTML5 Web Messaging"
             },
             "uri": {
-                "en": "http://dev.w3.org/html5/postmsg/"
+                "en": "https://w3c.github.io/webmessaging/"
             },
             "links": {
                 "maturity": "4",
@@ -1495,10 +1495,10 @@
                 "en": "Indexed Database API"
             },
             "uri": {
-                "en": "https://dvcs.w3.org/hg/IndexedDB/raw-file/tip/Overview.html"
+                "en": "http://www.w3.org/TR/IndexedDB/"
             },
             "links": {
-                "maturity": "2",
+                "maturity": "4",
                 "sections": []
             }
         },
@@ -1555,10 +1555,10 @@
                 "en": "Media Capture and Streams"
             },
             "uri": {
-                "en": "http://dev.w3.org/2011/webrtc/editor/getusermedia.html"
+                "en": "http://w3c.github.io/mediacapture-main/"
             },
             "links": {
-                "maturity": "2",
+                "maturity": "3",
                 "sections": []
             }
         },
@@ -1570,10 +1570,10 @@
                 "en": "Media Source Extensions"
             },
             "uri": {
-                "en": "https://dvcs.w3.org/hg/html-media/raw-file/default/media-source/media-source.html"
+                "en": "https://w3c.github.io/media-source/"
             },
             "links": {
-                "maturity": "1",
+                "maturity": "2",
                 "sections": []
             }
         },
@@ -1585,7 +1585,7 @@
                 "en": "MediaStream Recording"
             },
             "uri": {
-                "en": "http://w3c.github.io/mediacapture-record/MediaRecorder.html"
+                "en": "https://w3c.github.io/mediacapture-record/MediaRecorder.html"
             },
             "links": {
                 "maturity": "1",
@@ -1600,7 +1600,7 @@
                 "en": "Messaging API"
             },
             "uri": {
-                "en": "http://www.w3.org/2012/sysapps/messaging/"
+                "en": "https://www.w3.org/2012/sysapps/messaging/"
             },
             "links": {
                 "maturity": "3",
@@ -1615,7 +1615,7 @@
                 "en": "Navigation Timing"
             },
             "uri": {
-                "en": "http://www.w3.org/TR/2012/REC-navigation-timing-20121217/"
+                "en": "http://www.w3.org/TR/navigation-timing/"
             },
             "links": {
                 "maturity": "4",
@@ -1630,7 +1630,7 @@
                 "en": "Network Information API"
             },
             "uri": {
-                "en": "http://w3c.github.io/netinfo/"
+                "en": "https://w3c.github.io/netinfo/"
             },
             "links": {
                 "maturity": "3",
@@ -1642,7 +1642,7 @@
             "slug": "page_visibility_api",
             "mdn_key": "Page Visibility API",
             "name": {
-                "en": "Page Visibility API"
+                "en": "Page Visibility (Second Edition)"
             },
             "uri": {
                 "en": "http://www.w3.org/TR/page-visibility/"
@@ -1660,7 +1660,7 @@
                 "en": "Pointer Events"
             },
             "uri": {
-                "en": "https://dvcs.w3.org/hg/pointerevents/raw-file/tip/pointerEvents.html"
+                "en": "http://www.w3.org/TR/pointerevents/"
             },
             "links": {
                 "maturity": "4",
@@ -1675,7 +1675,7 @@
                 "en": "Pointer Lock"
             },
             "uri": {
-                "en": "https://dvcs.w3.org/hg/pointerlock/raw-file/default/index.html"
+                "en": "https://w3c.github.io/pointerlock/"
             },
             "links": {
                 "maturity": "2",
@@ -1690,7 +1690,7 @@
                 "en": "Progress Events"
             },
             "uri": {
-                "en": "https://dvcs.w3.org/hg/progress/raw-file/tip/Overview.html"
+                "en": "https://xhr.spec.whatwg.org/"
             },
             "links": {
                 "maturity": "2",
@@ -1705,10 +1705,10 @@
                 "en": "Proximity Events"
             },
             "uri": {
-                "en": "http://dvcs.w3.org/hg/dap/raw-file/tip/proximity/Overview.html"
+                "en": "https://w3c.github.io/proximity/"
             },
             "links": {
-                "maturity": "2",
+                "maturity": "1",
                 "sections": []
             }
         },
@@ -1780,7 +1780,7 @@
                 "en": "Screen Orientation API"
             },
             "uri": {
-                "en": "https://dvcs.w3.org/hg/screen-orientation/raw-file/tip/Overview.html"
+                "en": "https://w3c.github.io/screen-orientation/"
             },
             "links": {
                 "maturity": "1",
@@ -1795,7 +1795,7 @@
                 "en": "Selectors API Level 1"
             },
             "uri": {
-                "en": "http://dev.w3.org/2006/webapi/selectors-api/"
+                "en": "http://www.w3.org/TR/selectors-api/"
             },
             "links": {
                 "maturity": "4",
@@ -1825,7 +1825,7 @@
                 "en": "Server-Sent Events"
             },
             "uri": {
-                "en": "http://dev.w3.org/html5/eventsource/"
+                "en": "http://www.w3.org/TR/eventsource/"
             },
             "links": {
                 "maturity": "4",
@@ -1840,7 +1840,7 @@
                 "en": "Service Workers"
             },
             "uri": {
-                "en": "http://slightlyoff.github.io/ServiceWorker/spec/service_worker/"
+                "en": "https://slightlyoff.github.io/ServiceWorker/spec/service_worker/"
             },
             "links": {
                 "maturity": "1",
@@ -1855,7 +1855,7 @@
                 "en": "Shadow DOM"
             },
             "uri": {
-                "en": "http://w3c.github.io/webcomponents/spec/shadow/"
+                "en": "https://w3c.github.io/webcomponents/spec/shadow/"
             },
             "links": {
                 "maturity": "1",
@@ -1882,13 +1882,13 @@
             "slug": "touch_events",
             "mdn_key": "Touch Events",
             "name": {
-                "en": "Touch Events version 1"
+                "en": "Touch Events"
             },
             "uri": {
-                "en": "https://dvcs.w3.org/hg/webevents/raw-file/v1/touchevents.html"
+                "en": "http://www.w3.org/TR/touch-events/"
             },
             "links": {
-                "maturity": "8",
+                "maturity": "4",
                 "sections": []
             }
         },
@@ -1900,7 +1900,7 @@
                 "en": "Typed Array Specification"
             },
             "uri": {
-                "en": "http://www.khronos.org/registry/typedarray/specs/latest/"
+                "en": "https://www.khronos.org/registry/typedarray/specs/latest/"
             },
             "links": {
                 "maturity": "11",
@@ -1915,7 +1915,7 @@
                 "en": "UI Events"
             },
             "uri": {
-                "en": "https://dvcs.w3.org/hg/d4e/raw-file/tip/source_respec.htm"
+                "en": "https://w3c.github.io/uievents/"
             },
             "links": {
                 "maturity": "1",
@@ -1930,7 +1930,7 @@
                 "en": "URL"
             },
             "uri": {
-                "en": "http://url.spec.whatwg.org/"
+                "en": "https://url.spec.whatwg.org/"
             },
             "links": {
                 "maturity": "5",
@@ -2005,7 +2005,7 @@
                 "en": "Web Audio API"
             },
             "uri": {
-                "en": "http://webaudio.github.io/web-audio-api/"
+                "en": "https://webaudio.github.io/web-audio-api/"
             },
             "links": {
                 "maturity": "1",
@@ -2062,10 +2062,10 @@
             "slug": "web_storage",
             "mdn_key": "Web Storage",
             "name": {
-                "en": "Web Storage"
+                "en": "Web Storage (Second edition)"
             },
             "uri": {
-                "en": "http://dev.w3.org/html5/webstorage/"
+                "en": "https://w3c.github.io/webstorage/"
             },
             "links": {
                 "maturity": "4",
@@ -2095,7 +2095,7 @@
                 "en": "Web Workers"
             },
             "uri": {
-                "en": "http://dev.w3.org/html5/workers/"
+                "en": "https://w3c.github.io/workers/"
             },
             "links": {
                 "maturity": "2",
@@ -2110,7 +2110,7 @@
                 "en": "Web IDL (Second Edition)"
             },
             "uri": {
-                "en": "http://heycam.github.io/webidl/"
+                "en": "https://heycam.github.io/webidl/"
             },
             "links": {
                 "maturity": "2",
@@ -2125,7 +2125,7 @@
                 "en": "WebRTC 1.0: Real-time Communication Between Browser"
             },
             "uri": {
-                "en": "http://dev.w3.org/2011/webrtc/editor/webrtc.html"
+                "en": "https://w3c.github.io/webrtc-pc/"
             },
             "links": {
                 "maturity": "1",
@@ -2155,7 +2155,7 @@
                 "en": "The WebSocket API"
             },
             "uri": {
-                "en": "http://dev.w3.org/html5/websockets/"
+                "en": "https://w3c.github.io/websockets/"
             },
             "links": {
                 "maturity": "2",
@@ -2185,7 +2185,7 @@
                 "en": "vCard Format Specification"
             },
             "uri": {
-                "en": "http://tools.ietf.org/html/rfc6350"
+                "en": "https://tools.ietf.org/html/rfc6350"
             },
             "links": {
                 "maturity": "9",
@@ -2215,7 +2215,7 @@
                 "en": "Content Security Policy Level 2"
             },
             "uri": {
-                "en": "http://www.w3.org/TR/CSP2/"
+                "en": "https://w3c.github.io/webappsec/specs/CSP2/"
             },
             "links": {
                 "maturity": "2",
@@ -2230,7 +2230,7 @@
                 "en": "CSS Exclusions Module Level&nbsp;1"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-exclusions/"
+                "en": "https://drafts.csswg.org/css-exclusions/"
             },
             "links": {
                 "maturity": "1",
@@ -2245,7 +2245,7 @@
                 "en": "CSS Line Grid Module Level&nbsp;1"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-line-grid/"
+                "en": "https://drafts.csswg.org/css-line-grid/"
             },
             "links": {
                 "maturity": "1",
@@ -2260,7 +2260,7 @@
                 "en": "CSS Logical Properties Level&nbsp;1"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-logical-props/"
+                "en": "https://drafts.csswg.org/css-logical-props/"
             },
             "links": {
                 "maturity": "3",
@@ -2277,7 +2277,7 @@
                 "en": "Non-element Selectors Module Level&nbsp;1"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/selectors-nonelement/"
+                "en": "https://drafts.csswg.org/selectors-nonelement/"
             },
             "links": {
                 "maturity": "1",
@@ -2292,7 +2292,7 @@
                 "en": "CSS Display Module Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-display/"
+                "en": "https://drafts.csswg.org/css-display/"
             },
             "links": {
                 "maturity": "1",
@@ -2309,7 +2309,7 @@
                 "en": "CSS Font Loading Module Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-font-loading/"
+                "en": "https://drafts.csswg.org/css-font-loading/"
             },
             "links": {
                 "maturity": "1",
@@ -2324,7 +2324,7 @@
                 "en": "CSS Inline Layout"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-inline/"
+                "en": "https://drafts.csswg.org/css-inline/"
             },
             "links": {
                 "maturity": "1",
@@ -2339,7 +2339,7 @@
                 "en": "CSS Syntax Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-syntax/"
+                "en": "https://drafts.csswg.org/css-syntax/"
             },
             "links": {
                 "maturity": "2",
@@ -2354,7 +2354,7 @@
                 "en": "CSS Text Decoration Level&nbsp;3"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-text-decor-3/"
+                "en": "https://drafts.csswg.org/css-text-decor-3/"
             },
             "links": {
                 "maturity": "2",
@@ -2369,7 +2369,7 @@
                 "en": "CSS Pseudo-Elements Level&nbsp;4"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-pseudo-4/"
+                "en": "https://drafts.csswg.org/css-pseudo-4/"
             },
             "links": {
                 "maturity": "1",
@@ -2384,10 +2384,10 @@
                 "en": "Referrer Policy"
             },
             "uri": {
-                "en": "http://w3c.github.io/webappsec/specs/referrer-policy/"
+                "en": "https://w3c.github.io/webappsec/specs/referrer-policy/"
             },
             "links": {
-                "maturity": "3",
+                "maturity": "1",
                 "sections": []
             }
         },
@@ -2429,7 +2429,7 @@
                 "en": "CSS Scroll Snap Points Module Level&nbsp;1"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-snappoints/"
+                "en": "https://drafts.csswg.org/css-snappoints/"
             },
             "links": {
                 "maturity": "1",
@@ -2489,7 +2489,7 @@
                 "en": "Selection API"
             },
             "uri": {
-                "en": "http://www.w3.org/TR/selection-api/"
+                "en": "http://w3c.github.io/selection-api/"
             },
             "links": {
                 "maturity": "1",
@@ -2504,7 +2504,7 @@
                 "en": "Upgrade Insecure Requests"
             },
             "uri": {
-                "en": "http://www.w3.org/TR/upgrade-insecure-requests/"
+                "en": "https://w3c.github.io/webappsec/specs/upgrade/"
             },
             "links": {
                 "maturity": "1",
@@ -2519,7 +2519,7 @@
                 "en": "Web MIDI API"
             },
             "uri": {
-                "en": "http://webaudio.github.io/web-midi-api/"
+                "en": "https://webaudio.github.io/web-midi-api/"
             },
             "links": {
                 "maturity": "1",
@@ -2534,7 +2534,7 @@
                 "en": "WebVR"
             },
             "uri": {
-                "en": "http://mozvr.github.io/webvr-spec/webvr.html"
+                "en": "https://mozvr.github.io/webvr-spec/webvr.html"
             },
             "links": {
                 "maturity": "6",
@@ -2588,7 +2588,7 @@
                 "en": "Media Capture from DOM Elements"
             },
             "uri": {
-                "en": "https://w3c.github.io/mediacapture-fromelement/index.html"
+                "en": "https://w3c.github.io/mediacapture-fromelement/"
             },
             "links": {
                 "maturity": "3",
@@ -2603,7 +2603,7 @@
                 "en": "Web Bluetooth"
             },
             "uri": {
-                "en": "http://webbluetoothcg.github.io/web-bluetooth/"
+                "en": "https://webbluetoothcg.github.io/web-bluetooth/"
             },
             "links": {
                 "maturity": "6",
@@ -2648,7 +2648,7 @@
                 "en": "CSS Mobile Text Size Adjustment Module Level&nbsp;1"
             },
             "uri": {
-                "en": "http://drafts.csswg.org/css-size-adjust/"
+                "en": "https://drafts.csswg.org/css-size-adjust/"
             },
             "links": {
                 "maturity": "3",
@@ -2663,7 +2663,7 @@
                 "en": "CSS Cascading and Inheritance Level&nbsp;4"
             },
             "uri": {
-                "en": "http://dev.w3.org/csswg/css-cascade/"
+                "en": "https://drafts.csswg.org/css-cascade/"
             },
             "links": {
                 "maturity": "1",
@@ -2678,7 +2678,7 @@
                 "en": "SIMD"
             },
             "uri": {
-                "en": "http://tc39.github.io/ecmascript_simd/"
+                "en": "https://tc39.github.io/ecmascript_simd/"
             },
             "links": {
                 "maturity": "6",
@@ -2693,7 +2693,7 @@
                 "en": "Subresource Integrity"
             },
             "uri": {
-                "en": "http://w3c.github.io/webappsec/specs/subresourceintegrity/"
+                "en": "https://w3c.github.io/webappsec/specs/subresourceintegrity/"
             },
             "links": {
                 "maturity": "1",
@@ -2750,7 +2750,7 @@
             "slug": "motion_path_level_1",
             "mdn_key": "Motion Path Level 1",
             "name": {
-                "en": "Motion Path Level 1"
+                "en": "Motion Path Module Level 1"
             },
             "uri": {
                 "en": "https://drafts.fxtf.org/motion-1/"
@@ -2774,6 +2774,111 @@
                 "maturity": "3",
                 "sections": []
             }
+        },
+        {
+            "id": "183",
+            "slug": "custom_scroll_restoration",
+            "mdn_key": "Custom Scroll Restoration",
+            "name": {
+                "en": "Custom Scroll Restoration - History-based API"
+            },
+            "uri": {
+                "en": "https://majido.github.io/scroll-restoration-proposal/history-based-api.html"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "184",
+            "slug": "opengl_es_2_0",
+            "mdn_key": "OpenGL ES 2.0",
+            "name": {
+                "en": "OpenGL ES 2.0"
+            },
+            "uri": {
+                "en": "https://www.khronos.org/opengles/sdk/docs/man/xhtml/"
+            },
+            "links": {
+                "maturity": "7",
+                "sections": []
+            }
+        },
+        {
+            "id": "185",
+            "slug": "resource_hints",
+            "mdn_key": "Resource Hints",
+            "name": {
+                "en": "Resource Hints"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/resource-hints/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "186",
+            "slug": "unhandled_promise_rejection",
+            "mdn_key": "Unhandled Promise Rejection",
+            "name": {
+                "en": "Unhandled Rejection Tracking Browser Events"
+            },
+            "uri": {
+                "en": "https://github.com/domenic/unhandled-rejections-browser-spec"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "187",
+            "slug": "webgl_debug_renderer_info",
+            "mdn_key": "WEBGL_debug_renderer_info",
+            "name": {
+                "en": "WEBGL_debug_renderer_info"
+            },
+            "uri": {
+                "en": "https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_renderer_info/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "188",
+            "slug": "webgl_debug_shaders",
+            "mdn_key": "WEBGL_debug_shaders",
+            "name": {
+                "en": "WEBGL_debug_shaders"
+            },
+            "uri": {
+                "en": "https://www.khronos.org/registry/webgl/extensions/WEBGL_debug_shaders/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "189",
+            "slug": "webgl_lose_context",
+            "mdn_key": "WEBGL_lose_context",
+            "name": {
+                "en": "WEBGL_lose_context"
+            },
+            "uri": {
+                "en": "https://www.khronos.org/registry/webgl/extensions/WEBGL_lose_context/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
         }
     ],
     "links": {
@@ -2791,7 +2896,7 @@
             "specifications": {
                 "previous": null,
                 "next": null,
-                "count": 180
+                "count": 187
             }
         }
     }
