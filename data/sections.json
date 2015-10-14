@@ -1030,6 +1030,230 @@
                     "945"
                 ]
             }
+        },
+        {
+            "id": "87",
+            "number": null,
+            "name": {
+                "en": "bottom"
+            },
+            "subpath": {
+                "en": "visuren.html#choose-position"
+            },
+            "note": {
+                "en": "Initial definition"
+            },
+            "links": {
+                "specification": "10",
+                "features": [
+                    "698"
+                ]
+            }
+        },
+        {
+            "id": "88",
+            "number": null,
+            "name": {
+                "en": "border"
+            },
+            "subpath": {
+                "en": "#border"
+            },
+            "note": {
+                "en": "Initial definition"
+            },
+            "links": {
+                "specification": "9",
+                "features": [
+                    "665"
+                ]
+            }
+        },
+        {
+            "id": "89",
+            "number": null,
+            "name": {
+                "en": "border"
+            },
+            "subpath": {
+                "en": "box.html#border-shorthand-properties"
+            },
+            "note": {
+                "en": "Accepts the <code>inherit</code> keyword. Also accepts <code>transparent</code> as a valid color."
+            },
+            "links": {
+                "specification": "10",
+                "features": [
+                    "665"
+                ]
+            }
+        },
+        {
+            "id": "90",
+            "number": null,
+            "name": {
+                "en": "border"
+            },
+            "subpath": {
+                "en": "#the-border-shorthands"
+            },
+            "note": {
+                "en": "Technically removes the support for <code>transparent</code> as it is now a valid <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/color_value\"><code>&lt;color&gt;</code></a>; this has no practical influence. <br> Though it cannot be set to another value using the shorthand, <code>border</code> does now reset <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/border-image\"><code>border-image</code></a> to its initial value ( <code>none</code> )."
+            },
+            "links": {
+                "specification": "12",
+                "features": [
+                    "665"
+                ]
+            }
+        },
+        {
+            "id": "91",
+            "number": null,
+            "name": {
+                "en": "position"
+            },
+            "subpath": {
+                "en": "visuren.html#propdef-position"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "10",
+                "features": []
+            }
+        },
+        {
+            "id": "92",
+            "number": null,
+            "name": {
+                "en": "position"
+            },
+            "subpath": {
+                "en": "#position-property"
+            },
+            "note": {
+                "en": "Adds <code>sticky</code> property value"
+            },
+            "links": {
+                "specification": "35",
+                "features": []
+            }
+        },
+        {
+            "id": "93",
+            "number": null,
+            "name": {
+                "en": "position"
+            },
+            "subpath": {
+                "en": "visuren.html#propdef-position"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "10",
+                "features": [
+                    "814"
+                ]
+            }
+        },
+        {
+            "id": "94",
+            "number": null,
+            "name": {
+                "en": "position"
+            },
+            "subpath": {
+                "en": "#position-property"
+            },
+            "note": {
+                "en": "Adds <code>sticky</code> property value"
+            },
+            "links": {
+                "specification": "35",
+                "features": [
+                    "814"
+                ]
+            }
+        },
+        {
+            "id": "95",
+            "number": null,
+            "name": {
+                "en": ":active"
+            },
+            "subpath": {
+                "en": "#anchor-pseudo-classes"
+            },
+            "note": {
+                "en": "Initial definition."
+            },
+            "links": {
+                "specification": "9",
+                "features": [
+                    "6722"
+                ]
+            }
+        },
+        {
+            "id": "96",
+            "number": null,
+            "name": {
+                "en": ":active"
+            },
+            "subpath": {
+                "en": "selector.html#dynamic-pseudo-classes"
+            },
+            "note": {
+                "en": "No change."
+            },
+            "links": {
+                "specification": "10",
+                "features": [
+                    "6722"
+                ]
+            }
+        },
+        {
+            "id": "97",
+            "number": null,
+            "name": {
+                "en": ":active"
+            },
+            "subpath": {
+                "en": "#useraction-pseudos"
+            },
+            "note": {
+                "en": "No change."
+            },
+            "links": {
+                "specification": "38",
+                "features": [
+                    "6722"
+                ]
+            }
+        },
+        {
+            "id": "98",
+            "number": null,
+            "name": {
+                "en": ":active"
+            },
+            "subpath": {
+                "en": "#active-pseudo"
+            },
+            "note": {
+                "en": "No change."
+            },
+            "links": {
+                "specification": "52",
+                "features": [
+                    "6722"
+                ]
+            }
         }
     ],
     "links": {
@@ -1047,7 +1271,7 @@
             "sections": {
                 "previous": null,
                 "next": null,
-                "count": 55
+                "count": 67
             }
         }
     }
