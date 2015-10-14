@@ -290,7 +290,7 @@
                 "en": "CSS Conditional Rules Module Level&nbsp;3"
             },
             "uri": {
-                "en": "https://drafts.csswg.org/css-color-3/"
+                "en": "https://drafts.csswg.org/css-conditional-3/"
             },
             "links": {
                 "maturity": "2",
@@ -2894,6 +2894,36 @@
                 "maturity": "4",
                 "sections": []
             }
+        },
+        {
+            "id": "190",
+            "slug": "esdraft",
+            "mdn_key": "ESDraft",
+            "name": {
+                "en": "ECMAScript 2016 Draft (7th Edition, ECMA-262)"
+            },
+            "uri": {
+                "en": "https://tc39.github.io/ecma262/"
+            },
+            "links": {
+                "maturity": "6",
+                "sections": []
+            }
+        },
+        {
+            "id": "191",
+            "slug": "ext_disjoint_timer_query",
+            "mdn_key": "EXT_disjoint_timer_query",
+            "name": {
+                "en": "EXT_disjoint_timer_query"
+            },
+            "uri": {
+                "en": "https://www.khronos.org/registry/webgl/extensions/EXT_disjoint_timer_query/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
         }
     ],
     "links": {
@@ -2911,7 +2941,7 @@
             "specifications": {
                 "previous": null,
                 "next": null,
-                "count": 187
+                "count": 189
             }
         }
     }
