@@ -43,11 +43,11 @@
                 "supports": [],
                 "parent": "2",
                 "children": [
-                    "444",
-                    "38",
-                    "290",
                     "390",
                     "478",
+                    "444",
+                    "290",
+                    "38",
                     "391",
                     "159",
                     "473",
@@ -160,13 +160,13 @@
                     "538",
                     "436",
                     "120",
+                    "483",
                     "76",
                     "145",
-                    "483",
+                    "541",
                     "157",
                     "165",
                     "168",
-                    "541",
                     "134",
                     "182",
                     "135",
@@ -187,8 +187,8 @@
                     "475",
                     "460",
                     "468",
-                    "98",
                     "451",
+                    "98",
                     "462",
                     "439",
                     "507",
@@ -374,25 +374,49 @@
             "id": "7",
             "slug": "web-api-animationevent",
             "mdn_uri": {
-                "en": "https://developer.mozilla.org/en-US/docs/Web/API/AnimationEvent"
+                "en": "https://developer.mozilla.org/en-US/docs/Web/API/AnimationEvent",
+                "fr": "https://developer.mozilla.org/fr/docs/Web/API/AnimationEvent",
+                "ko": "https://developer.mozilla.org/ko/docs/Web/API/AnimationEvent",
+                "zh-CN": "https://developer.mozilla.org/zh-CN/docs/Web/API/AnimationEvent",
+                "zh-TW": "https://developer.mozilla.org/zh-TW/docs/Web/API/AnimationEvent"
             },
             "experimental": false,
             "standardized": true,
             "stable": true,
             "obsolete": false,
             "name": {
-                "en": "AnimationEvent"
+                "en": "AnimationEvent",
+                "fr": "AnimationEvent",
+                "ko": "AnimationEvent",
+                "zh-CN": "AnimationEvent",
+                "zh-TW": "AnimationEvent"
             },
             "links": {
                 "sections": [
                     "51"
                 ],
-                "supports": [],
+                "supports": [
+                    "515",
+                    "516",
+                    "517",
+                    "518",
+                    "519",
+                    "520",
+                    "521",
+                    "522",
+                    "523",
+                    "524",
+                    "525",
+                    "526",
+                    "527",
+                    "528",
+                    "529",
+                    "530"
+                ],
                 "parent": "3",
                 "children": [
                     "6977",
                     "6976",
-                    "6975",
                     "6974",
                     "1412",
                     "1411",
@@ -1635,8 +1659,6 @@
                 "supports": [],
                 "parent": "3",
                 "children": [
-                    "7037",
-                    "7036",
                     "2146",
                     "2145",
                     "2144",
@@ -1688,7 +1710,9 @@
                     "2105",
                     "2098",
                     "2097",
-                    "2096"
+                    "2096",
+                    "7037",
+                    "7036"
                 ]
             }
         },
@@ -1730,11 +1754,11 @@
                 "supports": [],
                 "parent": "3",
                 "children": [
+                    "2178",
+                    "2180",
                     "7041",
                     "7040",
                     "7039",
-                    "2178",
-                    "2180",
                     "2179",
                     "6931"
                 ]
@@ -2690,11 +2714,11 @@
                     "6162",
                     "6161",
                     "6159",
+                    "6918",
                     "6177",
                     "6176",
                     "6174",
                     "6172",
-                    "6918",
                     "6917",
                     "6915",
                     "6916"
@@ -3363,18 +3387,38 @@
             "id": "196",
             "slug": "web-api-idbcursor",
             "mdn_uri": {
-                "en": "https://developer.mozilla.org/en-US/docs/Web/API/IDBCursor"
+                "en": "https://developer.mozilla.org/en-US/docs/Web/API/IDBCursor",
+                "pt-BR": "https://developer.mozilla.org/pt-BR/docs/Web/API/IDBCursor",
+                "zh-CN": "https://developer.mozilla.org/zh-CN/docs/Web/API/IDBCursor"
             },
             "experimental": false,
             "standardized": true,
             "stable": true,
             "obsolete": false,
             "name": {
-                "en": "IDBCursor"
+                "en": "IDBCursor",
+                "pt-BR": "IDBCursor",
+                "zh-CN": "IDBCursor"
             },
             "links": {
-                "sections": [],
-                "supports": [],
+                "sections": [
+                    "99"
+                ],
+                "supports": [
+                    "404",
+                    "405",
+                    "406",
+                    "407",
+                    "408",
+                    "409",
+                    "410",
+                    "411",
+                    "412",
+                    "413",
+                    "414",
+                    "415",
+                    "416"
+                ],
                 "parent": "3",
                 "children": [
                     "2443",
@@ -3384,7 +3428,8 @@
                     "2444",
                     "2438",
                     "2439",
-                    "2442"
+                    "2442",
+                    "7164"
                 ]
             }
         },
@@ -3504,8 +3549,6 @@
                 "supports": [],
                 "parent": "3",
                 "children": [
-                    "7044",
-                    "7043",
                     "2469",
                     "2476",
                     "2474",
@@ -3517,7 +3560,9 @@
                     "2475",
                     "2466",
                     "2468",
-                    "2473"
+                    "2473",
+                    "7044",
+                    "7043"
                 ]
             }
         },
@@ -3584,8 +3629,8 @@
                     "2502",
                     "2495",
                     "2490",
-                    "6938",
-                    "6937"
+                    "6937",
+                    "6938"
                 ]
             }
         },
@@ -3663,9 +3708,9 @@
                     "2517",
                     "2519",
                     "2513",
-                    "2516",
                     "2514",
                     "2518",
+                    "2516",
                     "6939"
                 ]
             }
@@ -3736,8 +3781,8 @@
                 "children": [
                     "2534",
                     "2535",
-                    "2533",
-                    "2536"
+                    "2536",
+                    "2533"
                 ]
             }
         },
@@ -3866,8 +3911,6 @@
                 "supports": [],
                 "parent": "3",
                 "children": [
-                    "7054",
-                    "7053",
                     "2612",
                     "2608",
                     "2614",
@@ -3880,6 +3923,8 @@
                     "2620",
                     "2621",
                     "2617",
+                    "7054",
+                    "7053",
                     "2616",
                     "2613"
                 ]
@@ -3995,11 +4040,6 @@
                 "supports": [],
                 "parent": "3",
                 "children": [
-                    "7063",
-                    "7062",
-                    "7061",
-                    "7060",
-                    "7059",
                     "2655",
                     "2660",
                     "6211",
@@ -4014,6 +4054,11 @@
                     "2654",
                     "2653",
                     "2652",
+                    "7063",
+                    "7062",
+                    "7061",
+                    "7060",
+                    "7059",
                     "2659",
                     "2656",
                     "2665",
@@ -4126,8 +4171,6 @@
                 "supports": [],
                 "parent": "3",
                 "children": [
-                    "7066",
-                    "7065",
                     "3022",
                     "3034",
                     "3030",
@@ -4153,6 +4196,8 @@
                     "3040",
                     "3039",
                     "3016",
+                    "7066",
+                    "7065",
                     "3029",
                     "3017",
                     "3045",
@@ -4634,9 +4679,9 @@
                     "3229",
                     "6267",
                     "6269",
+                    "6251",
                     "6268",
                     "6260",
-                    "6251",
                     "6249",
                     "6257",
                     "6272",
@@ -6417,7 +6462,6 @@
                 "supports": [],
                 "parent": "3",
                 "children": [
-                    "7072",
                     "3577",
                     "3584",
                     "3581",
@@ -6426,6 +6470,7 @@
                     "3585",
                     "3582",
                     "3583",
+                    "7072",
                     "3579"
                 ]
             }
@@ -6478,13 +6523,13 @@
                     "3601",
                     "3595",
                     "3594",
+                    "3592",
                     "3590",
                     "3599",
                     "3602",
                     "3596",
                     "3593",
-                    "3600",
-                    "3592"
+                    "3600"
                 ]
             }
         },
@@ -6745,9 +6790,9 @@
                 "supports": [],
                 "parent": "2",
                 "children": [
+                    "750",
                     "839",
                     "728",
-                    "750",
                     "663",
                     "684",
                     "697",
@@ -6764,8 +6809,8 @@
                     "815",
                     "749",
                     "772",
-                    "786",
                     "721",
+                    "786",
                     "722",
                     "665",
                     "825",
@@ -6854,16 +6899,16 @@
                     "689",
                     "832",
                     "744",
-                    "768",
                     "707",
+                    "768",
                     "656",
                     "646",
                     "719",
-                    "741",
                     "699",
+                    "741",
                     "687",
-                    "774",
                     "667",
+                    "774",
                     "683",
                     "647",
                     "782",
@@ -6872,8 +6917,8 @@
                     "836",
                     "861",
                     "682",
-                    "668",
                     "853",
+                    "668",
                     "733",
                     "690",
                     "681",
@@ -7328,18 +7373,28 @@
             "name": "background",
             "links": {
                 "sections": [
-                    "24",
                     "23",
+                    "24",
                     "22"
                 ],
-                "supports": [],
+                "supports": [
+                    "542",
+                    "543",
+                    "544",
+                    "545",
+                    "546",
+                    "547",
+                    "548",
+                    "549",
+                    "550",
+                    "551"
+                ],
                 "parent": "581",
                 "children": [
-                    "6967",
-                    "6966",
-                    "6965",
                     "6964",
-                    "6963"
+                    "6965",
+                    "6967",
+                    "6966"
                 ]
             }
         },
@@ -8334,7 +8389,13 @@
             "id": "709",
             "slug": "web-css-clear",
             "mdn_uri": {
-                "en": "https://developer.mozilla.org/en-US/docs/Web/CSS/clear"
+                "en": "https://developer.mozilla.org/en-US/docs/Web/CSS/clear",
+                "de": "https://developer.mozilla.org/de/docs/Web/CSS/clear",
+                "fr": "https://developer.mozilla.org/fr/docs/Web/CSS/clear",
+                "ja": "https://developer.mozilla.org/ja/docs/Web/CSS/clear",
+                "pl": "https://developer.mozilla.org/pl/docs/Web/CSS/clear",
+                "pt-PT": "https://developer.mozilla.org/pt-PT/docs/Web/CSS/clear",
+                "zh-CN": "https://developer.mozilla.org/zh-CN/docs/Web/CSS/clear"
             },
             "experimental": false,
             "standardized": true,
@@ -8343,15 +8404,24 @@
             "name": "clear",
             "links": {
                 "sections": [
-                    "27",
                     "25",
-                    "26"
+                    "26",
+                    "27"
                 ],
-                "supports": [],
+                "supports": [
+                    "552",
+                    "553",
+                    "554",
+                    "555",
+                    "556",
+                    "557",
+                    "558",
+                    "559",
+                    "560",
+                    "561"
+                ],
                 "parent": "581",
-                "children": [
-                    "6968"
-                ]
+                "children": []
             }
         },
         {
@@ -8740,29 +8810,31 @@
             "name": "display",
             "links": {
                 "sections": [
-                    "8",
-                    "9",
                     "7",
-                    "12",
+                    "9",
+                    "8",
+                    "11",
                     "10",
-                    "11"
+                    "12"
                 ],
-                "supports": [],
+                "supports": [
+                    "621",
+                    "622"
+                ],
                 "parent": "581",
                 "children": [
                     "1146",
-                    "1142",
                     "1144",
                     "1145",
                     "1148",
                     "1151",
-                    "1141",
-                    "1140",
                     "1143",
                     "1147",
                     "1149",
                     "1150",
-                    "1152"
+                    "1152",
+                    "1142",
+                    "1141"
                 ]
             }
         },
@@ -8949,9 +9021,7 @@
                 ],
                 "supports": [],
                 "parent": "581",
-                "children": [
-                    "6969"
-                ]
+                "children": []
             }
         },
         {
@@ -8971,15 +9041,25 @@
             "name": "float",
             "links": {
                 "sections": [
-                    "2",
+                    "116",
+                    "25",
                     "3",
-                    "1"
+                    "2"
                 ],
-                "supports": [],
+                "supports": [
+                    "562",
+                    "563",
+                    "564",
+                    "565",
+                    "566",
+                    "567",
+                    "568",
+                    "569",
+                    "570",
+                    "571"
+                ],
                 "parent": "581",
-                "children": [
-                    "1136"
-                ]
+                "children": []
             }
         },
         {
@@ -10283,8 +10363,8 @@
             "name": "position",
             "links": {
                 "sections": [
-                    "94",
-                    "93"
+                    "93",
+                    "94"
                 ],
                 "supports": [
                     "337",
@@ -10885,7 +10965,8 @@
                 "en": "https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin",
                 "es": "https://developer.mozilla.org/es/docs/Web/CSS/transform-origin",
                 "fr": "https://developer.mozilla.org/fr/docs/Web/CSS/transform-origin",
-                "ja": "https://developer.mozilla.org/ja/docs/Web/CSS/transform-origin"
+                "ja": "https://developer.mozilla.org/ja/docs/Web/CSS/transform-origin",
+                "zh-CN": "https://developer.mozilla.org/zh-CN/docs/Web/CSS/transform-origin"
             },
             "experimental": false,
             "standardized": true,
@@ -10896,10 +10977,20 @@
                 "sections": [
                     "4"
                 ],
-                "supports": [],
+                "supports": [
+                    "572",
+                    "573",
+                    "574",
+                    "575",
+                    "576",
+                    "577",
+                    "578",
+                    "579",
+                    "580"
+                ],
                 "parent": "581",
                 "children": [
-                    "1137",
+                    "7165",
                     "1138"
                 ]
             }
@@ -11585,8 +11676,8 @@
                     "962",
                     "901",
                     "951",
-                    "970",
                     "927",
+                    "970",
                     "957",
                     "969",
                     "885",
@@ -12479,7 +12570,9 @@
                 "de": "https://developer.mozilla.org/de/docs/Web/HTML/Element/header",
                 "es": "https://developer.mozilla.org/es/docs/Web/HTML/Elemento/header",
                 "fr": "https://developer.mozilla.org/fr/docs/Web/HTML/Element/header",
+                "it": "https://developer.mozilla.org/it/docs/Web/HTML/Element/header",
                 "ja": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/header",
+                "ko": "https://developer.mozilla.org/ko/docs/Web/HTML/Element/header",
                 "pt-BR": "https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/header",
                 "zh-CN": "https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/header"
             },
@@ -12493,11 +12586,20 @@
                     "5",
                     "6"
                 ],
-                "supports": [],
+                "supports": [
+                    "624",
+                    "625",
+                    "626",
+                    "627",
+                    "628",
+                    "629",
+                    "630",
+                    "631",
+                    "632",
+                    "633"
+                ],
                 "parent": "883",
-                "children": [
-                    "1139"
-                ]
+                "children": []
             }
         },
         {
@@ -12691,9 +12793,7 @@
                 ],
                 "supports": [],
                 "parent": "883",
-                "children": [
-                    "7156"
-                ]
+                "children": []
             }
         },
         {
@@ -13042,7 +13142,16 @@
             "id": "965",
             "slug": "web-html-element-p",
             "mdn_uri": {
-                "en": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p"
+                "en": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p",
+                "de": "https://developer.mozilla.org/de/docs/Web/HTML/Element/p",
+                "es": "https://developer.mozilla.org/es/docs/Web/HTML/Elemento/p",
+                "fr": "https://developer.mozilla.org/fr/docs/Web/HTML/Element/p",
+                "ja": "https://developer.mozilla.org/ja/docs/Web/HTML/Element/p",
+                "ko": "https://developer.mozilla.org/ko/docs/Web/HTML/Element/p",
+                "nl": "https://developer.mozilla.org/nl/docs/Web/HTML/HTML_Tags/p",
+                "pl": "https://developer.mozilla.org/pl/docs/Web/HTML/Element/p",
+                "pt-BR": "https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/p",
+                "zh-CN": "https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/p"
             },
             "experimental": false,
             "standardized": true,
@@ -13055,11 +13164,20 @@
                     "14",
                     "13"
                 ],
-                "supports": [],
+                "supports": [
+                    "634",
+                    "635",
+                    "636",
+                    "637",
+                    "638",
+                    "639",
+                    "640",
+                    "641",
+                    "642",
+                    "643"
+                ],
                 "parent": "883",
-                "children": [
-                    "1153"
-                ]
+                "children": []
             }
         },
         {
@@ -13129,15 +13247,24 @@
             "name": "&lt;q&gt;",
             "links": {
                 "sections": [
-                    "30",
+                    "34",
                     "32",
-                    "34"
+                    "30"
                 ],
-                "supports": [],
+                "supports": [
+                    "588",
+                    "589",
+                    "590",
+                    "591",
+                    "592",
+                    "593",
+                    "594",
+                    "595",
+                    "596",
+                    "597"
+                ],
                 "parent": "883",
-                "children": [
-                    "6970"
-                ]
+                "children": []
             }
         },
         {
@@ -13524,10 +13651,10 @@
                     "1006",
                     "1029",
                     "1027",
-                    "1018",
                     "1020",
-                    "1003",
-                    "990"
+                    "990",
+                    "1018",
+                    "1003"
                 ]
             }
         },
@@ -13536,6 +13663,7 @@
             "slug": "web-javascript-reference-global_objects-array",
             "mdn_uri": {
                 "en": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+                "ca": "https://developer.mozilla.org/ca/docs/Web/JavaScript/Referencia/Objectes_globals/Array",
                 "de": "https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array",
                 "es": "https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array",
                 "fr": "https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array",
@@ -13557,18 +13685,45 @@
             "stable": true,
             "obsolete": false,
             "name": {
-                "en": "Array"
+                "en": "Array",
+                "ca": "Array",
+                "de": "Array",
+                "es": "Array",
+                "fr": "Array",
+                "ja": "Array",
+                "ka": "Array",
+                "ko": "Array",
+                "pl": "Array",
+                "pt-BR": "Array",
+                "ro": "Array",
+                "ru": "Array",
+                "th": "Array",
+                "tr": "Array",
+                "vi": "Array",
+                "zh-CN": "Array",
+                "zh-TW": "Array"
             },
             "links": {
                 "sections": [
-                    "18",
+                    "48",
                     "17",
-                    "35"
+                    "18"
                 ],
-                "supports": [],
+                "supports": [
+                    "598",
+                    "599",
+                    "600",
+                    "601",
+                    "602",
+                    "603",
+                    "604",
+                    "605",
+                    "606",
+                    "607",
+                    "608"
+                ],
                 "parent": "989",
                 "children": [
-                    "6044",
                     "5084",
                     "5054",
                     "5063",
@@ -13602,9 +13757,9 @@
                     "5052",
                     "5072",
                     "5081",
-                    "5061",
                     "5065",
                     "5092",
+                    "5061",
                     "5053",
                     "5093"
                 ]
@@ -14231,8 +14386,8 @@
                     "5300",
                     "5282",
                     "5287",
-                    "5301",
-                    "5285"
+                    "5285",
+                    "5301"
                 ]
             }
         },
@@ -14317,8 +14472,8 @@
                     "5340",
                     "5338",
                     "5307",
-                    "5331",
-                    "7154"
+                    "7154",
+                    "5331"
                 ]
             }
         },
@@ -14362,18 +14517,55 @@
             "id": "1018",
             "slug": "web-javascript-reference-global_objects-promise",
             "mdn_uri": {
-                "en": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
+                "en": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+                "de": "https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+                "es": "https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promesa",
+                "fr": "https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Promise",
+                "it": "https://developer.mozilla.org/it/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+                "ja": "https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+                "ko": "https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+                "nl": "https://developer.mozilla.org/nl/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+                "pt-BR": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+                "ru": "https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+                "zh-CN": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise"
             },
             "experimental": false,
             "standardized": true,
             "stable": true,
             "obsolete": false,
             "name": {
-                "en": "Promise"
+                "en": "Promise",
+                "de": "Promise",
+                "es": "Promesa",
+                "fr": "Promise",
+                "it": "Promise",
+                "ja": "Promise",
+                "ko": "Promise",
+                "nl": "Promise",
+                "pt-BR": "Promise",
+                "ru": "Promise",
+                "zh-CN": "Promise"
             },
             "links": {
-                "sections": [],
-                "supports": [],
+                "sections": [
+                    "101",
+                    "100"
+                ],
+                "supports": [
+                    "424",
+                    "425",
+                    "426",
+                    "427",
+                    "428",
+                    "429",
+                    "430",
+                    "431",
+                    "432",
+                    "433",
+                    "434",
+                    "435",
+                    "436"
+                ],
                 "parent": "989",
                 "children": [
                     "5351",
@@ -14381,8 +14573,8 @@
                     "5350",
                     "5348",
                     "5347",
-                    "5346",
-                    "5345"
+                    "5345",
+                    "5346"
                 ]
             }
         },
@@ -14491,7 +14683,6 @@
                 "children": [
                     "5385",
                     "6897",
-                    "5387",
                     "5379",
                     "5378",
                     "5382",
@@ -14499,7 +14690,8 @@
                     "5388",
                     "6898",
                     "5383",
-                    "5380"
+                    "5380",
+                    "5387"
                 ]
             }
         },
@@ -14542,7 +14734,6 @@
                     "5440",
                     "5442",
                     "5437",
-                    "5467",
                     "5475",
                     "5473",
                     "5474",
@@ -14552,9 +14743,6 @@
                     "5455",
                     "5468",
                     "5480",
-                    "5484",
-                    "5453",
-                    "5459",
                     "5477",
                     "5456",
                     "5447",
@@ -14564,11 +14752,15 @@
                     "5463",
                     "5441",
                     "5470",
-                    "5439",
                     "5450",
                     "5485",
                     "5461",
                     "5478",
+                    "5439",
+                    "5467",
+                    "5453",
+                    "5459",
+                    "5484",
                     "5460"
                 ]
             }
@@ -14594,10 +14786,10 @@
                     "5491",
                     "5494",
                     "5489",
-                    "5490",
                     "5487",
                     "5493",
                     "5486",
+                    "5490",
                     "5488",
                     "5492"
                 ]
@@ -15170,15 +15362,15 @@
                     "1069",
                     "1059",
                     "1065",
-                    "1074",
                     "1068",
-                    "1061",
-                    "1078",
-                    "1071",
                     "1056",
                     "1062",
                     "1072",
                     "1082",
+                    "1078",
+                    "1071",
+                    "1061",
+                    "1074",
                     "1058"
                 ]
             }
@@ -15879,7 +16071,6 @@
                     "1124",
                     "1096",
                     "1117",
-                    "1102",
                     "1106",
                     "1105",
                     "1101",
@@ -15887,6 +16078,7 @@
                     "1093",
                     "1104",
                     "1121",
+                    "1102",
                     "1116",
                     "1094"
                 ]
@@ -16541,67 +16733,6 @@
             }
         },
         {
-            "id": "1136",
-            "slug": "web-css-float_basic-support",
-            "mdn_uri": null,
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": {
-                "en": "Basic Support",
-                "ja": "\u57fa\u672c\u30b5\u30dd\u30fc\u30c8"
-            },
-            "links": {
-                "sections": [],
-                "supports": [
-                    "1",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7",
-                    "8",
-                    "9",
-                    "10"
-                ],
-                "parent": "741",
-                "children": []
-            }
-        },
-        {
-            "id": "1137",
-            "slug": "web-css-transform-origin-basic-support",
-            "mdn_uri": null,
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": {
-                "en": "Basic Support",
-                "es": "Soporte b\u00e1sico",
-                "fr": "Support de base",
-                "ja": "\u57fa\u672c\u30b5\u30dd\u30fc\u30c8"
-            },
-            "links": {
-                "sections": [],
-                "supports": [
-                    "11",
-                    "12",
-                    "13",
-                    "14",
-                    "15",
-                    "16",
-                    "17",
-                    "18",
-                    "19"
-                ],
-                "parent": "847",
-                "children": []
-            }
-        },
-        {
             "id": "1138",
             "slug": "web-css-transform-three-value-syntax",
             "mdn_uri": null,
@@ -16626,56 +16757,6 @@
                     "26"
                 ],
                 "parent": "847",
-                "children": []
-            }
-        },
-        {
-            "id": "1139",
-            "slug": "web-html-element-header_basic_support",
-            "mdn_uri": null,
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": {
-                "en": "Basic support"
-            },
-            "links": {
-                "sections": [],
-                "supports": [
-                    "27",
-                    "28",
-                    "29",
-                    "30",
-                    "31",
-                    "32",
-                    "33",
-                    "34",
-                    "35",
-                    "36"
-                ],
-                "parent": "935",
-                "children": []
-            }
-        },
-        {
-            "id": "1140",
-            "slug": "web-css-display_basic_support",
-            "mdn_uri": null,
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": {
-                "en": "Basic support"
-            },
-            "links": {
-                "sections": [],
-                "supports": [
-                    "113",
-                    "114"
-                ],
-                "parent": "730",
                 "children": []
             }
         },
@@ -16918,7 +16999,8 @@
                     "83",
                     "84",
                     "85",
-                    "86"
+                    "86",
+                    "623"
                 ],
                 "parent": "730",
                 "children": []
@@ -16949,35 +17031,6 @@
             }
         },
         {
-            "id": "1153",
-            "slug": "web-html-element-p_basic_support",
-            "mdn_uri": null,
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": {
-                "en": "Basic support"
-            },
-            "links": {
-                "sections": [],
-                "supports": [
-                    "92",
-                    "93",
-                    "94",
-                    "95",
-                    "96",
-                    "97",
-                    "98",
-                    "99",
-                    "100",
-                    "101"
-                ],
-                "parent": "965",
-                "children": []
-            }
-        },
-        {
             "id": "1157",
             "slug": "web1",
             "mdn_uri": {
@@ -16996,8 +17049,13 @@
                 "parent": null,
                 "children": [
                     "5601",
+                    "4463",
+                    "4734",
+                    "4160",
                     "5674",
+                    "1396",
                     "5614",
+                    "4758",
                     "5924",
                     "5996",
                     "6036",
@@ -17011,11 +17069,6 @@
                     "5673",
                     "4986",
                     "5923",
-                    "4463",
-                    "4734",
-                    "4160",
-                    "4758",
-                    "1396",
                     "1158"
                 ]
             }
@@ -22458,10 +22511,10 @@
                     "2088",
                     "2089",
                     "2147",
-                    "2149",
                     "2151",
                     "2153",
-                    "2155"
+                    "2155",
+                    "2149"
                 ]
             }
         },
@@ -22809,25 +22862,42 @@
             "id": "1424",
             "slug": "web_api_attr",
             "mdn_uri": {
-                "en": "https://developer.mozilla.org/en-US/docs/Web/API/Attr"
+                "en": "https://developer.mozilla.org/en-US/docs/Web/API/Attr",
+                "fr": "https://developer.mozilla.org/fr/docs/Web/API/Attr",
+                "pt-BR": "https://developer.mozilla.org/pt-BR/docs/Web/API/Attr",
+                "zh-CN": "https://developer.mozilla.org/zh-CN/docs/Web/API/Attr"
             },
             "experimental": false,
             "standardized": true,
             "stable": true,
             "obsolete": false,
             "name": {
-                "en": "Attr"
+                "en": "Attr",
+                "fr": "Attr",
+                "pt-BR": "Attr",
+                "zh-CN": "Attr"
             },
             "links": {
                 "sections": [
                     "53",
                     "52"
                 ],
-                "supports": [],
+                "supports": [
+                    "609",
+                    "610",
+                    "611",
+                    "612",
+                    "613",
+                    "614",
+                    "615",
+                    "616",
+                    "617",
+                    "618",
+                    "619",
+                    "620"
+                ],
                 "parent": "1396",
-                "children": [
-                    "6978"
-                ]
+                "children": []
             }
         },
         {
@@ -23148,11 +23218,11 @@
                 "supports": [],
                 "parent": "1396",
                 "children": [
-                    "6979",
                     "1444",
                     "1441",
                     "1443",
-                    "1442"
+                    "1442",
+                    "6979"
                 ]
             }
         },
@@ -25856,8 +25926,6 @@
                 "supports": [],
                 "parent": "1396",
                 "children": [
-                    "7032",
-                    "7031",
                     "1641",
                     "1636",
                     "1635",
@@ -25871,10 +25939,12 @@
                     "1659",
                     "1647",
                     "1646",
-                    "1658",
+                    "7032",
+                    "7031",
                     "1657",
                     "1656",
                     "1655",
+                    "1658",
                     "1654",
                     "1645",
                     "1644",
@@ -31145,7 +31215,6 @@
                 "supports": [],
                 "parent": "1396",
                 "children": [
-                    "7035",
                     "1896",
                     "1897",
                     "1895",
@@ -31158,7 +31227,8 @@
                     "1901",
                     "1900",
                     "1899",
-                    "1898"
+                    "1898",
+                    "7035"
                 ]
             }
         },
@@ -31603,15 +31673,17 @@
                 "supports": [],
                 "parent": "1396",
                 "children": [
-                    "1928",
                     "1915",
                     "1942",
+                    "1928",
                     "1971",
                     "1913",
                     "1914",
                     "1916",
                     "1917",
                     "1918",
+                    "1946",
+                    "1947",
                     "1927",
                     "1932",
                     "1933",
@@ -31643,8 +31715,6 @@
                     "1943",
                     "1944",
                     "1945",
-                    "1946",
-                    "1947",
                     "1948",
                     "1949",
                     "1950",
@@ -36644,7 +36714,6 @@
                 "supports": [],
                 "parent": "1396",
                 "children": [
-                    "7038",
                     "2175",
                     "2168",
                     "2167",
@@ -36657,6 +36726,7 @@
                     "2161",
                     "2160",
                     "2162",
+                    "7038",
                     "2176",
                     "2173",
                     "2172",
@@ -52440,23 +52510,24 @@
                 "parent": "1396",
                 "children": [
                     "2947",
+                    "2955",
+                    "2956",
                     "2959",
                     "2953",
                     "2954",
-                    "2955",
-                    "2956",
                     "2957",
                     "2958",
                     "2961",
-                    "2963",
-                    "2964",
-                    "2965",
-                    "2966",
                     "2967",
+                    "2963",
                     "2968",
+                    "2964",
                     "2969",
+                    "2965",
                     "2970",
+                    "2966",
                     "2971",
+                    "2946",
                     "2975",
                     "2976",
                     "2978",
@@ -52473,7 +52544,6 @@
                     "2990",
                     "2991",
                     "6226",
-                    "2946",
                     "7064",
                     "2979",
                     "2982",
@@ -56796,8 +56866,8 @@
                 "supports": [],
                 "parent": "1396",
                 "children": [
-                    "6241",
                     "3153",
+                    "6241",
                     "3154"
                 ]
             }
@@ -62952,7 +63022,6 @@
                 "supports": [],
                 "parent": "1396",
                 "children": [
-                    "7071",
                     "3501",
                     "3500",
                     "3499",
@@ -62968,6 +63037,7 @@
                     "6290",
                     "6289",
                     "6288",
+                    "7071",
                     "3496"
                 ]
             }
@@ -65606,8 +65676,8 @@
                 "supports": [],
                 "parent": "1396",
                 "children": [
-                    "7073",
-                    "3620"
+                    "3620",
+                    "7073"
                 ]
             }
         },
@@ -66662,8 +66732,8 @@
                 "supports": [],
                 "parent": "1396",
                 "children": [
-                    "7074",
                     "3671",
+                    "7074",
                     "6941"
                 ]
             }
@@ -66726,17 +66796,17 @@
                 "supports": [],
                 "parent": "1396",
                 "children": [
+                    "6348",
+                    "6347",
+                    "6346",
+                    "6345",
+                    "6344",
                     "7088",
                     "7087",
                     "7086",
                     "7085",
                     "7084",
-                    "7083",
-                    "6348",
-                    "6347",
-                    "6346",
-                    "6345",
-                    "6344"
+                    "7083"
                 ]
             }
         },
@@ -66758,8 +66828,6 @@
                 "supports": [],
                 "parent": "1396",
                 "children": [
-                    "7090",
-                    "7089",
                     "6350",
                     "6354",
                     "6353",
@@ -66768,7 +66836,9 @@
                     "3675",
                     "3681",
                     "3680",
-                    "3679"
+                    "3679",
+                    "7090",
+                    "7089"
                 ]
             }
         },
@@ -71072,6 +71142,10 @@
                 "supports": [],
                 "parent": "1157",
                 "children": [
+                    "7118",
+                    "7119",
+                    "6806",
+                    "6833",
                     "6954",
                     "6953",
                     "6942",
@@ -71084,11 +71158,7 @@
                     "6817",
                     "6818",
                     "6814",
-                    "7118",
-                    "7119",
-                    "6806",
                     "6811",
-                    "6833",
                     "6808",
                     "6822",
                     "6824",
@@ -75160,13 +75230,13 @@
                     "4543",
                     "4512",
                     "4482",
+                    "4646",
+                    "4697",
                     "4575",
                     "4593",
                     "4488",
                     "4480",
                     "4572",
-                    "4646",
-                    "4697",
                     "4566",
                     "4586",
                     "4659",
@@ -80765,10 +80835,10 @@
                 "parent": "4758",
                 "children": [
                     "4773",
-                    "4774",
-                    "4761",
                     "4770",
-                    "4760"
+                    "4760",
+                    "4774",
+                    "4761"
                 ]
             }
         },
@@ -81070,15 +81140,15 @@
                     "4818",
                     "4817",
                     "4804",
-                    "4782",
                     "6842",
                     "4780",
                     "4821",
                     "4803",
-                    "4816",
                     "4779",
                     "4822",
-                    "4813"
+                    "4813",
+                    "4782",
+                    "4816"
                 ]
             }
         },
@@ -81185,20 +81255,20 @@
                     "4798",
                     "4791",
                     "4790",
-                    "4792",
                     "4786",
                     "4789",
                     "4799",
                     "4800",
+                    "4783",
+                    "4785",
+                    "4795",
+                    "4796",
+                    "4792",
                     "4788",
                     "4784",
                     "4794",
                     "4787",
-                    "4793",
-                    "4783",
-                    "4785",
-                    "4795",
-                    "4796"
+                    "4793"
                 ]
             }
         },
@@ -81662,11 +81732,11 @@
                 "children": [
                     "4806",
                     "4809",
-                    "4812",
-                    "4811",
                     "4808",
                     "4807",
-                    "4810"
+                    "4810",
+                    "4812",
+                    "4811"
                 ]
             }
         },
@@ -82230,7 +82300,6 @@
                     "4868",
                     "4866",
                     "4871",
-                    "4837",
                     "4842",
                     "4869",
                     "4839",
@@ -82239,7 +82308,8 @@
                     "4872",
                     "4836",
                     "4855",
-                    "4874"
+                    "4874",
+                    "4837"
                 ]
             }
         },
@@ -82494,9 +82564,9 @@
                 "children": [
                     "4851",
                     "4849",
-                    "4850",
                     "4847",
-                    "4848"
+                    "4848",
+                    "4850"
                 ]
             }
         },
@@ -82822,9 +82892,9 @@
                 "supports": [],
                 "parent": "4834",
                 "children": [
-                    "4863",
                     "4865",
-                    "4864"
+                    "4864",
+                    "4863"
                 ]
             }
         },
@@ -83277,19 +83347,19 @@
                     "4961",
                     "4941",
                     "4958",
+                    "4888",
                     "4959",
                     "4893",
-                    "4963",
-                    "4964",
-                    "4940",
-                    "4962",
-                    "4960",
-                    "4888",
                     "4887",
                     "4890",
                     "4891",
+                    "4963",
+                    "4964",
                     "4889",
-                    "4892"
+                    "4892",
+                    "4940",
+                    "4962",
+                    "4960"
                 ]
             }
         },
@@ -83431,16 +83501,8 @@
                 "supports": [],
                 "parent": "4886",
                 "children": [
-                    "4932",
-                    "4936",
-                    "4931",
-                    "4935",
-                    "4933",
-                    "4937",
-                    "4938",
-                    "4934",
-                    "4939",
                     "4896",
+                    "4932",
                     "4929",
                     "4911",
                     "4912",
@@ -83448,19 +83510,21 @@
                     "4920",
                     "4917",
                     "4928",
+                    "4936",
                     "4897",
                     "4915",
                     "4921",
+                    "4931",
+                    "4935",
                     "4930",
                     "4901",
-                    "4909",
-                    "4923",
-                    "4926",
+                    "4933",
                     "4925",
                     "4918",
+                    "4937",
                     "4899",
                     "4922",
-                    "4900",
+                    "4938",
                     "4894",
                     "4913",
                     "4910",
@@ -83468,8 +83532,14 @@
                     "4898",
                     "4895",
                     "4924",
+                    "4934",
                     "4927",
-                    "4916"
+                    "4916",
+                    "4939",
+                    "4909",
+                    "4923",
+                    "4926",
+                    "4900"
                 ]
             }
         },
@@ -86749,9 +86819,7 @@
                 ],
                 "supports": [],
                 "parent": "990",
-                "children": [
-                    "6971"
-                ]
+                "children": []
             }
         },
         {
@@ -88616,9 +88684,7 @@
                 ],
                 "supports": [],
                 "parent": "993",
-                "children": [
-                    "6972"
-                ]
+                "children": []
             }
         },
         {
@@ -92301,8 +92367,23 @@
                 "en": "Promise.prototype.catch()"
             },
             "links": {
-                "sections": [],
-                "supports": [],
+                "sections": [
+                    "107",
+                    "106"
+                ],
+                "supports": [
+                    "459",
+                    "460",
+                    "461",
+                    "462",
+                    "463",
+                    "464",
+                    "465",
+                    "466",
+                    "467",
+                    "468",
+                    "469"
+                ],
                 "parent": "1018",
                 "children": []
             }
@@ -92321,8 +92402,23 @@
                 "en": "Promise.all()"
             },
             "links": {
-                "sections": [],
-                "supports": [],
+                "sections": [
+                    "105",
+                    "104"
+                ],
+                "supports": [
+                    "448",
+                    "449",
+                    "450",
+                    "451",
+                    "452",
+                    "453",
+                    "454",
+                    "455",
+                    "456",
+                    "457",
+                    "458"
+                ],
                 "parent": "1018",
                 "children": []
             }
@@ -92341,8 +92437,23 @@
                 "en": "Promise.prototype"
             },
             "links": {
-                "sections": [],
-                "supports": [],
+                "sections": [
+                    "102",
+                    "103"
+                ],
+                "supports": [
+                    "437",
+                    "438",
+                    "439",
+                    "440",
+                    "441",
+                    "442",
+                    "443",
+                    "444",
+                    "445",
+                    "446",
+                    "447"
+                ],
                 "parent": "1018",
                 "children": []
             }
@@ -92361,8 +92472,23 @@
                 "en": "Promise.resolve()"
             },
             "links": {
-                "sections": [],
-                "supports": [],
+                "sections": [
+                    "113",
+                    "112"
+                ],
+                "supports": [
+                    "493",
+                    "494",
+                    "495",
+                    "496",
+                    "497",
+                    "498",
+                    "499",
+                    "500",
+                    "501",
+                    "502",
+                    "503"
+                ],
                 "parent": "1018",
                 "children": []
             }
@@ -92381,8 +92507,24 @@
                 "en": "Promise.reject()"
             },
             "links": {
-                "sections": [],
-                "supports": [],
+                "sections": [
+                    "111",
+                    "110"
+                ],
+                "supports": [
+                    "481",
+                    "482",
+                    "483",
+                    "484",
+                    "485",
+                    "486",
+                    "487",
+                    "488",
+                    "489",
+                    "490",
+                    "491",
+                    "492"
+                ],
                 "parent": "1018",
                 "children": []
             }
@@ -92401,8 +92543,23 @@
                 "en": "Promise.race()"
             },
             "links": {
-                "sections": [],
-                "supports": [],
+                "sections": [
+                    "109",
+                    "108"
+                ],
+                "supports": [
+                    "470",
+                    "471",
+                    "472",
+                    "473",
+                    "474",
+                    "475",
+                    "476",
+                    "477",
+                    "478",
+                    "479",
+                    "480"
+                ],
                 "parent": "1018",
                 "children": []
             }
@@ -92421,8 +92578,23 @@
                 "en": "Promise.prototype.then()"
             },
             "links": {
-                "sections": [],
-                "supports": [],
+                "sections": [
+                    "115",
+                    "114"
+                ],
+                "supports": [
+                    "504",
+                    "505",
+                    "506",
+                    "507",
+                    "508",
+                    "509",
+                    "510",
+                    "511",
+                    "512",
+                    "513",
+                    "514"
+                ],
                 "parent": "1018",
                 "children": []
             }
@@ -94982,15 +95154,25 @@
             },
             "links": {
                 "sections": [
-                    "44",
+                    "43",
                     "42",
-                    "43"
+                    "44"
                 ],
-                "supports": [],
+                "supports": [
+                    "531",
+                    "532",
+                    "533",
+                    "534",
+                    "535",
+                    "536",
+                    "537",
+                    "538",
+                    "539",
+                    "540",
+                    "541"
+                ],
                 "parent": "1023",
-                "children": [
-                    "6973"
-                ]
+                "children": []
             }
         },
         {
@@ -95353,13 +95535,13 @@
                     "5525",
                     "5511",
                     "5501",
-                    "5503",
                     "5521",
                     "5519",
                     "5500",
                     "5523",
                     "5529",
                     "5497",
+                    "5503",
                     "6901",
                     "5515",
                     "5517",
@@ -99001,22 +99183,22 @@
                 "parent": "5674",
                 "children": [
                     "5710",
-                    "5806",
-                    "5829",
-                    "6910",
                     "5745",
+                    "5806",
                     "5709",
                     "5820",
                     "5756",
                     "5699",
                     "5779",
                     "5753",
-                    "5805",
                     "5739",
                     "5808",
                     "5762",
                     "5811",
                     "5682",
+                    "5829",
+                    "6910",
+                    "5805",
                     "5784",
                     "5746",
                     "5712",
@@ -104874,9 +105056,9 @@
                     "5997",
                     "6006",
                     "6026",
-                    "6020",
                     "6024",
                     "6019",
+                    "6020",
                     "6007",
                     "6029"
                 ]
@@ -105607,36 +105789,6 @@
                 "sections": [],
                 "supports": [],
                 "parent": "1157",
-                "children": []
-            }
-        },
-        {
-            "id": "6044",
-            "slug": "web-javascript-reference-global_objects-array_basi",
-            "mdn_uri": null,
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": {
-                "en": "Basic support"
-            },
-            "links": {
-                "sections": [],
-                "supports": [
-                    "102",
-                    "103",
-                    "104",
-                    "105",
-                    "106",
-                    "107",
-                    "108",
-                    "109",
-                    "110",
-                    "111",
-                    "112"
-                ],
-                "parent": "990",
                 "children": []
             }
         },
@@ -114189,8 +114341,8 @@
                     "6462",
                     "6539",
                     "6463",
-                    "6461",
                     "6464",
+                    "6461",
                     "6545"
                 ]
             }
@@ -123810,10 +123962,10 @@
                 "supports": [],
                 "parent": "4160",
                 "children": [
-                    "7097",
-                    "6946",
                     "7096",
-                    "6947"
+                    "6947",
+                    "7097",
+                    "6946"
                 ]
             }
         },
@@ -123917,8 +124069,8 @@
                 "supports": [],
                 "parent": "4160",
                 "children": [
-                    "6951",
-                    "6952"
+                    "6952",
+                    "6951"
                 ]
             }
         },
@@ -124167,35 +124319,6 @@
             }
         },
         {
-            "id": "6963",
-            "slug": "web-css-background_basic_support",
-            "mdn_uri": null,
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": {
-                "en": "Basic support"
-            },
-            "links": {
-                "sections": [],
-                "supports": [
-                    "119",
-                    "120",
-                    "121",
-                    "122",
-                    "123",
-                    "124",
-                    "125",
-                    "126",
-                    "127",
-                    "128"
-                ],
-                "parent": "655",
-                "children": []
-            }
-        },
-        {
             "id": "6964",
             "slug": "web-css-background_multiple_backgrounds",
             "mdn_uri": null,
@@ -124311,183 +124434,6 @@
             }
         },
         {
-            "id": "6968",
-            "slug": "web-css-clear_basic_support",
-            "mdn_uri": null,
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": {
-                "en": "Basic support"
-            },
-            "links": {
-                "sections": [],
-                "supports": [
-                    "168",
-                    "170",
-                    "172",
-                    "174",
-                    "176",
-                    "177",
-                    "179",
-                    "181",
-                    "183",
-                    "185"
-                ],
-                "parent": "709",
-                "children": []
-            }
-        },
-        {
-            "id": "6969",
-            "slug": "web-css-flex-wrap_basic_support",
-            "mdn_uri": null,
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": {
-                "en": "Basic support"
-            },
-            "links": {
-                "sections": [],
-                "supports": [
-                    "169",
-                    "171",
-                    "173",
-                    "175",
-                    "178",
-                    "180",
-                    "182",
-                    "184",
-                    "186",
-                    "187"
-                ],
-                "parent": "740",
-                "children": []
-            }
-        },
-        {
-            "id": "6970",
-            "slug": "web-html-element-q_basic_support",
-            "mdn_uri": null,
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": {
-                "en": "Basic support"
-            },
-            "links": {
-                "sections": [],
-                "supports": [
-                    "188",
-                    "189",
-                    "190",
-                    "191",
-                    "192",
-                    "193",
-                    "194",
-                    "195",
-                    "196",
-                    "197"
-                ],
-                "parent": "969",
-                "children": []
-            }
-        },
-        {
-            "id": "6971",
-            "slug": "web_javascript_reference_global_objects_array52511",
-            "mdn_uri": null,
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": {
-                "en": "Basic support"
-            },
-            "links": {
-                "sections": [],
-                "supports": [
-                    "198",
-                    "199",
-                    "200",
-                    "201",
-                    "202",
-                    "203",
-                    "204",
-                    "205",
-                    "206",
-                    "207",
-                    "208"
-                ],
-                "parent": "5061",
-                "children": []
-            }
-        },
-        {
-            "id": "6972",
-            "slug": "web_javascript_reference_global_objects_date_af581",
-            "mdn_uri": null,
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": {
-                "en": "Basic support"
-            },
-            "links": {
-                "sections": [],
-                "supports": [
-                    "209",
-                    "210",
-                    "211",
-                    "212",
-                    "213",
-                    "214",
-                    "215",
-                    "216",
-                    "217",
-                    "218",
-                    "219"
-                ],
-                "parent": "5154",
-                "children": []
-            }
-        },
-        {
-            "id": "6973",
-            "slug": "web_javascript_reference_global_objects_strinf0021",
-            "mdn_uri": null,
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": {
-                "en": "Basic support"
-            },
-            "links": {
-                "sections": [],
-                "supports": [
-                    "220",
-                    "221",
-                    "222",
-                    "223",
-                    "224",
-                    "225",
-                    "226",
-                    "227",
-                    "228",
-                    "229",
-                    "230"
-                ],
-                "parent": "5479",
-                "children": []
-            }
-        },
-        {
             "id": "6974",
             "slug": "web-api-animationevent_animationevent_constructor",
             "mdn_uri": null,
@@ -124512,41 +124458,6 @@
                     "239",
                     "240",
                     "241"
-                ],
-                "parent": "7",
-                "children": []
-            }
-        },
-        {
-            "id": "6975",
-            "slug": "web-api-animationevent_basic_support",
-            "mdn_uri": null,
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": {
-                "en": "Basic support"
-            },
-            "links": {
-                "sections": [],
-                "supports": [
-                    "242",
-                    "243",
-                    "244",
-                    "245",
-                    "246",
-                    "247",
-                    "248",
-                    "249",
-                    "250",
-                    "251",
-                    "252",
-                    "253",
-                    "254",
-                    "255",
-                    "256",
-                    "257"
                 ],
                 "parent": "7",
                 "children": []
@@ -124607,37 +124518,6 @@
                     "281"
                 ],
                 "parent": "7",
-                "children": []
-            }
-        },
-        {
-            "id": "6978",
-            "slug": "web_api_attr_basic_support",
-            "mdn_uri": null,
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": {
-                "en": "Basic support"
-            },
-            "links": {
-                "sections": [],
-                "supports": [
-                    "282",
-                    "283",
-                    "284",
-                    "285",
-                    "286",
-                    "287",
-                    "288",
-                    "289",
-                    "290",
-                    "291",
-                    "292",
-                    "293"
-                ],
-                "parent": "1424",
                 "children": []
             }
         },
@@ -126412,9 +126292,9 @@
                 "supports": [],
                 "parent": "4160",
                 "children": [
+                    "7101",
                     "7100",
-                    "7099",
-                    "7101"
+                    "7099"
                 ]
             }
         },
@@ -126721,8 +126601,8 @@
                 "supports": [],
                 "parent": "4160",
                 "children": [
-                    "7115",
-                    "7114"
+                    "7114",
+                    "7115"
                 ]
             }
         },
@@ -127576,34 +127456,6 @@
             }
         },
         {
-            "id": "7156",
-            "slug": "web-html-element-keygen_basic_support",
-            "mdn_uri": null,
-            "experimental": false,
-            "standardized": true,
-            "stable": true,
-            "obsolete": false,
-            "name": {
-                "en": "Basic support"
-            },
-            "links": {
-                "sections": [],
-                "supports": [
-                    "315",
-                    "316",
-                    "317",
-                    "318",
-                    "319",
-                    "320",
-                    "321",
-                    "322",
-                    "323"
-                ],
-                "parent": "945",
-                "children": []
-            }
-        },
-        {
             "id": "7157",
             "slug": "web-css-position_fixed_value",
             "mdn_uri": null,
@@ -127756,6 +127608,58 @@
                 "parent": "4931",
                 "children": []
             }
+        },
+        {
+            "id": "7164",
+            "slug": "web-api-idbcursor_available_in_workers",
+            "mdn_uri": null,
+            "experimental": false,
+            "standardized": true,
+            "stable": true,
+            "obsolete": false,
+            "name": {
+                "en": "Available in workers"
+            },
+            "links": {
+                "sections": [],
+                "supports": [
+                    "417",
+                    "418",
+                    "419",
+                    "420",
+                    "421",
+                    "422",
+                    "423"
+                ],
+                "parent": "196",
+                "children": []
+            }
+        },
+        {
+            "id": "7165",
+            "slug": "web-css-transform-origin_support_in_svg",
+            "mdn_uri": null,
+            "experimental": false,
+            "standardized": true,
+            "stable": true,
+            "obsolete": false,
+            "name": {
+                "en": "Support in SVG"
+            },
+            "links": {
+                "sections": [],
+                "supports": [
+                    "581",
+                    "582",
+                    "583",
+                    "584",
+                    "585",
+                    "586",
+                    "587"
+                ],
+                "parent": "847",
+                "children": []
+            }
         }
     ],
     "links": {
@@ -127781,7 +127685,7 @@
             "features": {
                 "previous": null,
                 "next": null,
-                "count": 6162
+                "count": 6148
             }
         }
     }

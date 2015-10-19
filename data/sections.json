@@ -16,9 +16,7 @@
             },
             "links": {
                 "specification": "14",
-                "features": [
-                    "741"
-                ]
+                "features": []
             }
         },
         {
@@ -27,13 +25,13 @@
                 "en": "5.5.25"
             },
             "name": {
-                "en": "'float'"
+                "en": "float"
             },
             "subpath": {
                 "en": "#float"
             },
             "note": {
-                "en": "Initial definition."
+                "en": "Initial definition"
             },
             "links": {
                 "specification": "9",
@@ -48,13 +46,13 @@
                 "en": "9.5.1"
             },
             "name": {
-                "en": "Positioning the float: the 'float' property"
+                "en": "float"
             },
             "subpath": {
                 "en": "visuren.html#float-position"
             },
             "note": {
-                "en": "No change."
+                "en": "No change"
             },
             "links": {
                 "specification": "10",
@@ -69,12 +67,14 @@
                 "en": "8"
             },
             "name": {
-                "en": "The 'transform-origin' Property"
+                "en": "transform-origin"
             },
             "subpath": {
                 "en": "#transform-origin-property"
             },
-            "note": null,
+            "note": {
+                "en": "Initial definition"
+            },
             "links": {
                 "specification": "44",
                 "features": [
@@ -130,7 +130,7 @@
                 "en": "#display"
             },
             "note": {
-                "en": "Basic values: <code>none</code>, <code>block</code>, <code>inline</code>, and <code>list-item</code>."
+                "en": "Initial definition. Basic values: <code>none</code>, <code>block</code>, <code>inline</code>, and <code>list-item</code>."
             },
             "links": {
                 "specification": "9",
@@ -225,7 +225,7 @@
                 "en": "#display"
             },
             "note": {
-                "en": "Added the <code>ruby</code>, <code>ruby-base</code>, <code>ruby-text</code>, <code>ruby-base-container</code>, and <code>ruby-text-container </code>"
+                "en": "Added the <code>ruby</code>, <code>ruby-base</code>, <code>ruby-text</code>, <code>ruby-base-container</code>, and <code>ruby-text-container</code>"
             },
             "links": {
                 "specification": "37",
@@ -263,7 +263,7 @@
                 "en": "struct/text.html#h-9.3.1"
             },
             "note": {
-                "en": ""
+                "en": "Initial definition"
             },
             "links": {
                 "specification": "92",
@@ -407,7 +407,7 @@
                 "en": "#background"
             },
             "note": {
-                "en": ""
+                "en": "Initial definition"
             },
             "links": {
                 "specification": "9",
@@ -464,12 +464,13 @@
                 "en": "#float-clear"
             },
             "note": {
-                "en": "Adds the values <code>inline-start</code> and <code>inline-end</code>"
+                "en": "Adds the values <code>inline-start</code> and <code>inline-end</code>."
             },
             "links": {
                 "specification": "149",
                 "features": [
-                    "709"
+                    "709",
+                    "741"
                 ]
             }
         },
@@ -483,7 +484,7 @@
                 "en": "#clear"
             },
             "note": {
-                "en": "Initial specification"
+                "en": "Initial definition"
             },
             "links": {
                 "specification": "9",
@@ -641,25 +642,6 @@
                 "specification": "93",
                 "features": [
                     "969"
-                ]
-            }
-        },
-        {
-            "id": "35",
-            "number": null,
-            "name": {
-                "en": ""
-            },
-            "subpath": {
-                "en": ""
-            },
-            "note": {
-                "en": "Initial definition."
-            },
-            "links": {
-                "specification": "168",
-                "features": [
-                    "990"
                 ]
             }
         },
@@ -894,6 +876,7 @@
             "links": {
                 "specification": "168",
                 "features": [
+                    "990",
                     "5061"
                 ]
             }
@@ -1254,6 +1237,348 @@
                     "6722"
                 ]
             }
+        },
+        {
+            "id": "99",
+            "number": null,
+            "name": {
+                "en": "cursor"
+            },
+            "subpath": {
+                "en": "#idl-def-IDBCursor"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "98",
+                "features": [
+                    "196"
+                ]
+            }
+        },
+        {
+            "id": "100",
+            "number": null,
+            "name": {
+                "en": "Promise"
+            },
+            "subpath": {
+                "en": "#sec-promise-objects"
+            },
+            "note": {
+                "en": "Initial definition in an ECMA standard."
+            },
+            "links": {
+                "specification": "77",
+                "features": [
+                    "1018"
+                ]
+            }
+        },
+        {
+            "id": "101",
+            "number": null,
+            "name": {
+                "en": "Promise"
+            },
+            "subpath": {
+                "en": "#sec-promise-objects"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "190",
+                "features": [
+                    "1018"
+                ]
+            }
+        },
+        {
+            "id": "102",
+            "number": null,
+            "name": {
+                "en": "Promise.prototype"
+            },
+            "subpath": {
+                "en": "#sec-promise.prototype"
+            },
+            "note": {
+                "en": "Initial definition."
+            },
+            "links": {
+                "specification": "77",
+                "features": [
+                    "5347"
+                ]
+            }
+        },
+        {
+            "id": "103",
+            "number": null,
+            "name": {
+                "en": "Promise.prototype"
+            },
+            "subpath": {
+                "en": "#sec-promise.prototype"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "190",
+                "features": [
+                    "5347"
+                ]
+            }
+        },
+        {
+            "id": "104",
+            "number": null,
+            "name": {
+                "en": "Promise.all"
+            },
+            "subpath": {
+                "en": "#sec-promise.all"
+            },
+            "note": {
+                "en": "Initial definition in an ECMA standard."
+            },
+            "links": {
+                "specification": "77",
+                "features": [
+                    "5346"
+                ]
+            }
+        },
+        {
+            "id": "105",
+            "number": null,
+            "name": {
+                "en": "Promise.all"
+            },
+            "subpath": {
+                "en": "#sec-promise.all"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "190",
+                "features": [
+                    "5346"
+                ]
+            }
+        },
+        {
+            "id": "106",
+            "number": null,
+            "name": {
+                "en": "Promise.prototype.catch"
+            },
+            "subpath": {
+                "en": "#sec-promise.prototype.catch"
+            },
+            "note": {
+                "en": "Initial definition in an ECMA standard."
+            },
+            "links": {
+                "specification": "77",
+                "features": [
+                    "5345"
+                ]
+            }
+        },
+        {
+            "id": "107",
+            "number": null,
+            "name": {
+                "en": "Promise.prototype.catch"
+            },
+            "subpath": {
+                "en": "#sec-promise.prototype.catch"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "190",
+                "features": [
+                    "5345"
+                ]
+            }
+        },
+        {
+            "id": "108",
+            "number": null,
+            "name": {
+                "en": "Promise.race"
+            },
+            "subpath": {
+                "en": "#sec-promise.race"
+            },
+            "note": {
+                "en": "Initial definition in an ECMA standard."
+            },
+            "links": {
+                "specification": "77",
+                "features": [
+                    "5350"
+                ]
+            }
+        },
+        {
+            "id": "109",
+            "number": null,
+            "name": {
+                "en": "Promise.race"
+            },
+            "subpath": {
+                "en": "#sec-promise.race"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "190",
+                "features": [
+                    "5350"
+                ]
+            }
+        },
+        {
+            "id": "110",
+            "number": null,
+            "name": {
+                "en": "Promise.reject"
+            },
+            "subpath": {
+                "en": "#sec-promise.reject"
+            },
+            "note": {
+                "en": "Initial definition in an ECMA standard."
+            },
+            "links": {
+                "specification": "77",
+                "features": [
+                    "5349"
+                ]
+            }
+        },
+        {
+            "id": "111",
+            "number": null,
+            "name": {
+                "en": "Promise.reject"
+            },
+            "subpath": {
+                "en": "#sec-promise.reject"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "190",
+                "features": [
+                    "5349"
+                ]
+            }
+        },
+        {
+            "id": "112",
+            "number": null,
+            "name": {
+                "en": "Promise.resolve"
+            },
+            "subpath": {
+                "en": "#sec-promise.resolve"
+            },
+            "note": {
+                "en": "Initial definition in an ECMA standard."
+            },
+            "links": {
+                "specification": "77",
+                "features": [
+                    "5348"
+                ]
+            }
+        },
+        {
+            "id": "113",
+            "number": null,
+            "name": {
+                "en": "Promise.resolve"
+            },
+            "subpath": {
+                "en": "#sec-promise.resolve"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "190",
+                "features": [
+                    "5348"
+                ]
+            }
+        },
+        {
+            "id": "114",
+            "number": null,
+            "name": {
+                "en": "Promise.prototype.then"
+            },
+            "subpath": {
+                "en": "#sec-promise.prototype.then"
+            },
+            "note": {
+                "en": "Initial definition in an ECMA standard."
+            },
+            "links": {
+                "specification": "77",
+                "features": [
+                    "5351"
+                ]
+            }
+        },
+        {
+            "id": "115",
+            "number": null,
+            "name": {
+                "en": "Promise.prototype.then"
+            },
+            "subpath": {
+                "en": "#sec-promise.prototype.then"
+            },
+            "note": {
+                "en": ""
+            },
+            "links": {
+                "specification": "190",
+                "features": [
+                    "5351"
+                ]
+            }
+        },
+        {
+            "id": "116",
+            "number": null,
+            "name": {
+                "en": "float"
+            },
+            "subpath": {
+                "en": "#float"
+            },
+            "note": {
+                "en": "Lots of new values, not all clearly defined yet. Any differences in behavior unrelated to new features are expected to be unintentional; please report."
+            },
+            "links": {
+                "specification": "14",
+                "features": [
+                    "741"
+                ]
+            }
         }
     ],
     "links": {
@@ -1271,7 +1596,7 @@
             "sections": {
                 "previous": null,
                 "next": null,
-                "count": 67
+                "count": 84
             }
         }
     }
