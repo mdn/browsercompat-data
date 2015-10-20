@@ -1,25 +1,6 @@
 {
     "sections": [
         {
-            "id": "1",
-            "number": {
-                "en": "16"
-            },
-            "name": {
-                "en": "The float property"
-            },
-            "subpath": {
-                "en": "#the-float-property"
-            },
-            "note": {
-                "en": "Lots of new values, not all clearly defined yet. Any differences in behavior unrelated to new features are expected to be unintentional; please report."
-            },
-            "links": {
-                "specification": "14",
-                "features": []
-            }
-        },
-        {
             "id": "2",
             "number": {
                 "en": "5.5.25"
@@ -292,23 +273,6 @@
             }
         },
         {
-            "id": "16",
-            "number": null,
-            "name": {
-                "en": ""
-            },
-            "subpath": {
-                "en": ""
-            },
-            "note": {
-                "en": "Initial definition."
-            },
-            "links": {
-                "specification": "168",
-                "features": []
-            }
-        },
-        {
             "id": "17",
             "number": null,
             "name": {
@@ -344,57 +308,6 @@
                 "features": [
                     "990"
                 ]
-            }
-        },
-        {
-            "id": "19",
-            "number": null,
-            "name": {
-                "en": "background"
-            },
-            "subpath": {
-                "en": "#background"
-            },
-            "note": {
-                "en": ""
-            },
-            "links": {
-                "specification": "9",
-                "features": []
-            }
-        },
-        {
-            "id": "20",
-            "number": null,
-            "name": {
-                "en": "background"
-            },
-            "subpath": {
-                "en": "colors.html#propdef-background"
-            },
-            "note": {
-                "en": "No significant changes"
-            },
-            "links": {
-                "specification": "10",
-                "features": []
-            }
-        },
-        {
-            "id": "21",
-            "number": null,
-            "name": {
-                "en": "background"
-            },
-            "subpath": {
-                "en": "#the-background"
-            },
-            "note": {
-                "en": "The shorthand property has been extended to support multiple backgrounds and the new <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/background-size\"><code>background-size</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/background-origin\"><code>background-origin</code></a> and <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip\"><code>background-clip</code></a> properties."
-            },
-            "links": {
-                "specification": "12",
-                "features": []
             }
         },
         {
@@ -646,57 +559,6 @@
             }
         },
         {
-            "id": "36",
-            "number": null,
-            "name": {
-                "en": ""
-            },
-            "subpath": {
-                "en": ""
-            },
-            "note": {
-                "en": "Initial definition."
-            },
-            "links": {
-                "specification": "168",
-                "features": []
-            }
-        },
-        {
-            "id": "37",
-            "number": null,
-            "name": {
-                "en": "Array.length"
-            },
-            "subpath": {
-                "en": "#sec-15.4.5.2"
-            },
-            "note": {
-                "en": ""
-            },
-            "links": {
-                "specification": "76",
-                "features": []
-            }
-        },
-        {
-            "id": "38",
-            "number": null,
-            "name": {
-                "en": "Array.length"
-            },
-            "subpath": {
-                "en": "#sec-properties-of-array-instances-length"
-            },
-            "note": {
-                "en": ""
-            },
-            "links": {
-                "specification": "77",
-                "features": []
-            }
-        },
-        {
             "id": "39",
             "number": null,
             "name": {
@@ -808,57 +670,6 @@
                 "features": [
                     "5479"
                 ]
-            }
-        },
-        {
-            "id": "45",
-            "number": null,
-            "name": {
-                "en": ""
-            },
-            "subpath": {
-                "en": ""
-            },
-            "note": {
-                "en": "Initial definition."
-            },
-            "links": {
-                "specification": "168",
-                "features": []
-            }
-        },
-        {
-            "id": "46",
-            "number": null,
-            "name": {
-                "en": "Array.length"
-            },
-            "subpath": {
-                "en": "#sec-15.4.5.2"
-            },
-            "note": {
-                "en": ""
-            },
-            "links": {
-                "specification": "76",
-                "features": []
-            }
-        },
-        {
-            "id": "47",
-            "number": null,
-            "name": {
-                "en": "Array.length"
-            },
-            "subpath": {
-                "en": "#sec-properties-of-array-instances-length"
-            },
-            "note": {
-                "en": ""
-            },
-            "links": {
-                "specification": "77",
-                "features": []
             }
         },
         {
@@ -1088,40 +899,6 @@
                 "features": [
                     "665"
                 ]
-            }
-        },
-        {
-            "id": "91",
-            "number": null,
-            "name": {
-                "en": "position"
-            },
-            "subpath": {
-                "en": "visuren.html#propdef-position"
-            },
-            "note": {
-                "en": ""
-            },
-            "links": {
-                "specification": "10",
-                "features": []
-            }
-        },
-        {
-            "id": "92",
-            "number": null,
-            "name": {
-                "en": "position"
-            },
-            "subpath": {
-                "en": "#position-property"
-            },
-            "note": {
-                "en": "Adds <code>sticky</code> property value"
-            },
-            "links": {
-                "specification": "35",
-                "features": []
             }
         },
         {
@@ -1596,7 +1373,7 @@
             "sections": {
                 "previous": null,
                 "next": null,
-                "count": 84
+                "count": 71
             }
         }
     }
