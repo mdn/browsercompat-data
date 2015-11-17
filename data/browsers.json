@@ -47,7 +47,8 @@
             "id": "3",
             "slug": "chrome_desktop",
             "name": {
-                "en": "Chrome for Desktop"
+                "en": "Chrome for Desktop",
+                "de": "Chrome f\u00fcr PC"
             },
             "note": null,
             "links": {
@@ -106,7 +107,8 @@
             "id": "4",
             "slug": "chrome_for_android",
             "name": {
-                "en": "Chrome for Android"
+                "en": "Chrome for Android",
+                "de": "Chrome f\u00fcr Android"
             },
             "note": null,
             "links": {
@@ -147,7 +149,9 @@
             "id": "6",
             "slug": "firefox_desktop",
             "name": {
-                "en": "Firefox for Desktop"
+                "en": "Firefox for Desktop",
+                "de": "Firefox f\u00fcr PC",
+                "fr": "Firefox pour PC de bureau"
             },
             "note": null,
             "links": {
@@ -199,7 +203,9 @@
                     "283",
                     "332",
                     "349",
-                    "351"
+                    "351",
+                    "366",
+                    "367"
                 ]
             }
         },
@@ -207,7 +213,8 @@
             "id": "7",
             "slug": "firefox_android",
             "name": {
-                "en": "Firefox for Android"
+                "en": "Firefox for Android",
+                "de": "Firefox f\u00fcr Android"
             },
             "note": null,
             "links": {
@@ -257,7 +264,9 @@
                     "292",
                     "333",
                     "350",
-                    "352"
+                    "352",
+                    "368",
+                    "369"
                 ]
             }
         },
@@ -314,7 +323,8 @@
             "id": "10",
             "slug": "ie_desktop",
             "name": {
-                "en": "Internet Explorer for Desktop"
+                "en": "Internet Explorer for Desktop",
+                "de": "Internet Explorer f\u00fcr PC"
             },
             "note": null,
             "links": {
@@ -342,7 +352,8 @@
             "id": "11",
             "slug": "opera_desktop",
             "name": {
-                "en": "Opera for Desktop"
+                "en": "Opera for Desktop",
+                "de": "Opera f\u00fcr Desktop"
             },
             "note": null,
             "links": {
@@ -402,7 +413,8 @@
                     "344",
                     "345",
                     "363",
-                    "364"
+                    "364",
+                    "376"
                 ]
             }
         },
@@ -459,7 +471,11 @@
                     "340",
                     "341",
                     "342",
-                    "343"
+                    "343",
+                    "373",
+                    "374",
+                    "375",
+                    "377"
                 ]
             }
         },
@@ -467,7 +483,8 @@
             "id": "14",
             "slug": "safari_desktop",
             "name": {
-                "en": "Safari for Desktop"
+                "en": "Safari for Desktop",
+                "de": "Safari f\u00fcr Desktop"
             },
             "note": null,
             "links": {
@@ -500,7 +517,8 @@
             "id": "15",
             "slug": "safari_ios",
             "name": {
-                "en": "Safari for iOS"
+                "en": "Safari for iOS",
+                "de": "Safari f\u00fcr iOS"
             },
             "note": null,
             "links": {
@@ -517,7 +535,8 @@
                     "263",
                     "264",
                     "265",
-                    "266"
+                    "266",
+                    "370"
                 ]
             }
         },
@@ -536,7 +555,9 @@
                     "356",
                     "357",
                     "358",
-                    "359"
+                    "359",
+                    "371",
+                    "372"
                 ]
             }
         },

@@ -32,7 +32,8 @@
                     "588",
                     "598",
                     "609",
-                    "634"
+                    "634",
+                    "654"
                 ]
             }
         },
@@ -231,7 +232,8 @@
                 "browser": "1",
                 "supports": [
                     "404",
-                    "621"
+                    "621",
+                    "644"
                 ]
             }
         },
@@ -329,7 +331,11 @@
                     "581",
                     "589",
                     "599",
-                    "611"
+                    "611",
+                    "655",
+                    "666",
+                    "673",
+                    "680"
                 ]
             }
         },
@@ -654,7 +660,8 @@
                 "supports": [
                     "42",
                     "55",
-                    "150"
+                    "150",
+                    "645"
                 ]
             }
         },
@@ -1077,7 +1084,8 @@
                     "555",
                     "565",
                     "591",
-                    "637"
+                    "637",
+                    "658"
                 ]
             }
         },
@@ -1243,7 +1251,10 @@
                 "browser": "6",
                 "supports": [
                     "161",
-                    "627"
+                    "627",
+                    "668",
+                    "675",
+                    "682"
                 ]
             }
         },
@@ -1298,7 +1309,8 @@
                 "browser": "6",
                 "supports": [
                     "262",
-                    "520"
+                    "520",
+                    "659"
                 ]
             }
         },
@@ -1731,7 +1743,9 @@
             "order": 31,
             "links": {
                 "browser": "6",
-                "supports": []
+                "supports": [
+                    "647"
+                ]
             }
         },
         {
@@ -1842,7 +1856,8 @@
                     "554",
                     "564",
                     "590",
-                    "636"
+                    "636",
+                    "656"
                 ]
             }
         },
@@ -1901,7 +1916,10 @@
                 "browser": "7",
                 "supports": [
                     "162",
-                    "626"
+                    "626",
+                    "667",
+                    "674",
+                    "681"
                 ]
             }
         },
@@ -1932,7 +1950,8 @@
                 "browser": "7",
                 "supports": [
                     "264",
-                    "519"
+                    "519",
+                    "657"
                 ]
             }
         },
@@ -2250,7 +2269,9 @@
             "order": 29,
             "links": {
                 "browser": "7",
-                "supports": []
+                "supports": [
+                    "646"
+                ]
             }
         },
         {
@@ -2433,7 +2454,10 @@
                     "593",
                     "604",
                     "616",
-                    "639"
+                    "639",
+                    "661",
+                    "670",
+                    "677"
                 ]
             }
         },
@@ -2632,7 +2656,8 @@
             "links": {
                 "browser": "9",
                 "supports": [
-                    "577"
+                    "577",
+                    "649"
                 ]
             }
         },
@@ -2672,7 +2697,8 @@
                     "592",
                     "603",
                     "615",
-                    "638"
+                    "638",
+                    "660"
                 ]
             }
         },
@@ -2890,7 +2916,10 @@
                     "266",
                     "411",
                     "521",
-                    "575"
+                    "575",
+                    "669",
+                    "676",
+                    "683"
                 ]
             }
         },
@@ -2907,7 +2936,8 @@
                 "browser": "10",
                 "supports": [
                     "115",
-                    "117"
+                    "117",
+                    "648"
                 ]
             }
         },
@@ -2939,7 +2969,10 @@
                     "594",
                     "605",
                     "617",
-                    "640"
+                    "640",
+                    "662",
+                    "671",
+                    "678"
                 ]
             }
         },
@@ -3460,7 +3493,8 @@
                 "browser": "11",
                 "supports": [
                     "524",
-                    "579"
+                    "579",
+                    "650"
                 ]
             }
         },
@@ -3657,7 +3691,8 @@
                     "595",
                     "606",
                     "618",
-                    "641"
+                    "641",
+                    "663"
                 ]
             }
         },
@@ -3908,7 +3943,8 @@
             "links": {
                 "browser": "13",
                 "supports": [
-                    "527"
+                    "527",
+                    "651"
                 ]
             }
         },
@@ -4013,7 +4049,10 @@
                     "596",
                     "607",
                     "619",
-                    "642"
+                    "642",
+                    "664",
+                    "672",
+                    "679"
                 ]
             }
         },
@@ -4194,7 +4233,8 @@
             "links": {
                 "browser": "14",
                 "supports": [
-                    "86"
+                    "86",
+                    "686"
                 ]
             }
         },
@@ -4258,7 +4298,8 @@
                 "supports": [
                     "116",
                     "118",
-                    "353"
+                    "353",
+                    "652"
                 ]
             }
         },
@@ -4340,7 +4381,8 @@
                     "597",
                     "608",
                     "620",
-                    "643"
+                    "643",
+                    "665"
                 ]
             }
         },
@@ -4435,7 +4477,8 @@
                 "browser": "15",
                 "supports": [
                     "148",
-                    "158"
+                    "158",
+                    "687"
                 ]
             }
         },
@@ -4512,7 +4555,8 @@
                 "browser": "15",
                 "supports": [
                     "343",
-                    "622"
+                    "622",
+                    "653"
                 ]
             }
         },
@@ -6087,6 +6131,178 @@
                 "browser": "11",
                 "supports": []
             }
+        },
+        {
+            "id": "366",
+            "version": "44.0",
+            "release_day": null,
+            "retirement_day": null,
+            "status": "beta",
+            "release_notes_uri": null,
+            "note": null,
+            "order": 48,
+            "links": {
+                "browser": "6",
+                "supports": []
+            }
+        },
+        {
+            "id": "367",
+            "version": "45.0",
+            "release_day": null,
+            "retirement_day": null,
+            "status": "beta",
+            "release_notes_uri": null,
+            "note": null,
+            "order": 49,
+            "links": {
+                "browser": "6",
+                "supports": []
+            }
+        },
+        {
+            "id": "368",
+            "version": "45.0",
+            "release_day": null,
+            "retirement_day": null,
+            "status": "beta",
+            "release_notes_uri": null,
+            "note": null,
+            "order": 46,
+            "links": {
+                "browser": "7",
+                "supports": []
+            }
+        },
+        {
+            "id": "369",
+            "version": "44.0",
+            "release_day": null,
+            "retirement_day": null,
+            "status": "beta",
+            "release_notes_uri": null,
+            "note": null,
+            "order": 47,
+            "links": {
+                "browser": "7",
+                "supports": []
+            }
+        },
+        {
+            "id": "370",
+            "version": "9.0",
+            "release_day": null,
+            "retirement_day": null,
+            "status": "current",
+            "release_notes_uri": null,
+            "note": null,
+            "order": 13,
+            "links": {
+                "browser": "15",
+                "supports": []
+            }
+        },
+        {
+            "id": "371",
+            "version": "46.0",
+            "release_day": null,
+            "retirement_day": null,
+            "status": "current",
+            "release_notes_uri": null,
+            "note": null,
+            "order": 7,
+            "links": {
+                "browser": "16",
+                "supports": []
+            }
+        },
+        {
+            "id": "372",
+            "version": "47.0",
+            "release_day": null,
+            "retirement_day": null,
+            "status": "current",
+            "release_notes_uri": null,
+            "note": null,
+            "order": 8,
+            "links": {
+                "browser": "16",
+                "supports": []
+            }
+        },
+        {
+            "id": "373",
+            "version": "34.0",
+            "release_day": null,
+            "retirement_day": null,
+            "status": "current",
+            "release_notes_uri": null,
+            "note": null,
+            "order": 32,
+            "links": {
+                "browser": "13",
+                "supports": []
+            }
+        },
+        {
+            "id": "374",
+            "version": "33.0",
+            "release_day": null,
+            "retirement_day": null,
+            "status": "current",
+            "release_notes_uri": null,
+            "note": null,
+            "order": 33,
+            "links": {
+                "browser": "13",
+                "supports": []
+            }
+        },
+        {
+            "id": "375",
+            "version": "32.0",
+            "release_day": null,
+            "retirement_day": null,
+            "status": "current",
+            "release_notes_uri": null,
+            "note": null,
+            "order": 34,
+            "links": {
+                "browser": "13",
+                "supports": []
+            }
+        },
+        {
+            "id": "376",
+            "version": "11.50",
+            "release_day": null,
+            "retirement_day": null,
+            "status": "unknown",
+            "release_notes_uri": null,
+            "note": null,
+            "order": 56,
+            "links": {
+                "browser": "11",
+                "supports": [
+                    "684"
+                ]
+            }
+        },
+        {
+            "id": "377",
+            "version": "11.50",
+            "release_day": null,
+            "retirement_day": null,
+            "status": "unknown",
+            "release_notes_uri": null,
+            "note": null,
+            "order": 35,
+            "links": {
+                "browser": "13",
+                "supports": [
+                    "685"
+                ]
+            }
         }
     ],
     "links": {
@@ -6104,7 +6320,7 @@
             "versions": {
                 "previous": null,
                 "next": null,
-                "count": 361
+                "count": 373
             }
         }
     }
