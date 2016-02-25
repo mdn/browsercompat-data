@@ -11,15 +11,11 @@
             "subpath": {
                 "en": "#float"
             },
-            "note": {
-                "en": "Initial definition",
-                "de": "Urspr\u00fcngliche Definition"
-            },
             "links": {
-                "specification": "9",
-                "features": [
-                    "741"
-                ]
+                "references": [
+                    "4"
+                ],
+                "specification": "9"
             }
         },
         {
@@ -33,15 +29,11 @@
             "subpath": {
                 "en": "visuren.html#float-position"
             },
-            "note": {
-                "en": "No change",
-                "de": "Keine \u00c4nderung"
-            },
             "links": {
-                "specification": "10",
-                "features": [
-                    "741"
-                ]
+                "references": [
+                    "3"
+                ],
+                "specification": "10"
             }
         },
         {
@@ -55,15 +47,11 @@
             "subpath": {
                 "en": "#transform-origin-property"
             },
-            "note": {
-                "en": "Initial definition",
-                "de": "Urspr\u00fcngliche Definition"
-            },
             "links": {
-                "specification": "44",
-                "features": [
-                    "847"
-                ]
+                "references": [
+                    "8"
+                ],
+                "specification": "44"
             }
         },
         {
@@ -75,14 +63,11 @@
             "subpath": {
                 "en": "sections.html#the-header-element"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "91",
-                "features": [
-                    "935"
-                ]
+                "references": [
+                    "30"
+                ],
+                "specification": "91"
             }
         },
         {
@@ -94,14 +79,11 @@
             "subpath": {
                 "en": "sections.html#the-header-element"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "93",
-                "features": [
-                    "935"
-                ]
+                "references": [
+                    "31"
+                ],
+                "specification": "93"
             }
         },
         {
@@ -113,14 +95,11 @@
             "subpath": {
                 "en": "#display"
             },
-            "note": {
-                "en": "Initial definition. Basic values: <code>none</code>, <code>block</code>, <code>inline</code>, and <code>list-item</code>."
-            },
             "links": {
-                "specification": "9",
-                "features": [
-                    "730"
-                ]
+                "references": [
+                    "65"
+                ],
+                "specification": "9"
             }
         },
         {
@@ -132,15 +111,11 @@
             "subpath": {
                 "en": "visuren.html#display-prop"
             },
-            "note": {
-                "en": "Added the table model values and <code>inline-block</code>.",
-                "de": "Tabellenmodell und <code>inline-block</code> hinzugef\u00fcgt."
-            },
             "links": {
-                "specification": "10",
-                "features": [
-                    "730"
-                ]
+                "references": [
+                    "64"
+                ],
+                "specification": "10"
             }
         },
         {
@@ -152,14 +127,11 @@
             "subpath": {
                 "en": "#display"
             },
-            "note": {
-                "en": "Added the <code>run-in</code> and <code>contents</code> values."
-            },
             "links": {
-                "specification": "151",
-                "features": [
-                    "730"
-                ]
+                "references": [
+                    "60"
+                ],
+                "specification": "151"
             }
         },
         {
@@ -171,14 +143,11 @@
             "subpath": {
                 "en": "#flex-containers"
             },
-            "note": {
-                "en": "Added the flexible box model values."
-            },
             "links": {
-                "specification": "23",
-                "features": [
-                    "730"
-                ]
+                "references": [
+                    "63"
+                ],
+                "specification": "23"
             }
         },
         {
@@ -190,14 +159,11 @@
             "subpath": {
                 "en": "#grid-declaration0"
             },
-            "note": {
-                "en": "Added the grid box model values."
-            },
             "links": {
-                "specification": "27",
-                "features": [
-                    "730"
-                ]
+                "references": [
+                    "62"
+                ],
+                "specification": "27"
             }
         },
         {
@@ -209,14 +175,11 @@
             "subpath": {
                 "en": "#display"
             },
-            "note": {
-                "en": "Added the <code>ruby</code>, <code>ruby-base</code>, <code>ruby-text</code>, <code>ruby-base-container</code>, and <code>ruby-text-container</code>"
-            },
             "links": {
-                "specification": "37",
-                "features": [
-                    "730"
-                ]
+                "references": [
+                    "61"
+                ],
+                "specification": "37"
             }
         },
         {
@@ -228,14 +191,11 @@
             "subpath": {
                 "en": "grouping-content.html#the-p-element"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "91",
-                "features": [
-                    "965"
-                ]
+                "references": [
+                    "25"
+                ],
+                "specification": "91"
             }
         },
         {
@@ -247,14 +207,11 @@
             "subpath": {
                 "en": "struct/text.html#h-9.3.1"
             },
-            "note": {
-                "en": "Initial definition"
-            },
             "links": {
-                "specification": "92",
-                "features": [
-                    "965"
-                ]
+                "references": [
+                    "24"
+                ],
+                "specification": "92"
             }
         },
         {
@@ -266,14 +223,11 @@
             "subpath": {
                 "en": "grouping-content.html#the-p-element"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "93",
-                "features": [
-                    "965"
-                ]
+                "references": [
+                    "23"
+                ],
+                "specification": "93"
             }
         },
         {
@@ -285,14 +239,11 @@
             "subpath": {
                 "en": "#sec-15.4"
             },
-            "note": {
-                "en": "New methods added: <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray\"><code>Array.isArray</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf\"><code>indexOf</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/lastIndexOf\"><code>lastIndexOf</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every\"><code>every</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some\"><code>some</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach\"><code>forEach</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map\"><code>map</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter\"><code>filter</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce\"><code>reduce</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduceRight\"><code>reduceRight</code></a>"
-            },
             "links": {
-                "specification": "76",
-                "features": [
-                    "990"
-                ]
+                "references": [
+                    "50"
+                ],
+                "specification": "76"
             }
         },
         {
@@ -304,14 +255,11 @@
             "subpath": {
                 "en": "#sec-array-objects"
             },
-            "note": {
-                "en": "New methods added: <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from\"><code>Array.from</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/of\"><code>Array.of</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find\"><code>find</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex\"><code>findIndex</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill\"><code>fill</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/copyWithin\"><code>copyWithin</code></a>"
-            },
             "links": {
-                "specification": "77",
-                "features": [
-                    "990"
-                ]
+                "references": [
+                    "51"
+                ],
+                "specification": "77"
             }
         },
         {
@@ -323,14 +271,11 @@
             "subpath": {
                 "en": "#background"
             },
-            "note": {
-                "en": "Initial definition"
-            },
             "links": {
-                "specification": "9",
-                "features": [
-                    "655"
-                ]
+                "references": [
+                    "68"
+                ],
+                "specification": "9"
             }
         },
         {
@@ -342,14 +287,11 @@
             "subpath": {
                 "en": "colors.html#propdef-background"
             },
-            "note": {
-                "en": "No significant changes"
-            },
             "links": {
-                "specification": "10",
-                "features": [
-                    "655"
-                ]
+                "references": [
+                    "67"
+                ],
+                "specification": "10"
             }
         },
         {
@@ -361,14 +303,11 @@
             "subpath": {
                 "en": "#the-background"
             },
-            "note": {
-                "en": "The shorthand property has been extended to support multiple backgrounds and the new <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/background-size\"><code>background-size</code></a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/background-origin\"><code>background-origin</code></a> and <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip\"><code>background-clip</code></a> properties."
-            },
             "links": {
-                "specification": "12",
-                "features": [
-                    "655"
-                ]
+                "references": [
+                    "66"
+                ],
+                "specification": "12"
             }
         },
         {
@@ -380,15 +319,12 @@
             "subpath": {
                 "en": "#float-clear"
             },
-            "note": {
-                "en": "Adds the values <code>inline-start</code> and <code>inline-end</code>."
-            },
             "links": {
-                "specification": "149",
-                "features": [
-                    "709",
-                    "741"
-                ]
+                "references": [
+                    "2",
+                    "57"
+                ],
+                "specification": "149"
             }
         },
         {
@@ -400,14 +336,11 @@
             "subpath": {
                 "en": "#clear"
             },
-            "note": {
-                "en": "Initial definition"
-            },
             "links": {
-                "specification": "9",
-                "features": [
-                    "709"
-                ]
+                "references": [
+                    "58"
+                ],
+                "specification": "9"
             }
         },
         {
@@ -419,14 +352,11 @@
             "subpath": {
                 "en": "visuren.html#flow-control"
             },
-            "note": {
-                "en": "No significant changes, though details are clarified."
-            },
             "links": {
-                "specification": "10",
-                "features": [
-                    "709"
-                ]
+                "references": [
+                    "59"
+                ],
+                "specification": "10"
             }
         },
         {
@@ -438,14 +368,11 @@
             "subpath": {
                 "en": "#flex-wrap-property"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "23",
-                "features": [
-                    "740"
-                ]
+                "references": [
+                    "56"
+                ],
+                "specification": "23"
             }
         },
         {
@@ -457,14 +384,11 @@
             "subpath": {
                 "en": "the-button-element.html#the-textarea-element"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "91",
-                "features": [
-                    "4928"
-                ]
+                "references": [
+                    "12"
+                ],
+                "specification": "91"
             }
         },
         {
@@ -476,14 +400,11 @@
             "subpath": {
                 "en": "text-level-semantics.html#the-q-element"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "91",
-                "features": [
-                    "969"
-                ]
+                "references": [
+                    "71"
+                ],
+                "specification": "91"
             }
         },
         {
@@ -495,14 +416,11 @@
             "subpath": {
                 "en": "interact/forms.html#h-17.7"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "92",
-                "features": [
-                    "4928"
-                ]
+                "references": [
+                    "14"
+                ],
+                "specification": "92"
             }
         },
         {
@@ -514,14 +432,11 @@
             "subpath": {
                 "en": "struct/text.html#h-9.2.2"
             },
-            "note": {
-                "en": "Initial definition"
-            },
             "links": {
-                "specification": "92",
-                "features": [
-                    "969"
-                ]
+                "references": [
+                    "70"
+                ],
+                "specification": "92"
             }
         },
         {
@@ -533,14 +448,11 @@
             "subpath": {
                 "en": "forms.html#the-textarea-element"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "93",
-                "features": [
-                    "4928"
-                ]
+                "references": [
+                    "13"
+                ],
+                "specification": "93"
             }
         },
         {
@@ -552,14 +464,11 @@
             "subpath": {
                 "en": "text-level-semantics.html#the-q-element"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "93",
-                "features": [
-                    "969"
-                ]
+                "references": [
+                    "69"
+                ],
+                "specification": "93"
             }
         },
         {
@@ -571,14 +480,11 @@
             "subpath": {
                 "en": ""
             },
-            "note": {
-                "en": "Initial definition. Implemented in JavaScript 1.0."
-            },
             "links": {
-                "specification": "168",
-                "features": [
-                    "5154"
-                ]
+                "references": [
+                    "11"
+                ],
+                "specification": "168"
             }
         },
         {
@@ -590,14 +496,11 @@
             "subpath": {
                 "en": "#sec-15.9.5.36"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "76",
-                "features": [
-                    "5154"
-                ]
+                "references": [
+                    "10"
+                ],
+                "specification": "76"
             }
         },
         {
@@ -609,14 +512,11 @@
             "subpath": {
                 "en": "#sec-date.prototype.setdate"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "77",
-                "features": [
-                    "5154"
-                ]
+                "references": [
+                    "9"
+                ],
+                "specification": "77"
             }
         },
         {
@@ -628,14 +528,11 @@
             "subpath": {
                 "en": ""
             },
-            "note": {
-                "en": "Initial definition. Implemented in JavaScript 1.2."
-            },
             "links": {
-                "specification": "169",
-                "features": [
-                    "5479"
-                ]
+                "references": [
+                    "44"
+                ],
+                "specification": "169"
             }
         },
         {
@@ -647,14 +544,11 @@
             "subpath": {
                 "en": "#sec-15.5.4.6"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "76",
-                "features": [
-                    "5479"
-                ]
+                "references": [
+                    "43"
+                ],
+                "specification": "76"
             }
         },
         {
@@ -666,14 +560,11 @@
             "subpath": {
                 "en": "#sec-string.prototype.concat"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "77",
-                "features": [
-                    "5479"
-                ]
+                "references": [
+                    "45"
+                ],
+                "specification": "77"
             }
         },
         {
@@ -685,15 +576,12 @@
             "subpath": {
                 "en": ""
             },
-            "note": {
-                "en": "Initial definition."
-            },
             "links": {
-                "specification": "168",
-                "features": [
-                    "990",
-                    "5061"
-                ]
+                "references": [
+                    "7",
+                    "49"
+                ],
+                "specification": "168"
             }
         },
         {
@@ -705,14 +593,11 @@
             "subpath": {
                 "en": "#sec-15.4.5.2"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "76",
-                "features": [
-                    "5061"
-                ]
+                "references": [
+                    "5"
+                ],
+                "specification": "76"
             }
         },
         {
@@ -724,14 +609,11 @@
             "subpath": {
                 "en": "#sec-properties-of-array-instances-length"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "77",
-                "features": [
-                    "5061"
-                ]
+                "references": [
+                    "6"
+                ],
+                "specification": "77"
             }
         },
         {
@@ -743,14 +625,11 @@
             "subpath": {
                 "en": "#AnimationEvent-interface"
             },
-            "note": {
-                "en": "Initial definition."
-            },
             "links": {
-                "specification": "11",
-                "features": [
-                    "7"
-                ]
+                "references": [
+                    "52"
+                ],
+                "specification": "11"
             }
         },
         {
@@ -762,14 +641,11 @@
             "subpath": {
                 "en": "core.html#ID-637646024"
             },
-            "note": {
-                "en": "Initial definition"
-            },
             "links": {
-                "specification": "68",
-                "features": [
-                    "1424"
-                ]
+                "references": [
+                    "55"
+                ],
+                "specification": "68"
             }
         },
         {
@@ -781,14 +657,11 @@
             "subpath": {
                 "en": "#interface-attr"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "71",
-                "features": [
-                    "1424"
-                ]
+                "references": [
+                    "54"
+                ],
+                "specification": "71"
             }
         },
         {
@@ -800,14 +673,11 @@
             "subpath": {
                 "en": "the-button-element.html#the-keygen-element"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "91",
-                "features": [
-                    "945"
-                ]
+                "references": [
+                    "29"
+                ],
+                "specification": "91"
             }
         },
         {
@@ -819,14 +689,11 @@
             "subpath": {
                 "en": "forms.html#the-keygen-element"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "93",
-                "features": [
-                    "945"
-                ]
+                "references": [
+                    "28"
+                ],
+                "specification": "93"
             }
         },
         {
@@ -838,14 +705,11 @@
             "subpath": {
                 "en": "visuren.html#choose-position"
             },
-            "note": {
-                "en": "Initial definition"
-            },
             "links": {
-                "specification": "10",
-                "features": [
-                    "698"
-                ]
+                "references": [
+                    "32"
+                ],
+                "specification": "10"
             }
         },
         {
@@ -857,14 +721,11 @@
             "subpath": {
                 "en": "#border"
             },
-            "note": {
-                "en": "Initial definition"
-            },
             "links": {
-                "specification": "9",
-                "features": [
-                    "665"
-                ]
+                "references": [
+                    "47"
+                ],
+                "specification": "9"
             }
         },
         {
@@ -876,14 +737,11 @@
             "subpath": {
                 "en": "box.html#border-shorthand-properties"
             },
-            "note": {
-                "en": "Accepts the <code>inherit</code> keyword. Also accepts <code>transparent</code> as a valid color."
-            },
             "links": {
-                "specification": "10",
-                "features": [
-                    "665"
-                ]
+                "references": [
+                    "48"
+                ],
+                "specification": "10"
             }
         },
         {
@@ -895,14 +753,11 @@
             "subpath": {
                 "en": "#the-border-shorthands"
             },
-            "note": {
-                "en": "Technically removes the support for <code>transparent</code> as it is now a valid <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/color_value\"><code>&lt;color&gt;</code></a>; this has no practical influence. <br> Though it cannot be set to another value using the shorthand, <code>border</code> does now reset <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/border-image\"><code>border-image</code></a> to its initial value ( <code>none</code> )."
-            },
             "links": {
-                "specification": "12",
-                "features": [
-                    "665"
-                ]
+                "references": [
+                    "46"
+                ],
+                "specification": "12"
             }
         },
         {
@@ -914,14 +769,11 @@
             "subpath": {
                 "en": "visuren.html#propdef-position"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "10",
-                "features": [
-                    "814"
-                ]
+                "references": [
+                    "26"
+                ],
+                "specification": "10"
             }
         },
         {
@@ -933,14 +785,11 @@
             "subpath": {
                 "en": "#position-property"
             },
-            "note": {
-                "en": "Adds <code>sticky</code> property value"
-            },
             "links": {
-                "specification": "35",
-                "features": [
-                    "814"
-                ]
+                "references": [
+                    "27"
+                ],
+                "specification": "35"
             }
         },
         {
@@ -952,14 +801,9 @@
             "subpath": {
                 "en": "#anchor-pseudo-classes"
             },
-            "note": {
-                "en": "Initial definition."
-            },
             "links": {
-                "specification": "9",
-                "features": [
-                    "6722"
-                ]
+                "references": [],
+                "specification": "9"
             }
         },
         {
@@ -971,14 +815,9 @@
             "subpath": {
                 "en": "selector.html#dynamic-pseudo-classes"
             },
-            "note": {
-                "en": "No change."
-            },
             "links": {
-                "specification": "10",
-                "features": [
-                    "6722"
-                ]
+                "references": [],
+                "specification": "10"
             }
         },
         {
@@ -990,14 +829,9 @@
             "subpath": {
                 "en": "#useraction-pseudos"
             },
-            "note": {
-                "en": "No change."
-            },
             "links": {
-                "specification": "38",
-                "features": [
-                    "6722"
-                ]
+                "references": [],
+                "specification": "38"
             }
         },
         {
@@ -1009,14 +843,9 @@
             "subpath": {
                 "en": "#active-pseudo"
             },
-            "note": {
-                "en": "No change."
-            },
             "links": {
-                "specification": "52",
-                "features": [
-                    "6722"
-                ]
+                "references": [],
+                "specification": "52"
             }
         },
         {
@@ -1028,14 +857,11 @@
             "subpath": {
                 "en": "#idl-def-IDBCursor"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "98",
-                "features": [
-                    "196"
-                ]
+                "references": [
+                    "53"
+                ],
+                "specification": "98"
             }
         },
         {
@@ -1047,14 +873,11 @@
             "subpath": {
                 "en": "#sec-promise-objects"
             },
-            "note": {
-                "en": "Initial definition in an ECMA standard."
-            },
             "links": {
-                "specification": "77",
-                "features": [
-                    "1018"
-                ]
+                "references": [
+                    "22"
+                ],
+                "specification": "77"
             }
         },
         {
@@ -1066,14 +889,11 @@
             "subpath": {
                 "en": "#sec-promise-objects"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "190",
-                "features": [
-                    "1018"
-                ]
+                "references": [
+                    "21"
+                ],
+                "specification": "190"
             }
         },
         {
@@ -1085,14 +905,11 @@
             "subpath": {
                 "en": "#sec-promise.prototype"
             },
-            "note": {
-                "en": "Initial definition."
-            },
             "links": {
-                "specification": "77",
-                "features": [
-                    "5347"
-                ]
+                "references": [
+                    "33"
+                ],
+                "specification": "77"
             }
         },
         {
@@ -1104,14 +921,11 @@
             "subpath": {
                 "en": "#sec-promise.prototype"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "190",
-                "features": [
-                    "5347"
-                ]
+                "references": [
+                    "34"
+                ],
+                "specification": "190"
             }
         },
         {
@@ -1123,14 +937,11 @@
             "subpath": {
                 "en": "#sec-promise.all"
             },
-            "note": {
-                "en": "Initial definition in an ECMA standard."
-            },
             "links": {
-                "specification": "77",
-                "features": [
-                    "5346"
-                ]
+                "references": [
+                    "42"
+                ],
+                "specification": "77"
             }
         },
         {
@@ -1142,14 +953,11 @@
             "subpath": {
                 "en": "#sec-promise.all"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "190",
-                "features": [
-                    "5346"
-                ]
+                "references": [
+                    "41"
+                ],
+                "specification": "190"
             }
         },
         {
@@ -1161,14 +969,11 @@
             "subpath": {
                 "en": "#sec-promise.prototype.catch"
             },
-            "note": {
-                "en": "Initial definition in an ECMA standard."
-            },
             "links": {
-                "specification": "77",
-                "features": [
-                    "5345"
-                ]
+                "references": [
+                    "36"
+                ],
+                "specification": "77"
             }
         },
         {
@@ -1180,14 +985,11 @@
             "subpath": {
                 "en": "#sec-promise.prototype.catch"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "190",
-                "features": [
-                    "5345"
-                ]
+                "references": [
+                    "35"
+                ],
+                "specification": "190"
             }
         },
         {
@@ -1199,14 +1001,11 @@
             "subpath": {
                 "en": "#sec-promise.race"
             },
-            "note": {
-                "en": "Initial definition in an ECMA standard."
-            },
             "links": {
-                "specification": "77",
-                "features": [
-                    "5350"
-                ]
+                "references": [
+                    "16"
+                ],
+                "specification": "77"
             }
         },
         {
@@ -1218,14 +1017,11 @@
             "subpath": {
                 "en": "#sec-promise.race"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "190",
-                "features": [
-                    "5350"
-                ]
+                "references": [
+                    "15"
+                ],
+                "specification": "190"
             }
         },
         {
@@ -1237,14 +1033,11 @@
             "subpath": {
                 "en": "#sec-promise.reject"
             },
-            "note": {
-                "en": "Initial definition in an ECMA standard."
-            },
             "links": {
-                "specification": "77",
-                "features": [
-                    "5349"
-                ]
+                "references": [
+                    "20"
+                ],
+                "specification": "77"
             }
         },
         {
@@ -1256,14 +1049,11 @@
             "subpath": {
                 "en": "#sec-promise.reject"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "190",
-                "features": [
-                    "5349"
-                ]
+                "references": [
+                    "19"
+                ],
+                "specification": "190"
             }
         },
         {
@@ -1275,14 +1065,11 @@
             "subpath": {
                 "en": "#sec-promise.resolve"
             },
-            "note": {
-                "en": "Initial definition in an ECMA standard."
-            },
             "links": {
-                "specification": "77",
-                "features": [
-                    "5348"
-                ]
+                "references": [
+                    "18"
+                ],
+                "specification": "77"
             }
         },
         {
@@ -1294,14 +1081,11 @@
             "subpath": {
                 "en": "#sec-promise.resolve"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "190",
-                "features": [
-                    "5348"
-                ]
+                "references": [
+                    "17"
+                ],
+                "specification": "190"
             }
         },
         {
@@ -1313,14 +1097,11 @@
             "subpath": {
                 "en": "#sec-promise.prototype.then"
             },
-            "note": {
-                "en": "Initial definition in an ECMA standard."
-            },
             "links": {
-                "specification": "77",
-                "features": [
-                    "5351"
-                ]
+                "references": [
+                    "40"
+                ],
+                "specification": "77"
             }
         },
         {
@@ -1332,14 +1113,11 @@
             "subpath": {
                 "en": "#sec-promise.prototype.then"
             },
-            "note": {
-                "en": ""
-            },
             "links": {
-                "specification": "190",
-                "features": [
-                    "5351"
-                ]
+                "references": [
+                    "39"
+                ],
+                "specification": "190"
             }
         },
         {
@@ -1351,25 +1129,68 @@
             "subpath": {
                 "en": "#float"
             },
-            "note": {
-                "en": "Lots of new values, not all clearly defined yet. Any differences in behavior unrelated to new features are expected to be unintentional; please report."
+            "links": {
+                "references": [
+                    "1"
+                ],
+                "specification": "14"
+            }
+        },
+        {
+            "id": "117",
+            "number": null,
+            "name": {
+                "en": "Intl.NumberFormat"
+            },
+            "subpath": {
+                "en": "#sec-11.1"
             },
             "links": {
-                "specification": "14",
-                "features": [
-                    "741"
-                ]
+                "references": [],
+                "specification": "75"
+            }
+        },
+        {
+            "id": "118",
+            "number": null,
+            "name": {
+                "en": "Object.getOwnPropertyDescriptor"
+            },
+            "subpath": {
+                "en": "#sec-15.2.3.3"
+            },
+            "links": {
+                "references": [
+                    "37"
+                ],
+                "specification": "76"
+            }
+        },
+        {
+            "id": "119",
+            "number": null,
+            "name": {
+                "en": "Object.getOwnPropertyDescriptor"
+            },
+            "subpath": {
+                "en": "#sec-object.getownpropertydescriptor"
+            },
+            "links": {
+                "references": [
+                    "38"
+                ],
+                "specification": "77"
             }
         }
     ],
     "links": {
+        "sections.references": {
+            "type": "references",
+            "href": "https://browsercompat.herokuapp.com/api/v1/references/{sections.references}"
+        },
         "sections.specification": {
             "type": "specifications",
             "href": "https://browsercompat.herokuapp.com/api/v1/specifications/{sections.specification}"
-        },
-        "sections.features": {
-            "type": "features",
-            "href": "https://browsercompat.herokuapp.com/api/v1/features/{sections.features}"
         }
     },
     "meta": {
@@ -1377,7 +1198,7 @@
             "sections": {
                 "previous": null,
                 "next": null,
-                "count": 71
+                "count": 74
             }
         }
     }

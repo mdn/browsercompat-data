@@ -2255,182 +2255,6 @@
             }
         },
         {
-            "id": "294",
-            "support": "no",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "1",
-                "feature": "6979"
-            }
-        },
-        {
-            "id": "295",
-            "support": "no",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "20",
-                "feature": "6979"
-            }
-        },
-        {
-            "id": "296",
-            "support": "no",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "67",
-                "feature": "6979"
-            }
-        },
-        {
-            "id": "297",
-            "support": "no",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "97",
-                "feature": "6979"
-            }
-        },
-        {
-            "id": "298",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "293",
-                "feature": "6979"
-            }
-        },
-        {
-            "id": "299",
-            "support": "no",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "137",
-                "feature": "6979"
-            }
-        },
-        {
-            "id": "300",
-            "support": "no",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "151",
-                "feature": "6979"
-            }
-        },
-        {
-            "id": "301",
-            "support": "no",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "166",
-                "feature": "6979"
-            }
-        },
-        {
-            "id": "302",
-            "support": "no",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "212",
-                "feature": "6979"
-            }
-        },
-        {
-            "id": "303",
-            "support": "no",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "235",
-                "feature": "6979"
-            }
-        },
-        {
-            "id": "304",
-            "support": "no",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "254",
-                "feature": "6979"
-            }
-        },
-        {
             "id": "324",
             "support": "yes",
             "prefix": null,
@@ -2924,296 +2748,6 @@
             "links": {
                 "version": "250",
                 "feature": "7158"
-            }
-        },
-        {
-            "id": "354",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "2",
-                "feature": "6722"
-            }
-        },
-        {
-            "id": "355",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "21",
-                "feature": "6722"
-            }
-        },
-        {
-            "id": "356",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "98",
-                "feature": "6722"
-            }
-        },
-        {
-            "id": "357",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "68",
-                "feature": "6722"
-            }
-        },
-        {
-            "id": "358",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "156",
-                "feature": "6722"
-            }
-        },
-        {
-            "id": "359",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "140",
-                "feature": "6722"
-            }
-        },
-        {
-            "id": "360",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "173",
-                "feature": "6722"
-            }
-        },
-        {
-            "id": "361",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "216",
-                "feature": "6722"
-            }
-        },
-        {
-            "id": "362",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "236",
-                "feature": "6722"
-            }
-        },
-        {
-            "id": "363",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "255",
-                "feature": "6722"
-            }
-        },
-        {
-            "id": "364",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "2",
-                "feature": "7159"
-            }
-        },
-        {
-            "id": "365",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "21",
-                "feature": "7159"
-            }
-        },
-        {
-            "id": "366",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "98",
-                "feature": "7159"
-            }
-        },
-        {
-            "id": "367",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "68",
-                "feature": "7159"
-            }
-        },
-        {
-            "id": "368",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "162",
-                "feature": "7159"
-            }
-        },
-        {
-            "id": "369",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "176",
-                "feature": "7159"
-            }
-        },
-        {
-            "id": "370",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": {
-                "en": "By default, Safari Mobile does not use the <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/:active\"><code>:active</code></a> state unless there is a <a href=\"https://developer.mozilla.org/en-US/docs/Web/Reference/Events/touchstart\"><code>touchstart</code></a> event handler on the relevant element or on the <code>&lt;body&gt;</code>."
-            },
-            "links": {
-                "version": "254",
-                "feature": "7159"
-            }
-        },
-        {
-            "id": "371",
-            "support": "yes",
-            "prefix": null,
-            "prefix_mandatory": false,
-            "alternate_name": null,
-            "alternate_mandatory": false,
-            "requires_config": null,
-            "default_config": null,
-            "protected": false,
-            "note": null,
-            "links": {
-                "version": "236",
-                "feature": "7159"
             }
         },
         {
@@ -8303,6 +7837,262 @@
                 "version": "260",
                 "feature": "7369"
             }
+        },
+        {
+            "id": "688",
+            "support": "no",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "1",
+                "feature": "1014"
+            }
+        },
+        {
+            "id": "689",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "44",
+                "feature": "1014"
+            }
+        },
+        {
+            "id": "690",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "62",
+                "feature": "1014"
+            }
+        },
+        {
+            "id": "691",
+            "support": "no",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "97",
+                "feature": "1014"
+            }
+        },
+        {
+            "id": "692",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "95",
+                "feature": "1014"
+            }
+        },
+        {
+            "id": "693",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "165",
+                "feature": "1014"
+            }
+        },
+        {
+            "id": "694",
+            "support": "no",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "137",
+                "feature": "1014"
+            }
+        },
+        {
+            "id": "695",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "203",
+                "feature": "1014"
+            }
+        },
+        {
+            "id": "696",
+            "support": "no",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "212",
+                "feature": "1014"
+            }
+        },
+        {
+            "id": "697",
+            "support": "no",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "235",
+                "feature": "1014"
+            }
+        },
+        {
+            "id": "698",
+            "support": "no",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "254",
+                "feature": "1014"
+            }
+        },
+        {
+            "id": "699",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "25",
+                "feature": "5313"
+            }
+        },
+        {
+            "id": "700",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "76",
+                "feature": "5313"
+            }
+        },
+        {
+            "id": "701",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "162",
+                "feature": "5313"
+            }
+        },
+        {
+            "id": "702",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "197",
+                "feature": "5313"
+            }
+        },
+        {
+            "id": "703",
+            "support": "yes",
+            "prefix": null,
+            "prefix_mandatory": false,
+            "alternate_name": null,
+            "alternate_mandatory": false,
+            "requires_config": null,
+            "default_config": null,
+            "protected": false,
+            "note": null,
+            "links": {
+                "version": "246",
+                "feature": "5313"
+            }
         }
     ],
     "links": {
@@ -8320,7 +8110,7 @@
             "supports": {
                 "previous": null,
                 "next": null,
-                "count": 515
+                "count": 502
             }
         }
     }

@@ -56,7 +56,7 @@
                 "en": "https://w3c.github.io/beacon/"
             },
             "links": {
-                "maturity": "1",
+                "maturity": "3",
                 "sections": []
             }
         },
@@ -382,7 +382,7 @@
                 "en": "https://drafts.csswg.org/css-break-3/"
             },
             "links": {
-                "maturity": "1",
+                "maturity": "2",
                 "sections": []
             }
         },
@@ -799,7 +799,7 @@
                 "en": "https://drafts.csswg.org/css-text-4/"
             },
             "links": {
-                "maturity": "3",
+                "maturity": "1",
                 "sections": []
             }
         },
@@ -1134,7 +1134,9 @@
             },
             "links": {
                 "maturity": "7",
-                "sections": []
+                "sections": [
+                    "117"
+                ]
             }
         },
         {
@@ -1153,6 +1155,7 @@
                     "17",
                     "40",
                     "43",
+                    "118",
                     "49"
                 ]
             }
@@ -1181,6 +1184,7 @@
                     "108",
                     "110",
                     "112",
+                    "119",
                     "114"
                 ]
             }
@@ -1208,10 +1212,10 @@
                 "en": "Encoding"
             },
             "uri": {
-                "en": "https://encoding.spec.whatwg.org/"
+                "en": "http://www.w3.org/TR/encoding/"
             },
             "links": {
-                "maturity": "5",
+                "maturity": "2",
                 "sections": []
             }
         },
@@ -1526,10 +1530,10 @@
                 "en": "Manifest for web application"
             },
             "uri": {
-                "en": "https://w3c.github.io/manifest/"
+                "en": "http://www.w3.org/TR/appmanifest/"
             },
             "links": {
-                "maturity": "1",
+                "maturity": "5",
                 "sections": []
             }
         },
@@ -1856,7 +1860,7 @@
                 "en": "Service Workers"
             },
             "uri": {
-                "en": "https://slightlyoff.github.io/ServiceWorker/spec/service_worker/"
+                "en": "https://www.w3.org/TR/service-workers/"
             },
             "links": {
                 "maturity": "1",
@@ -2054,7 +2058,7 @@
                 "en": "https://notifications.spec.whatwg.org/"
             },
             "links": {
-                "maturity": "5",
+                "maturity": "4",
                 "sections": []
             }
         },
@@ -2066,7 +2070,7 @@
                 "en": "Web Speech API"
             },
             "uri": {
-                "en": "https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html"
+                "en": "https://dvcs.w3.org/hg/speech-api/raw-file/tip/webspeechapi.html"
             },
             "links": {
                 "maturity": "6",
@@ -2114,7 +2118,7 @@
                 "en": "https://w3c.github.io/workers/"
             },
             "links": {
-                "maturity": "2",
+                "maturity": "3",
                 "sections": []
             }
         },
@@ -2400,7 +2404,7 @@
                 "en": "Referrer Policy"
             },
             "uri": {
-                "en": "https://w3c.github.io/webappsec/specs/referrer-policy/"
+                "en": "https://w3c.github.io/webappsec-referrer-policy/"
             },
             "links": {
                 "maturity": "1",
@@ -2930,6 +2934,471 @@
                 "maturity": "1",
                 "sections": []
             }
+        },
+        {
+            "id": "192",
+            "slug": "background_sync",
+            "mdn_key": "Background Sync",
+            "name": {
+                "en": "Web Background Synchronization"
+            },
+            "uri": {
+                "en": "https://wicg.github.io/BackgroundSync/spec/"
+            },
+            "links": {
+                "maturity": "5",
+                "sections": []
+            }
+        },
+        {
+            "id": "193",
+            "slug": "background_tasks",
+            "mdn_key": "Background Tasks",
+            "name": {
+                "en": "Cooperative Scheduling of Background Tasks"
+            },
+            "uri": {
+                "en": "https://w3c.github.io/requestidlecallback/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "194",
+            "slug": "compat",
+            "mdn_key": "Compat",
+            "name": {
+                "en": "Web Compatibility Standard"
+            },
+            "uri": {
+                "en": "https://compat.spec.whatwg.org"
+            },
+            "links": {
+                "maturity": "5",
+                "sections": []
+            }
+        },
+        {
+            "id": "195",
+            "slug": "es_int_draft",
+            "mdn_key": "ES Int Draft",
+            "name": {
+                "en": "ECMAScript Internationalization API 3.0 (ECMA-402)"
+            },
+            "uri": {
+                "en": "http://tc39.github.io/ecma402/"
+            },
+            "links": {
+                "maturity": "6",
+                "sections": []
+            }
+        },
+        {
+            "id": "196",
+            "slug": "frame_timing",
+            "mdn_key": "Frame Timing",
+            "name": {
+                "en": "Frame Timing"
+            },
+            "uri": {
+                "en": "https://w3c.github.io/frame-timing/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "197",
+            "slug": "hsts",
+            "mdn_key": "HSTS",
+            "name": {
+                "en": "HTTP Strict Transport Security (HSTS)"
+            },
+            "uri": {
+                "en": "https://tools.ietf.org/html/rfc6797/"
+            },
+            "links": {
+                "maturity": "9",
+                "sections": []
+            }
+        },
+        {
+            "id": "198",
+            "slug": "highres_time_level_2",
+            "mdn_key": "Highres Time Level 2",
+            "name": {
+                "en": "High Resolution Time Level 2"
+            },
+            "uri": {
+                "en": "https://w3c.github.io/hr-time/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "199",
+            "slug": "inputdevicecapabilities",
+            "mdn_key": "InputDeviceCapabilities",
+            "name": {
+                "en": "InputDeviceCapabilities"
+            },
+            "uri": {
+                "en": "http://wicg.github.io/InputDeviceCapabilities/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "200",
+            "slug": "javascript",
+            "mdn_key": "JavaScript",
+            "name": {
+                "en": "JavaScript, a.k.a. Web ECMAScript"
+            },
+            "uri": {
+                "en": "https://javascript.spec.whatwg.org/"
+            },
+            "links": {
+                "maturity": "5",
+                "sections": []
+            }
+        },
+        {
+            "id": "201",
+            "slug": "navigation_timing_level_2",
+            "mdn_key": "Navigation Timing Level 2",
+            "name": {
+                "en": "Navigation Timing Level 2"
+            },
+            "uri": {
+                "en": "https://w3c.github.io/navigation-timing/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "202",
+            "slug": "performance_timeline",
+            "mdn_key": "Performance Timeline",
+            "name": {
+                "en": "Performance Timeline"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/performance-timeline/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "203",
+            "slug": "performance_timeline_level_2",
+            "mdn_key": "Performance Timeline Level 2",
+            "name": {
+                "en": "Performance Timeline Time Level 2"
+            },
+            "uri": {
+                "en": "https://w3c.github.io/performance-timeline/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "204",
+            "slug": "pointer_events_2",
+            "mdn_key": "Pointer Events 2",
+            "name": {
+                "en": "Pointer Events \u2013 Level 2"
+            },
+            "uri": {
+                "en": "https://w3c.github.io/pointerevents/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "205",
+            "slug": "preload",
+            "mdn_key": "Preload",
+            "name": {
+                "en": "Preload"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/preload/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "206",
+            "slug": "resource_timing",
+            "mdn_key": "Resource Timing",
+            "name": {
+                "en": "Resource Timing"
+            },
+            "uri": {
+                "en": "https://w3c.github.io/resource-timing/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "207",
+            "slug": "secure_contexts",
+            "mdn_key": "Secure Contexts",
+            "name": {
+                "en": "Secure Contexts"
+            },
+            "uri": {
+                "en": "https://w3c.github.io/webappsec-secure-contexts/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "208",
+            "slug": "shared_memory",
+            "mdn_key": "Shared Memory",
+            "name": {
+                "en": "ECMAScript Shared Memory and Atomics"
+            },
+            "uri": {
+                "en": "http://tc39.github.io/ecmascript_sharedmem/shmem.html"
+            },
+            "links": {
+                "maturity": "6",
+                "sections": []
+            }
+        },
+        {
+            "id": "209",
+            "slug": "touch_events_2",
+            "mdn_key": "Touch Events 2",
+            "name": {
+                "en": "Touch Events \u2013 Level 2"
+            },
+            "uri": {
+                "en": "https://w3c.github.io/touch-events/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "210",
+            "slug": "user_timing",
+            "mdn_key": "User Timing",
+            "name": {
+                "en": "User Timing"
+            },
+            "uri": {
+                "en": "http://www.w3.org/TR/user-timing/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "211",
+            "slug": "user_timing_level_2",
+            "mdn_key": "User Timing Level 2",
+            "name": {
+                "en": "User Timing"
+            },
+            "uri": {
+                "en": "https://w3c.github.io/user-timing/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "212",
+            "slug": "web_background_sync",
+            "mdn_key": "Web Background Sync",
+            "name": {
+                "en": "Web Background Synchronization"
+            },
+            "uri": {
+                "en": "https://wicg.github.io/BackgroundSync/spec/"
+            },
+            "links": {
+                "maturity": "5",
+                "sections": []
+            }
+        },
+        {
+            "id": "213",
+            "slug": "web_usb",
+            "mdn_key": "Web USB",
+            "name": {
+                "en": "WebUSB"
+            },
+            "uri": {
+                "en": "http://reillyeon.github.io/webusb/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "214",
+            "slug": "css_round_display",
+            "mdn_key": "CSS Round Display",
+            "name": {
+                "en": "CSS Round Display Level&nbsp;1"
+            },
+            "uri": {
+                "en": "https://drafts.csswg.org/css-round-display/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "215",
+            "slug": "css3_transitions_level_2",
+            "mdn_key": "CSS3 Transitions Level 2",
+            "name": {
+                "en": "CSS Transitions Level 2"
+            },
+            "uri": {
+                "en": "https://drafts.csswg.org/css-transitions-2/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "216",
+            "slug": "css4_basic_ui",
+            "mdn_key": "CSS4 Basic UI",
+            "name": {
+                "en": "CSS Basic User Interface Module Level&nbsp;4"
+            },
+            "uri": {
+                "en": "https://drafts.csswg.org/css-ui-4/"
+            },
+            "links": {
+                "maturity": "1",
+                "sections": []
+            }
+        },
+        {
+            "id": "217",
+            "slug": "presentation",
+            "mdn_key": "Presentation",
+            "name": {
+                "en": "Presentation API"
+            },
+            "uri": {
+                "en": "http://w3c.github.io/presentation-api/"
+            },
+            "links": {
+                "maturity": "3",
+                "sections": []
+            }
+        },
+        {
+            "id": "218",
+            "slug": "ext_texture_filter_anisotropic",
+            "mdn_key": "EXT_texture_filter_anisotropic",
+            "name": {
+                "en": "EXT_texture_filter_anisotropic"
+            },
+            "uri": {
+                "en": "https://www.khronos.org/registry/webgl/extensions/EXT_texture_filter_anisotropic/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
+        },
+        {
+            "id": "219",
+            "slug": "opengl_es_3_0",
+            "mdn_key": "OpenGL ES 3.0",
+            "name": {
+                "en": "OpenGL ES 3.0"
+            },
+            "uri": {
+                "en": "https://www.khronos.org/opengles/sdk/docs/man3/html/"
+            },
+            "links": {
+                "maturity": "7",
+                "sections": []
+            }
+        },
+        {
+            "id": "220",
+            "slug": "webgl_compressed_texture_es3",
+            "mdn_key": "WEBGL_compressed_texture_es3",
+            "name": {
+                "en": "WEBGL_compressed_texture_es3"
+            },
+            "uri": {
+                "en": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_es3/"
+            },
+            "links": {
+                "maturity": "6",
+                "sections": []
+            }
+        },
+        {
+            "id": "221",
+            "slug": "webgl_compressed_texture_pvrtc",
+            "mdn_key": "WEBGL_compressed_texture_pvrtc",
+            "name": {
+                "en": "WEBGL_compressed_texture_pvrtc"
+            },
+            "uri": {
+                "en": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_pvrtc/"
+            },
+            "links": {
+                "maturity": "6",
+                "sections": []
+            }
+        },
+        {
+            "id": "222",
+            "slug": "webgl_compressed_texture_s3tc",
+            "mdn_key": "WEBGL_compressed_texture_s3tc",
+            "name": {
+                "en": "WEBGL_compressed_texture_s3tc"
+            },
+            "uri": {
+                "en": "https://www.khronos.org/registry/webgl/extensions/WEBGL_compressed_texture_s3tc/"
+            },
+            "links": {
+                "maturity": "4",
+                "sections": []
+            }
         }
     ],
     "links": {
@@ -2947,7 +3416,7 @@
             "specifications": {
                 "previous": null,
                 "next": null,
-                "count": 189
+                "count": 220
             }
         }
     }
